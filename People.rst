@@ -9,7 +9,8 @@ Professor
     <table>
     <tr>
         <td><IMG src="_static/hyfu.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>    BEng, MSc, PhD, MIEEE, MOSA, MSPIE<br>
+        <td>Hongyan Fu<br>    
+            BEng, MSc, PhD, MIEEE, MOSA, MSPIE<br>
             Nano-Devices Laboratory<br>
             Office: Room 1501, Information Building, University Town<br>
             Office: C2-613, Nanshan Intelligent Park<br>
@@ -66,7 +67,7 @@ AFFILIATIONS AND ACTIVITIES
 Students
 ---------
 
-Current students
+Current Students
 ~~~~~~~~~~~~~~~~
 .. raw:: html
 
