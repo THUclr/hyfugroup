@@ -17,8 +17,10 @@ HYFUgroup at TBSI
    People
    Publication
    News
-   Documents
+   Resources
+
+Congratulations to our 2020 master graduates!!
 
 .. raw:: html
 
-    <IMG src="_static/Animal_ladybug_406525.jpg" width=500>
+    <IMG src="_static/group4.jpg" width=500>
