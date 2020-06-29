@@ -2,26 +2,26 @@ Research
 =====================================
 
 
-Research direction 1
----------------------
+Optical Wireless Communication
+-------------------------------
 .. raw:: html
 
-    <IMG src="_static/Animal_ladybug_406525.jpg" width=500>
+    <IMG src="_static/Animal_ladybug_406525.jpg" width=400>
 
 This is the first research direction
 
-Research direction 2
+Silicon Photonics
 ---------------------
 .. raw:: html
 
-    <IMG src="_static/Animal_ladybug_406525.jpg" width=500>
+    <IMG src="_static/Animal_ladybug_406525.jpg" width=400>
 
 This is the second research direction
 
-Research direction 3
----------------------
+Advanced Sensing Technologies
+--------------------------------
 .. raw:: html
 
-    <IMG src="_static/Animal_ladybug_406525.jpg" width=500>
+    <IMG src="_static/Animal_ladybug_406525.jpg" width=400>
     
-This is the third research direction
+Optical Nonlinearity, Microcavity Sensing, 3D-Sensing (LiDAR, OCT)

@@ -1,4 +1,4 @@
 News
 =====================================
 
-Today, we have a lecture at TBSI building.
+2020/6/29 Website online.

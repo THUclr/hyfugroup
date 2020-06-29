@@ -6,6 +6,10 @@
 HYFUgroup at TBSI
 =====================================
 
+.. raw:: html
+
+    <IMG src="_static/tbsi.png">
+
 .. toctree::
    :maxdepth: 1
 
