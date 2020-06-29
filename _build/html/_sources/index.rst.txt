@@ -3,18 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to hyfugroup's documentation!
+HYFUgroup at TBSI
 =====================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
+   Research
+   People
+   Publication
+   News
+   Documents
 
+.. raw:: html
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+    <IMG src="_static/Animal_ladybug_406525.jpg" width=500>
