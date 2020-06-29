@@ -8,8 +8,9 @@ Professor
 
     <table>
     <tr>
-        <td><IMG src="_static/hyfu.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>Hongyan Fu<br>    
+        <td><IMG src="_static/hyfu.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><b>Hongyan Fu</b>&nbsp;&nbsp; <a href="https://scholar.google.com/citations?hl=en&user=ruUJphwAAAAJ&view_op=list_works&sortby=pubdate"
+            Google Scholar>(Google Scholar Page)</a><br>    
             BEng, MSc, PhD, MIEEE, MOSA, MSPIE<br>
             Nano-Devices Laboratory<br>
             Office: Room 1501, Information Building, University Town<br>
@@ -19,7 +20,6 @@ Professor
     </table>
     <br>
     <br>
-
 
 EDUCATION
 ~~~~~~~~~~
