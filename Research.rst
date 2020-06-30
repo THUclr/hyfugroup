@@ -53,4 +53,8 @@ femtosecond mode-locked laser to set up fancy LiDAR system.
     <IMG src="_static/direction3-3.png" width=400>
 
 **Microcavity Sensing:**
-(Under construction)
+Whispering gallery mode (WGM) resonators, with superior performance compared with other resonators, 
+have emerged in recent years as versatile and ultra-sensitive technology for sensing applications, 
+which is the basis for the development of physical, chemical and biological sensors. 
+In our research group, we use micro-cavity (e.g. Microbubble) to realize different sensing applications, 
+such as ultra-low detection limit sensors.
