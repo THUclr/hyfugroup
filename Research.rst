@@ -6,7 +6,7 @@ Optical Wireless Communication
 -------------------------------
 .. raw:: html
 
-    <IMG src="_static/direction1.png" width=400>
+    <IMG src="_static/direction1.png" width=500>
 
 **Optical Wireless Communication (OWC)** is a short-range wireless access technology and an important supplement to other 
 existing wireless communication systems. Due to the high frequency of light waves, OWC has large information carrying capacity.
@@ -20,7 +20,7 @@ Silicon Photonics
 ---------------------
 .. raw:: html
 
-    <IMG src="_static/direction2.png" width=400>
+    <IMG src="_static/direction2.png" width=500>
 
 **Silicon photonics** is a promising solution to provide low-cost and high-performance integrated chip-based photonic devices and systems. 
 Currently, it is commercially driven by the increasing demand for low-cost short-range optical interconnects in data centers and the computing industry.
@@ -33,7 +33,7 @@ Advanced Sensing Technologies
 --------------------------------
 .. raw:: html
 
-    <IMG src="_static/direction3-1.png" width=400>
+    <IMG src="_static/direction3-1.png" width=500>
 
 **3D-Sensing (LiDAR, OCT):**
 FMCW LiDAR (Frequency Modulated Continuous Wave, Light Detection and Ranging) allows us to measure distance with millimeter or micrometer range 
@@ -43,14 +43,7 @@ femtosecond mode-locked laser to set up fancy LiDAR system.
 
 .. raw:: html
 
-    <IMG src="_static/direction3-2.png" width=400>
-
-**Optical Nonlinearity:**
-(Under construction)
-
-.. raw:: html
-
-    <IMG src="_static/direction3-3.png" width=400>
+    <IMG src="_static/direction3-3.png" width=500>
 
 **Microcavity Sensing:**
 Whispering gallery mode (WGM) resonators, with superior performance compared with other resonators, 
@@ -58,3 +51,11 @@ have emerged in recent years as versatile and ultra-sensitive technology for sen
 which is the basis for the development of physical, chemical and biological sensors. 
 In our research group, we use micro-cavity (e.g. Microbubble) to realize different sensing applications, 
 such as ultra-low detection limit sensors.
+
+.. raw:: html
+
+    <IMG src="_static/direction3-2.png" width=500>
+
+**Optical Nonlinearity:**
+(Under construction)
+
