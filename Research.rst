@@ -8,7 +8,7 @@ Optical Wireless Communication
 
     <IMG src="_static/Animal_ladybug_406525.jpg" width=400>
 
-(Under construction)
+**Optical Wireless Communication** (Under construction)
 
 Silicon Photonics
 ---------------------
@@ -16,7 +16,7 @@ Silicon Photonics
 
     <IMG src="_static/direction2.png" width=400>
 
-Silicon photonics is a promising solution to provide low-cost and high-performance integrated photonic devices and systems. 
+**Silicon photonics** is a promising solution to provide low-cost and high-performance integrated photonic devices and systems. 
 Currently, it is commercially driven by the increasing demand for low-cost short-range optical interconnects in data centers and the computing industry.
 In the future, it might also be attractive for applications in biosensing and light detection and ranging (LiDAR). 
 Our group focus on design of key passive integrated components including fiber-to-chip interface, waveguide crossings and multiplexing components 
@@ -27,7 +27,24 @@ Advanced Sensing Technologies
 --------------------------------
 .. raw:: html
 
+    <IMG src="_static/direction3-1.png" width=400>
+
+**3D-Sensing (LiDAR, OCT):**
+FMCW LiDAR (Frequency Modulated Continuous Wave, Light Detection and Ranging) allows us to measure distance with millimeter or micrometer range 
+resolution, which can be applied in high accuracy 3D sensing and mapping. Swept-source optical coherence tomography (SS-OCT) with high precision 
+in 3D reconstructions of biological tissues also relies on this technique. In addition, we also try to combine with other research field such as 
+femtosecond mode-locked laser to set up fancy lidar system.
+
+.. raw:: html
+
     <IMG src="_static/Animal_ladybug_406525.jpg" width=400>
-    
-Optical Nonlinearity, Microcavity Sensing, 3D-Sensing (LiDAR, OCT)
+
+**Optical Nonlinearity:**
+(Under construction)
+
+.. raw:: html
+
+    <IMG src="_static/Animal_ladybug_406525.jpg" width=400>
+
+**Microcavity Sensing:**
 (Under construction)
