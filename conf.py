@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'hyfugroup'
+project = 'HYFUgroup'
 copyright = '2020, Lirong'
 author = 'Lirong'
 
