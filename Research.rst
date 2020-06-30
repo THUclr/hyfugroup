@@ -22,7 +22,7 @@ Silicon Photonics
 
     <IMG src="_static/direction2.png" width=400>
 
-**Silicon photonics** is a promising solution to provide low-cost and high-performance integrated photonic devices and systems. 
+**Silicon photonics** is a promising solution to provide low-cost and high-performance integrated chip-based photonic devices and systems. 
 Currently, it is commercially driven by the increasing demand for low-cost short-range optical interconnects in data centers and the computing industry.
 In the future, it might also be attractive for applications in biosensing and light detection and ranging (LiDAR). 
 Our group focus on design of key passive integrated components including fiber-to-chip interface, waveguide crossings and multiplexing components 
@@ -43,14 +43,14 @@ femtosecond mode-locked laser to set up fancy LiDAR system.
 
 .. raw:: html
 
-    <IMG src="_static/Animal_ladybug_406525.jpg" width=400>
+    <IMG src="_static/direction3-2.png" width=400>
 
 **Optical Nonlinearity:**
 (Under construction)
 
 .. raw:: html
 
-    <IMG src="_static/Animal_ladybug_406525.jpg" width=400>
+    <IMG src="_static/direction3-3.png" width=400>
 
 **Microcavity Sensing:**
 (Under construction)

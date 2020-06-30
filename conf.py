@@ -77,7 +77,7 @@ pygments_style = 'sphinx'
 import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-
+html_title = "HYFUgroup Photonics Lab"
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -104,7 +104,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'hyfugroupdoc'
+htmlhelp_basename = 'HYFUgroup'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -131,7 +131,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'hyfugroup.tex', 'hyfugroup Documentation',
+    (master_doc, 'hyfugroup.tex', 'HYFUgroup photonics lab',
      'Lirong', 'manual'),
 ]
 
@@ -141,7 +141,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'hyfugroup', 'hyfugroup Documentation',
+    (master_doc, 'hyfugroup', 'HYFUgroup photonics lab',
      [author], 1)
 ]
 
@@ -152,7 +152,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'hyfugroup', 'hyfugroup Documentation',
-     author, 'hyfugroup', 'One line description of project.',
+    (master_doc, 'hyfugroup', 'HYFUgroup photonics lab',
+     author, 'hyfugroup', 'Lab webpage',
      'Miscellaneous'),
 ]
