@@ -4,10 +4,12 @@ Publications
 Visit our latest publications on \ `Google Scholar <https://scholar.google.com/citations?hl=en&user=ruUJphwAAAAJ&view_op=list_works&sortby=pubdate>`_ 
 
 Book Chapters
-~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
 
 [1] Chun-Liu Zhao, Xinyong Dong, H. Y. Fu, and H. Y. Tam, “Photonic crystal fiber loop mirrors and their applications,” in Recent Progress in Optical Fiber Research, ISBN: 978-953-307-823-6, InTech, (2012).
-Invited Talks:
+
+Invited Talks
+~~~~~~~~~~~~~~
 
 [2] H. Y. Fu, Zixian Wei, Simei Mao, Xin Mu and Alberto Pepe “VCSEL-based Optical Wireless Communications”, The 11th International Conference on Advanced Infocomm Technology (ICAIT), Session on Optical Communications, Jinan, China, Oct. 18th -20th, 2019.
 
