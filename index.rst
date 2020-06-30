@@ -11,6 +11,7 @@ HYFUgroup at TBSI
     <IMG src="_static/tbsi.png">
 
 .. toctree::
+   :hidden:
    :maxdepth: 1
 
    Research

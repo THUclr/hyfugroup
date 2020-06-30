@@ -24,9 +24,9 @@ copyright = '2020, Lirong'
 author = 'Lirong'
 
 # The short X.Y version
-version = ''
+version = '0.4'
 # The full version, including alpha/beta/rc tags
-release = ''
+release = 'v0.4'
 
 
 # -- General configuration ---------------------------------------------------
