@@ -56,6 +56,12 @@ such as ultra-low detection limit sensors.
 
     <IMG src="_static/direction3-2.png" width=500>
 
-**Optical Nonlinearity:**
-(Under construction)
-
+| **Optical nonlinearity:**
+| **(1) Ultrafast mode-locked fiber** lasers exhibit superior thermo-optical properties and excellent beam quality, 
+ making them suitable for a wide range of applications. We have constructed several nonlinear amplifying loop 
+ mirror (NALM)-based fiber lasers, which can generate pulses with good optical performance or interesting nonlinear phenomena. 
+| **(2)** Much efforts have made to the generation of broadband light due to its promising applications such as high-precision
+ frequency metrology, optical coherence tomography and optical communications. We have demonstrated **supercontinuum generation**
+ in a highly nonlinear dispersion shifted fiber. 
+|
+ 

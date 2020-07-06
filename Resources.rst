@@ -7,7 +7,7 @@ Resources
     <a href="http://hyfugroup.quickconnect.cn/" Internal access> ==== Click here to visit our NAS ==== </a><br><br>
     <a href="http://www.tbsi.edu.cn/" TBSI homepage> Tsinghua-Berkeley Shenzhen Institute </a><br><br>
 
-Contact Prof.Fu via e-mail: \ `hyfu@sz.tsinghua.edu.cn <mailto:hyfu@sz.tsinghua.edu.cn>`_
+Contact Prof. Fu via e-mail: \ `hyfu@sz.tsinghua.edu.cn <mailto:hyfu@sz.tsinghua.edu.cn>`_
 
 Contact us via e-mail: \ `admin@hyfu.group <mailto:admin@hyfu.group>`_
 
