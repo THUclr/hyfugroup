@@ -11,19 +11,19 @@ Chun-Liu Zhao, Xinyong Dong, H. Y. Fu, and H. Y. Tam, “Photonic crystal fiber 
 Invited Talks
 ~~~~~~~~~~~~~~
 
-H. Y. Fu, Zixian Wei, Simei Mao, Xin Mu and Alberto Pepe “VCSEL-based Optical Wireless Communications”, The 11th International Conference on Advanced Infocomm Technology (ICAIT), Session on Optical Communications, Jinan, China, Oct. 18th -20th, 2019.
+H.Y.Fu, Zixian Wei, Simei Mao, Xin Mu and Alberto Pepe “VCSEL-based Optical Wireless Communications”, The 11th International Conference on Advanced Infocomm Technology (ICAIT), Session on Optical Communications, Jinan, China, Oct. 18th -20th, 2019.
 
-H. Y. Fu, and Zixian Wei “Recent Progress on Optical Wireless Communications”, The 12th International Nano-Optoelectronics Workshop (iNOW), Guangzhou/Dongguan/Shenzhen, China, Jul. 21st -28th, 2019.
+H.Y.Fu, and Zixian Wei “Recent Progress on Optical Wireless Communications”, The 12th International Nano-Optoelectronics Workshop (iNOW), Guangzhou/Dongguan/Shenzhen, China, Jul. 21st -28th, 2019.
 
-H. Y. Fu, Qian Li and Renlai Zhou “Novel Devices Enabled 3D Sensing Technologies”, The 10th International Conference on Advanced Infocomm Technology (ICAIT), A003-3, Stockholm, Sweden, Aug. 12th -15th, 2018.
+H.Y.Fu, Qian Li and Renlai Zhou “Novel Devices Enabled 3D Sensing Technologies”, The 10th International Conference on Advanced Infocomm Technology (ICAIT), A003-3, Stockholm, Sweden, Aug. 12th -15th, 2018.
 
-H. Y. Fu, Qian Li and Renlai Zhou “Fiber Supercontinuum Source for 3D Sensing”, The 12th International Nano-Optoelectronics Workshop (iNOW), Th3, Berkeley, CA, USA, Jul. 21st -28th, 2018.
+H.Y.Fu, Qian Li and Renlai Zhou “Fiber Supercontinuum Source for 3D Sensing”, The 12th International Nano-Optoelectronics Workshop (iNOW), Th3, Berkeley, CA, USA, Jul. 21st -28th, 2018.
 
-H. Y. Fu, “Silicon Photonic Switches for Data Communications”, The 11th International Nano-Optoelectronics Workshop (iNOW), Tianjin, Aug. 4th -12th, 2017.
+H.Y.Fu, “Silicon Photonic Switches for Data Communications”, The 11th International Nano-Optoelectronics Workshop (iNOW), Tianjin, Aug. 4th -12th, 2017.
 
-H. Y. Fu, “Silicon Photonic Switches and Their Applications for Data Center”, The 15th International Conference on Optical Communications & Networks (ICOCN), Hangzhou, Sep. 24th -27th, 2016.
+H.Y.Fu, “Silicon Photonic Switches and Their Applications for Data Center”, The 15th International Conference on Optical Communications & Networks (ICOCN), Hangzhou, Sep. 24th -27th, 2016.
 
-H. Y. Fu, “Next Generation Optical Networking and Driving Beyond 100G, an Optical Internetworking forum (OIF) perspective”, WDM & Next Generation Optical Networking APAC, Singapore, Jan. 29th -31st, 2013.
+H.Y.Fu, “Next Generation Optical Networking and Driving Beyond 100G, an Optical Internetworking forum (OIF) perspective”, WDM & Next Generation Optical Networking APAC, Singapore, Jan. 29th -31st, 2013.
 
 Selected Journal Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -38,7 +38,7 @@ Renlai Zhou, Qian Li and H. Y. Fu, "Sub-pulses releasing from rectangular-shaped
 
 Zixian Wei, Simei Mao, Alberto Pepe, Li Zhang, Zhi Li, Xin Liu, Yingjie Chen, Yuhan Dong and H. Y. Fu, "Propagation analysis and experimental demonstration of non-line-of-sight optical wireless communication using a near-infrared VCSEL," Applied Optics, 2020
 
-Z. T. Xie, J. Wu, H. Y. Fu and Q. Li, "Tunable Electro- and All-Optical Switch Based on Epsilon-Near-Zero Metasurface," IEEE Photonics Journal, vol. 12, no. 4, pp. 1-10, 2020
+Z.T.Xie, J.Wu, H.Y.Fu and Q.Li, "Tunable Electro- and All-Optical Switch Based on Epsilon-Near-Zero Metasurface," IEEE Photonics Journal, vol. 12, no. 4, pp. 1-10, 2020
 
 Lirong Cheng, Simei Mao, Zhi Li, Yaqi Han and H. Y.Fu, "Grating Couplers on Silicon Photonics: Design Principles, Emerging Trends and Practical Issues". Micromachines, 2020
 
@@ -74,19 +74,19 @@ Jian Wang, H. Y. Fu, Dongyu Geng and Alan E. Willner, “Single-PPLN-assisted wa
 
 Chuang Wu, H. Y. Fu, Khurram Karim Qureshi, Bai-Ou Guan, and H. Y. Tam, “High pressure and high temperature characteristics of a Fabry-Perot interferometer based on photonic crystal fiber,” Optics Letters, Vol. 36, No. 3, pp. 412-414, 2011.
 
-H. Y. Au, Sunil K. Khijwania, H. Y. Fu, W. H. Chung and H. Y. Tam, “Temperature-insensitive fiber Bragg grating based tilt sensor with large dynamic range,” IEEE Journal of Lightwave Technology, Vol. 8, pp. 1714-1720, 2011.
+H.Y. Fu, Sunil K. Khijwania, H. Y. Fu, W. H. Chung and H. Y. Tam, “Temperature-insensitive fiber Bragg grating based tilt sensor with large dynamic range,” IEEE Journal of Lightwave Technology, Vol. 8, pp. 1714-1720, 2011.
 
-H. Y. Fu, Sunil K. Khijwania, H. Y. Tam, P. K. A. Wai and C. Lu, “Polarization-maintaining Photonic Crystal Fiber based All-optical Polarimetric Torsion Sensor,” Applied Optics, Vol. 49, pp. 5954-5958, 2010.
+H.Y. Fu, Sunil K. Khijwania, H. Y. Tam, P. K. A. Wai and C. Lu, “Polarization-maintaining Photonic Crystal Fiber based All-optical Polarimetric Torsion Sensor,” Applied Optics, Vol. 49, pp. 5954-5958, 2010.
 
-H. Y. Fu, Chuang Wu, M. L. V. Tse, Lin Zhang, Kei-Chun Davis Cheng, H. Y. Tam, Bai-Ou Guan, and C. Lu, “High pressure sensor based on photonic crystal fiber for downhole application,” Applied Optics, Vol. 49, pp. 2639-2643, 2010.
+H.Y. Fu, Chuang Wu, M. L. V. Tse, Lin Zhang, Kei-Chun Davis Cheng, H. Y. Tam, Bai-Ou Guan, and C. Lu, “High pressure sensor based on photonic crystal fiber for downhole application,” Applied Optics, Vol. 49, pp. 2639-2643, 2010.
 
-H. Y. Fu, A. C. L. Wong, P. A. Childs, H. Y. Tam, Y. B. Liao, C. Lu and P. K. A. Wai, “Multiplexing of Polarization-maintaining Photonic Crystal Fiber based Sagnac Interferometric Sensors,” Optics Express, Vol. 17, pp. 18501-18512, 2009.
+H.Y. Fu, A. C. L. Wong, P. A. Childs, H. Y. Tam, Y. B. Liao, C. Lu and P. K. A. Wai, “Multiplexing of Polarization-maintaining Photonic Crystal Fiber based Sagnac Interferometric Sensors,” Optics Express, Vol. 17, pp. 18501-18512, 2009.
 
-H. Y. Fu, H. L. Liu, W. H. Chung, and H. Y. Tam, “A Novel Fiber Bragg Grating Sensor Configuration for Long-distance Quasi-Distributed Measurement,” IEEE Sensors Journal, Vol. 8, pp. 1598-1602, 2008.
+H.Y. Fu, H. L. Liu, W. H. Chung, and H. Y. Tam, “A Novel Fiber Bragg Grating Sensor Configuration for Long-distance Quasi-Distributed Measurement,” IEEE Sensors Journal, Vol. 8, pp. 1598-1602, 2008.
 
-H. Y. Fu, H. Y. Tam, L. Y. Shao, X. Y. Dong, P. K. A. Wai, C. Lu, and Sunil K. Khijwania, “Pressure Sensor Realized with Polarization-maintaining Photonic Crystal Fiber based Sagnac Interferometer,” Applied Optics, Vol. 47, pp. 2835-2839, 2008. (Top 20 Most Cited articles on Applied Optics over the last 5 year, Nov. 2012)
+H.Y. Fu, H. Y. Tam, L. Y. Shao, X. Y. Dong, P. K. A. Wai, C. Lu, and Sunil K. Khijwania, “Pressure Sensor Realized with Polarization-maintaining Photonic Crystal Fiber based Sagnac Interferometer,” Applied Optics, Vol. 47, pp. 2835-2839, 2008. (Top 20 Most Cited articles on Applied Optics over the last 5 year, Nov. 2012)
 
-H. Y. Fu, H. L. Liu, X. Y. Dong, H. Y. Tam, P. K. A. Wai, and C. Lu, “High-speed Fibre Bragg Grating Sensor Interrogation Using Dispersion Compensation Fibre,” Electronics Letters, Vol. 44, pp. 618-619, 2008.
+H.Y. Fu, H. L. Liu, X. Y. Dong, H. Y. Tam, P. K. A. Wai, and C. Lu, “High-speed Fibre Bragg Grating Sensor Interrogation Using Dispersion Compensation Fibre,” Electronics Letters, Vol. 44, pp. 618-619, 2008.
 
 Selected Recent Conference Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
