@@ -44,8 +44,6 @@ Lirong Cheng, Simei Mao, Zhi Li, Yaqi Han and H. Y.Fu, "Grating Couplers on Sili
 
 Xuanyi Liu, Guanyu Liu, Renlai Zhou, Dan Yu, Jiaye Wu, H Y Fu, Zhigang Zhang and Qian Li, "An all polarization-maintaining fiber laser mode locked by nonlinear amplifying loop mirror with different biases", Laser Physics, 2020 
 
-Zixian Wei, Li Zhang, Lei Wang, Chien-Ju Chen, Zhaoming Wang, Kai-Chia Chen, Meng-Chyi Wu, Yuhan Dong, Lai Wang, Yi Luo and H. Y. Fu*, “Multi-user high-speed QAM-OFDMA visible light communication system using a 75-μm single layer quantum dot micro-LED,” Optics Express, Vol. 28, No.12, pp. 18332-18342, 2020.
-
 Zixian Wei, Li Zhang, Lei Wang, Chien-Ju Chen, Alberto Pepe, Xin Liu, Kai-Chia Chen, Meng-Chyi Wu, Yuhan Dong, Lai Wang*, Yi Luo，and H. Y. Fu*, “2 Gbps/3 m real-time air-underwater optical wireless communication with based on a single layer quantum dot blue micro-LED,” Optics Letters, 45(9), pp.2616-2619, 2020.
 
 Sailong Wu, Xin Mu, Lirong Cheng, Simei Mao and H. Y. Fu*, “State-of-the-Art and Perspectives on Silicon Waveguide Crossings: A Review,” Micromachines, Vol. 11, pp. 326, 2020.
@@ -91,13 +89,65 @@ H.Y. Fu, H. L. Liu, X. Y. Dong, H. Y. Tam, P. K. A. Wai, and C. Lu, “High-spee
 Selected Recent Conference Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Zhenmin Chen, Qian Li, and H. Y. Fu*, “Tuning stimulated Brillouin scattering by two lasers pumping in a WGM microcavity,” in Proc. of The Conference on Lasers and Electro-Optics (CLEO’2020), San Jose, California, USA, May 12th-14th, 2020.
+Alberto Pepe, Xin Liu, Faisal Nadeem Khan, and H. Y. Fu*, “Two-Stages Multimedia Data Encryption and Compression via Joint Chaotic Compressive Sensing and Latent Vector Transmission”, in Proc. of the Asia Communications and Photonics Conference (ACP’2020), Beijing, China, Oct. 2020. (Accepted)
 
-Li Zhang, Zixian Wei, Chien-Ju Chen, Lei Wang, Kai-Chia Chen, Meng-Chyi Wu, Yuhan Dong, Lai Wang*, Yi Luo, and H. Y. Fu*, “First Demonstration of Multi-user QAM-OFDMA Visible Light Communication System Based on a 75-μm Single Layer Quantum Dot Blue Micro-LED,” in Proc. of The Conference on Lasers and Electro-Optics (CLEO’2020), San Jose, California, USA, May 12th-14th, 2020.
+Simei Mao, Lirong Cheng, Sailong Wu, Xin Mu, Xin Tu, Qian Li and H. Y. Fu*, “Compact five-mode demultiplexer based on grating assisted asymmetric directional couplers,” in Proc. of the Asia Communications and Photonics Conference (ACP’2020), Beijing, China, Oct. 2020. (Accepted) 
 
-Lirong Cheng, Simei Mao, Xin Mu, Sailong Wu and H. Y. Fu*, “Dual-wavelength-band multiplexed grating coupler on multilayer SiN-on-SOI photonic integrated platform,” in Proc. of The Conference on Lasers and Electro-Optics (CLEO’2020), San Jose, California, USA, May 12th-14th, 2020.
+Keming Ma, Zixian Wei, Shi Zhang, Zhiyuan Cao, Lei Wang, Chien-Ju Chen, Meng-Chyi Wu, Lai Wang*, Yi Luo, Yuhan Dong, and H. Y. Fu*, “Impedance Characteristics Study of Packaged InGaN QD-based micro-LED for Visible Light Communication,” in Proc. of the Asia Communications and Photonics Conference (ACP’2020), Beijing, China, Oct. 2020. (Accepted) 
 
-Yang Luo，Zhenmin Chen, Qian Li, and H. Y. Fu*, “EIT-like phenomena and characteristics of cavity optomechanics in a single cavity,” in Proc. of The Conference on Lasers and Electro-Optics (CLEO’2020), San Jose, California, USA, May 12th-14th, 2020.
+Xin Liu, Zixian Wei, Alberto Pepe, Zhaoming Wang and H. Y. Fu*, “Sequence Detector based Autoencoder for ACO-OFDM Optical Wireless Communication,” in Proc. of the Asia Communications and Photonics Conference (ACP’2020), Beijing, China, Oct. 2020. (Accepted) 
+
+Lirong Cheng, Simei Mao, Xin Mu, Qian Li and H. Y. Fu*, “Silicon Photonic Vertical Few-mode Fiber Interface Designed by Adjoint Optimization,” in Proc. of the Asia Communications and Photonics Conference (ACP’2020), Beijing, China, Oct. 2020. (Accepted) 
+
+Ze Tao Xie, Jiaye Wu, H. Y. Fu and Qian Li*, “Giant Enhancement of Third- and Fifth-Harmonic Generations in Epsilon-Near-Zero Nanolayer,” in Proc. of the Asia Communications and Photonics Conference (ACP’2020), Beijing, China, Oct. 2020. (Accepted) 
+
+Zhiyuan Cao, Shi Zhang, Zixian Wei, Li Zhang, Zhaoming Wang, H. Y. Fu* and Yuhan Dong*, “High-speed Long-distance Optical Wireless Communication Based on a 940-nm VCSEL with 4.46-Gbps QAM-OFDM,” in Proc. of the Asia Communications and Photonics Conference (ACP’2020), Beijing, China, Oct. 2020. (Accepted) 
+
+Zhaoming Wang, Li Zhang, Zixian Wei, Guodan Wei, Yuhan Dong* and H. Y. Fu*, “8.23 Gbps High-speed Near-infrared VCSEL Based Facile Optical Wireless Communication System via QAM-OFDM,” in Proc. of the Asia Communications and Photonics Conference (ACP’2020), Beijing, China, Oct. 2020. (Accepted) 
+
+Shi Zhang, Zixian Wei, Zhiyuan Cao, Chien-Ju Chen, Zhaoming Wang, Li Zhang, Meng-Chyi Wu, Yuhan Dong*, and H. Y. Fu*, “Gbps Spatial Diversity Visible Light Communication System Using a Pair 75-μm Micro-LED,” in Proc. of the Asia Communications and Photonics Conference (ACP’2020), Beijing, China, Oct. 2020. (Accepted)
+
+Renlai Zhou, Xuanyi Liu, H. Y. Fu and Qian Li*, “Giant Enhancement of Third- and Fifth-Harmonic Generations in Epsilon-Near-Zero Nanolayer,” in Proc. of the Asia Communications and Photonics Conference (ACP’2020), Beijing, China, Oct. 2020. (Accepted) 
+
+Yuanfang Zhao, Zhenmin Chen, Maolin Dai, and H. Y. Fu, “Label free whispering gallery mode-based aptasensor for CRP detection,” in Proc. of Frontiers in Optics/Laser Science Conference (FiO/LS 2020), Washington, District of Columbia, USA, Sep. 13th -17th, 2020. 
+
+Zhi Li, Zihan Zang and H. Y. Fu*, “2D disperser based FMCW Lidar system design,” in Proc. of Frontiers in Optics/Laser Science Conference (FiO/LS 2020), Washington, District of Columbia, USA, Sep. 13th -17th, 2020. 
+
+Renlai Zhou, Qian Li*, and H. Y. Fu*, “Cascaded Four-wave Mixing in Picosecond Pulse Pumped Supercontinuum Assisted by a Tunable CW,” in Proc. of Frontiers in Optics/Laser Science Conference (FiO/LS 2020), Washington, District of Columbia, USA, Sep. 13th -17th, 2020. 
+
+Simei Mao, Lirong Cheng, Sailong Wu, Xin Mu, Xin Tu and H. Y. Fu*, “Inverse Design of Ultra-broadband and Ultra-compact Polarization Beam Splitter via B-spline Surface,” in Proc. of Frontiers in Optics/Laser Science Conference (FiO/LS 2020), Washington, District of Columbia, USA, Sep. 13th -17th, 2020.
+
+Jiaye Wu, Ze Tao Xie, Yanhua Sha, H. Y. Fu and Qian Li*, “Large and Complex Chromatic Dispersion Profile in Epsilon-Near-Zero Aluminum-Doped Zinc Oxide,” in Proc. of Frontiers in Optics/Laser Science Conference (FiO/LS 2020), Washington, District of Columbia, USA, Sep. 13th -17th, 2020.
+
+Ze Tao Xie, Jiaye Wu, H. Y. Fu and Qian Li*, “Tunable Electro-Optical Metasurface Based on an Ultra-Strong Coupling Epsilon-Near-Zero System,” in Proc. of Frontiers in Optics/Laser Science Conference (FiO/LS 2020), Washington, District of Columbia, USA, Sep. 13th -17th, 2020.
+
+Xin Liu, Zixian Wei, Alberto Pepe, Zhaoming Wang and H. Y. Fu*, “Autoencoder for Optical Wireless Communication System in Atmospheric Turbulence,” in Proc. of the 25th Optoelectronics and Communications Conference (OECC), Taiwan, Jul. 2020.
+
+Alberto Pepe and H. Y. Fu*, “Three-Level Security Communication of Multimedia Data via Hybrid Sparse Autoencoder-Parallel Compressive Sensing,” in Proc. of the 25th Optoelectronics and Communications Conference (OECC), Taiwan, Jul. 2020. 
+
+Chen Chen, Xin Zhong, Min Liu and H. Y. Fu, “DHT-OFDM Based Spatial Modulation for Optical Wireless Communication,” in Proc. of the 2020 Optoelectronics Global Conference (OGC), Shenzhen, China, Sep. 7th-11th, 2020. (Best Paper Award for OGC2020)
+
+Jiaye Wu, Haishi Fu, Yingkai Zheng, Kuan-Chang Chang, Shengdong Zhang, H. Y. Fu* and Qian Li*, “Precise Tuning of Epsilon-Near-Zero Properties in Indium Tin Oxide Nanolayer by Supercritical Carbon Dioxide,” in Proc. of The 14th Pacific Rim Conference on Lasers and Electro-Optics (CLEO-PR 2020), Sydney, Australia, August 2nd-6th, 2020.
+
+Renlai Zhou, Qian Li*, and H. Y. Fu*, “Sub-pulses with L-Shaped Amplitude Distribution in A Rectangular-Shaped Noise-like Pulses Fiber Laser,” in Proc. of The 14th Pacific Rim Conference on Lasers and Electro-Optics (CLEO-PR 2020), Sydney, Australia, August 2nd-6th, 2020. 
+
+Li Zhang, Zhaoming Wang, Zixian Wei, Yuhan Dong*, H. Y. Fu* and Julian Cheng  “High-Speed Multi-User Underwater Wireless Optical Communication System Based on NOMA Scheme,” in Proc. of The 14th Pacific Rim Conference on Lasers and Electro-Optics (CLEO-PR 2020), Sydney, Australia, August 2nd-6th, 2020. 
+
+Li Zhang, Zixian Wei, Yingjie Chen, Kai Zhang, Julian Cheng, Yuhan Dong* and H. Y. Fu*, “Multi-User OFDM Optical Wireless Communication System Based on Near-Infrared VCSEL,” in Proc. of The 14th Pacific Rim Conference on Lasers and Electro-Optics (CLEO-PR 2020), Sydney, Australia, August 2nd-6th, 2020. 
+
+Yingjie Chen, Zixian Wei, Li Zhang, Kai Zhang, Julian Cheng, Yuhan Dong* and H. Y. Fu*, “QPSK-OFDM Optical Wireless Communication System Based on a Near-Infrared VCSEL Using Convolutional Code,” in Proc. of The 14th Pacific Rim Conference on Lasers and Electro-Optics (CLEO-PR 2020), Sydney, Australia, August 2nd-6th, 2020.
+
+Li Zhang, Zixian Wei, Yingjie Chen, Zhaoming Wang, Alberto Pepe, Xin Liu, H. Y. Fu* and Yuhan Dong*, “VCSEL-Based Multi-User Optical Wireless Communication System Using Non-Orthogonal Multiple Access,” in Proc. of The 14th Pacific Rim Conference on Lasers and Electro-Optics (CLEO-PR 2020), Sydney, Australia, August 2nd-6th, 2020. 
+
+Zhenmin Chen, Qian Li, and H. Y. Fu*, “Dispersion Engineering by Liquid Filled in Microbubble Resonators,” in Proc. of The 14th Pacific Rim Conference on Lasers and Electro-Optics (CLEO-PR 2020), P4-6, Sydney, Australia, August 2nd-6th, 2020. 
+
+Simei Mao, Lirong Cheng, Xin Mu, Sailong Wu and H. Y. Fu*, “Ultra-Broadband and Compact Polarization Beam Splitter Based on Etched Directional Coupler,” in Proc. of The 14th Pacific Rim Conference on Lasers and Electro-Optics (CLEO-PR 2020), Sydney, Australia, August 2nd-6th, 2020. 
+
+Lirong Cheng, Simei Mao, Xin Mu, Sailong Wu and H. Y. Fu*, “Subwavelength Structured Grating Coupler Diplexer for Integrated PON Transceivers,” in Proc. of The 14th Pacific Rim Conference on Lasers and Electro-Optics (CLEO-PR 2020), Sydney, Australia, August 2nd-6th, 2020. 
+
+Alberto Pepe, Xin Liu, Zixian Wei and H. Y. Fu*, “Learning-based Symbol Classification in Stokes Space for 4-PolSK Visible Light Communication Signals,” in Proc. of The 14th Pacific Rim Conference on Lasers and Electro-Optics (CLEO-PR 2020), Sydney, Australia, August 2nd-6th, 2020. 
+
+Zhenmin Chen, Qian Li, and H. Y. Fu*, “Tuning stimulated Brillouin scattering by two lasers pumping in a WGM microcavity,” in Proc. of The Conference on Lasers and Electro-Optics (CLEO’2020), JTh2E.31, San Jose, California, USA, May 12th-14th, 2020.
 
 Alberto Pepe, Shivaranjani Dhakshayani Kumar, Zixian Wei, H. Y. Fu*, “Data-Aided Color Shift Keying Transmission for LCD-to-Smartphone Optical Camera Communication Links,” in Proc. of ICCET 2020, Auckland, New Zealand, Apr. 15th -18th, 2020.
 
