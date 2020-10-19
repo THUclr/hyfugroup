@@ -11,19 +11,19 @@ Chun-Liu Zhao, Xinyong Dong, H. Y. Fu, and H. Y. Tam, “Photonic crystal fiber 
 Invited Talks
 ~~~~~~~~~~~~~~
 
-H.Y.Fu, Zixian Wei, Simei Mao, Xin Mu and Alberto Pepe “VCSEL-based Optical Wireless Communications”, The 11th International Conference on Advanced Infocomm Technology (ICAIT), Session on Optical Communications, Jinan, China, Oct. 18th -20th, 2019.
+H.Y. Fu, Zixian Wei, Simei Mao, Xin Mu and Alberto Pepe “VCSEL-based Optical Wireless Communications”, The 11th International Conference on Advanced Infocomm Technology (ICAIT), Session on Optical Communications, Jinan, China, Oct. 18th -20th, 2019.
 
-H.Y.Fu, and Zixian Wei “Recent Progress on Optical Wireless Communications”, The 12th International Nano-Optoelectronics Workshop (iNOW), Guangzhou/Dongguan/Shenzhen, China, Jul. 21st -28th, 2019.
+H.Y. Fu, and Zixian Wei “Recent Progress on Optical Wireless Communications”, The 12th International Nano-Optoelectronics Workshop (iNOW), Guangzhou/Dongguan/Shenzhen, China, Jul. 21st -28th, 2019.
 
-H.Y.Fu, Qian Li and Renlai Zhou “Novel Devices Enabled 3D Sensing Technologies”, The 10th International Conference on Advanced Infocomm Technology (ICAIT), A003-3, Stockholm, Sweden, Aug. 12th -15th, 2018.
+H.Y. Fu, Qian Li and Renlai Zhou “Novel Devices Enabled 3D Sensing Technologies”, The 10th International Conference on Advanced Infocomm Technology (ICAIT), A003-3, Stockholm, Sweden, Aug. 12th -15th, 2018.
 
-H.Y.Fu, Qian Li and Renlai Zhou “Fiber Supercontinuum Source for 3D Sensing”, The 12th International Nano-Optoelectronics Workshop (iNOW), Th3, Berkeley, CA, USA, Jul. 21st -28th, 2018.
+H.Y. Fu, Qian Li and Renlai Zhou “Fiber Supercontinuum Source for 3D Sensing”, The 12th International Nano-Optoelectronics Workshop (iNOW), Th3, Berkeley, CA, USA, Jul. 21st -28th, 2018.
 
-H.Y.Fu, “Silicon Photonic Switches for Data Communications”, The 11th International Nano-Optoelectronics Workshop (iNOW), Tianjin, Aug. 4th -12th, 2017.
+H.Y. Fu, “Silicon Photonic Switches for Data Communications”, The 11th International Nano-Optoelectronics Workshop (iNOW), Tianjin, Aug. 4th -12th, 2017.
 
-H.Y.Fu, “Silicon Photonic Switches and Their Applications for Data Center”, The 15th International Conference on Optical Communications & Networks (ICOCN), Hangzhou, Sep. 24th -27th, 2016.
+H.Y. Fu, “Silicon Photonic Switches and Their Applications for Data Center”, The 15th International Conference on Optical Communications & Networks (ICOCN), Hangzhou, Sep. 24th -27th, 2016.
 
-H.Y.Fu, “Next Generation Optical Networking and Driving Beyond 100G, an Optical Internetworking forum (OIF) perspective”, WDM & Next Generation Optical Networking APAC, Singapore, Jan. 29th -31st, 2013.
+H.Y. Fu, “Next Generation Optical Networking and Driving Beyond 100G, an Optical Internetworking forum (OIF) perspective”, WDM & Next Generation Optical Networking APAC, Singapore, Jan. 29th -31st, 2013.
 
 Selected Journal Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -34,13 +34,13 @@ Sailong Wu, Simei Mao, Lidan Zhou, Lin Liu, Yujie Chen, Xin Mu, Lirong Cheng, Zh
 
 Zixian Wei, Li Zhang, Lei Wang, Chien-Ju Chen, Zhaoming Wang, Kai-Chia Chen, Meng-Chyi Wu, Yuhan Dong, Lai Wang, Yi Luo, and H. Y. Fu, "Multi-user high-speed QAM-OFDMA visible light communication system using a 75-µm single layer quantum dot micro-LED," Opt. Express, vol. 28, pp. 18332-18342, 2020
 
-Renlai Zhou, Qian Li and H. Y. Fu, "Sub-pulses releasing from rectangular-shaped noise-like pulses in a passively mode-locked fiber laser," IEEE Photonics Technology Letters, 2020
+Renlai Zhou, Qian Li and H. Y. Fu, "Sub-pulses releasing from rectangular-shaped noise-like pulses in a passively mode-locked fiber laser," IEEE Photonics Technology Letters,  vol. 32, no. 15, pp. 925-928, 2020
 
-Zixian Wei, Simei Mao, Alberto Pepe, Li Zhang, Zhi Li, Xin Liu, Yingjie Chen, Yuhan Dong and H. Y. Fu, "Propagation analysis and experimental demonstration of non-line-of-sight optical wireless communication using a near-infrared VCSEL," Applied Optics, 2020
+Zixian Wei, Simei Mao, Alberto Pepe, Li Zhang, Zhi Li, Xin Liu, Yingjie Chen, Yuhan Dong and H. Y. Fu, "Propagation analysis and experimental demonstration of non-line-of-sight optical wireless communication using a near-infrared VCSEL," Applied Optics, Vol. 59, pp. 6094-6101, 2020
 
 Z.T.Xie, J.Wu, H.Y.Fu and Q.Li, "Tunable Electro- and All-Optical Switch Based on Epsilon-Near-Zero Metasurface," IEEE Photonics Journal, vol. 12, no. 4, pp. 1-10, 2020
 
-Lirong Cheng, Simei Mao, Zhi Li, Yaqi Han and H. Y.Fu, "Grating Couplers on Silicon Photonics: Design Principles, Emerging Trends and Practical Issues". Micromachines, 2020
+Lirong Cheng, Simei Mao, Zhi Li, Yaqi Han and H. Y.Fu, "Grating Couplers on Silicon Photonics: Design Principles, Emerging Trends and Practical Issues". Micromachines, vol. 11, pp. 666, 2020
 
 Xuanyi Liu, Guanyu Liu, Renlai Zhou, Dan Yu, Jiaye Wu, H Y Fu, Zhigang Zhang and Qian Li, "An all polarization-maintaining fiber laser mode locked by nonlinear amplifying loop mirror with different biases", Laser Physics, 2020 
 
