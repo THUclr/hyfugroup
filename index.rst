@@ -25,8 +25,8 @@ Our vision: Enabling people's future life with advanced optical technologies.
    News
    Resources
 
-Congratulations to our 2020 master graduates!!
+Welcome our recently enrolled members!!
 
 .. raw:: html
 
-    <IMG src="_static/group4.jpg" width=500>
+    <IMG src="_static/group16.jpg" width=500>
