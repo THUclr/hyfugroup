@@ -25,6 +25,12 @@ Our vision: Enabling people's future life with advanced optical technologies.
    News
    Resources
 
+Contragulations to OWC group winning best student paper and best poster award in ACP2020!!!
+
+.. raw:: html
+
+    <IMG src="_static/group17.jpg" width=500>
+
 Welcome our recently enrolled members!!
 
 .. raw:: html
