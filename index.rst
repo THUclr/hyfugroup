@@ -13,7 +13,7 @@ Our vision: Enabling people's future life with advanced optical technologies.
 
 .. raw:: html
 
-    <IMG src="_static/tbsi.png" width=350> <IMG src="_static/group_logo.png" width=350>
+    <IMG src="_static/group_logo.png" width=350>
 
 .. toctree::
    :hidden:
