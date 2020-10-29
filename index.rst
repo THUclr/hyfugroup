@@ -29,7 +29,7 @@ Contragulations to OWC group winning best student paper and best poster award in
 
 .. raw:: html
 
-    <IMG src="_static/group17.jpg" width=500>
+    <IMG src="_static/group17.png" width=500>
 
 Welcome our recently enrolled members!!
 
