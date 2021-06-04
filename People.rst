@@ -58,10 +58,10 @@ AFFILIATIONS AND ACTIVITIES
 
 | Life Member of The Optical Society (OSA)
 | Life Member of Society of Photo-Optical Instrumentation Engineers (SPIE)
-| Member of Institute of Electrical and Electronics Engineers (IEEE)
+| Senior Member of Institute of Electrical and Electronics Engineers (IEEE)
 | Committee Member of IEEE Photonics Society (IPS) Guangdong Chapter
 | Council Member of Shenzhen Society of Micro-Nano Technology
-| Founding Advisor of the OSA, SPIE, IPS Student Chapters at Tsinghua U. Shenzhen
+| Founding Advisor of the OSA, SPIE, IPS Student Chapters at Tsinghua SIGS
 
 
 Students
@@ -76,13 +76,13 @@ Current Students
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
         <th>Research interest</th>
-        <th width="250px">Email</th>
+        <th width="250px">Enrollment Year</th>
     </tr>
     <tr>
         <td><IMG src="_static/lirong.jpg"></td>
         <td>Lirong Cheng<br>PhD Student</td>
         <td>Silicon photonics: passives, grating couplers</td>
-        <td> <a href="mailto:clr18@mails.tsinghua.edu.cn">clr18@mails.tsinghua.edu.cn</a> </th>
+        <td>  2018  </a> </th>
     </tr>
     <tr>
         <td><IMG src="_static/yuanfang.jpg"></td>
@@ -141,7 +141,7 @@ Graduated Students
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
         <th>Research interest</th>
-        <th width="250px">Email</th>
+        <th width="250px">Graduate Destination</th>
     </tr>
     <tr>
         <td><IMG src="_static/zixian.jpg" width="50px"></td>
