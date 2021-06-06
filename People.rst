@@ -75,7 +75,7 @@ Current Students
     <tr>
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
-        <th>Research interest</th>
+        <th width="375px">Research interest</th>
         <th width="200px">Enrollment Year</th>
     </tr>
     <tr>
@@ -188,7 +188,7 @@ Graduated Students
     <tr>
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
-        <th>Research interest</th>
+        <th width="375px">Research interest</th>
         <th width="200px">Graduate Destination</th>
     </tr>
     <tr>
