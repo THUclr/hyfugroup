@@ -151,7 +151,7 @@ Current Students
         <td>  2020 </th>
     </tr>
     <tr>
-        <td><IMG src="_static/zhenquan.jpg"></td>
+        <td><IMG src="_static/zhangyuan.jpg"></td>
         <td>Yuan Zhang<br>Master Student</td>
         <td>Optical wireless communications</td>
         <td>  2020 </th>
