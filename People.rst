@@ -58,10 +58,10 @@ AFFILIATIONS AND ACTIVITIES
 
 | Life Member of The Optical Society (OSA)
 | Life Member of Society of Photo-Optical Instrumentation Engineers (SPIE)
-| Member of Institute of Electrical and Electronics Engineers (IEEE)
+| Senior Member of Institute of Electrical and Electronics Engineers (IEEE)
 | Committee Member of IEEE Photonics Society (IPS) Guangdong Chapter
 | Council Member of Shenzhen Society of Micro-Nano Technology
-| Founding Advisor of the OSA, SPIE, IPS Student Chapters at Tsinghua U. Shenzhen
+| Founding Advisor of the OSA, SPIE, IPS Student Chapters at Tsinghua SIGS
 
 
 Students
@@ -76,55 +76,103 @@ Current Students
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
         <th>Research interest</th>
-        <th width="250px">Email</th>
+        <th width="150px">Enrollment Year</th>
     </tr>
     <tr>
         <td><IMG src="_static/lirong.jpg"></td>
         <td>Lirong Cheng<br>PhD Student</td>
         <td>Silicon photonics: passives, grating couplers</td>
-        <td> <a href="mailto:clr18@mails.tsinghua.edu.cn">clr18@mails.tsinghua.edu.cn</a> </th>
+        <td>  2018 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/simei.jpg"></td>
+        <td>Simei Mao<br>PhD Student</td>
+        <td>Silicon photonics: multiplexing, inverse design</td>
+        <td>  2019 </th>
     </tr>
     <tr>
         <td><IMG src="_static/yuanfang.jpg"></td>
         <td>Yuanfang Zhao<br>PhD Student</td>
         <td>Microcavity biosensing</td>
-        <td> <a href="mailto:zhaoyf19@mails.tsinghua.edu.cn">zhaoyf19@mails.tsinghua.edu.cn</a> </th>
+        <td>  2019 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/xuanyi.jpg"></td>
+        <td>Xuanyi liu<br>PhD Student</td>
+        <td>Ultrafast Optics</td>
+        <td>  2020 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/yaqi.jpg"></td>
+        <td>Yaqi Han<br>PhD Student</td>
+        <td>LiDAR, beam steering</td>
+        <td>  2020 </th>
     </tr>
     <tr>
         <td><IMG src="_static/liuxin.jpg"></td>
         <td>Xin Liu<br>Master Student</td>
         <td>Optical wireless communications</td>
-        <td> <a href="mailto:liuxin18@mails.tsinghua.edu.cn">liuxin18@mails.tsinghua.edu.cn</a> </th>
-    </tr>
-    <tr>
-        <td><IMG src="_static/simei.jpg"></td>
-        <td>Simei Mao<br>Master Student</td>
-        <td>Silicon photonics: multiplexing, inverse design</td>
-        <td> <a href="mailto:maosm19@mails.tsinghua.edu.cn">maosm19@mails.tsinghua.edu.cn</a> </th>
+        <td>  2018 </th>
     </tr>
     <tr>
         <td><IMG src="_static/lizhi.jpg"></td>
         <td>Zhi Li<br>Master Student</td>
         <td>LiDAR, beam steering</td>
-        <td> <a href="mailto:li-z19@mails.tsinghua.edu.cn">li-z19@mails.tsinghua.edu.cn</a> </th>
+        <td>  2019 </th>
     </tr>
     <tr>
         <td><IMG src="_static/maolin.jpg"></td>
         <td>Maolin Dai<br>Master Student</td>
         <td>Microcavity, sensing</td>
-        <td> <a href="mailto:dml19@mails.tsinghua.edu.cn">dml19@mails.tsinghua.edu.cn</a> </th>
+        <td>  2019 </th>
     </tr>
     <tr>
         <td><IMG src="_static/yang.jpg"></td>
         <td>Yang Luo<br>Master Student</td>
         <td>Optomachanics</td>
-        <td> <a href="mailto:yang-luo19@mails.tsinghua.edu.cn">yang-luo19@mails.tsinghua.edu.cn</a> </th>
+        <td>  2019 </th>
     </tr>
     <tr>
         <td><IMG src="_static/zhaoming.jpg"></td>
         <td>Zhaoming Wang<br>Master Student</td>
         <td>Optical wireless communications</td>
-        <td> <a href="mailto:wangzm19@mails.tsinghua.edu.cn">wangzm19@mails.tsinghua.edu.cn</a> </th>
+        <td>  2019 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/mutong.jpg"></td>
+        <td>Mutong Li<br>Master Student</td>
+        <td>Optical wireless communications</td>
+        <td>  2020 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/zhenquan.jpg"></td>
+        <td>Zhenquan Zhao<br>Master Student</td>
+        <td>Optical wireless communications</td>
+        <td>  2020 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/zhenquan.jpg"></td>
+        <td>Yuan Zhang<br>Master Student</td>
+        <td>Optical wireless communications</td>
+        <td>  2020 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/caiyue.jpg"></td>
+        <td>Caiyue Zhao<br>Master Student</td>
+        <td>Silicon photonics</td>
+        <td>  2020 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/yinghui.jpg"></td>
+        <td>Yinghui Wang<br>Master Student</td>
+        <td>Silicon photonics</td>
+        <td>  2020 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/denghui.jpg"></td>
+        <td>Denghui Pan<br>Master Student</td>
+        <td>Ultrafast Optics</td>
+        <td>  2020 </th>
     </tr>
     </table>
     <br>
@@ -141,31 +189,36 @@ Graduated Students
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
         <th>Research interest</th>
-        <th width="250px">Email</th>
+        <th width="150px">Enrollment Year</th>
+        <th width="250px">Graduate Destination</th>
     </tr>
     <tr>
         <td><IMG src="_static/zixian.jpg" width="50px"></td>
         <td>Zixian Wei<br>Master Student</td>
         <td>Optical wireless communications</td>
-        <td> <a href="mailto:weizx17@mails.tsinghua.edu.cn">weizx17@mails.tsinghua.edu.cn</a> </th>
+        <td>  2017 </th>
+        <td> McGill University </th>
     </tr>
     <tr>
         <td><IMG src="_static/sailong.jpg" width="50px"></td>
         <td>Sailong Wu<br>Master Student</td>
         <td>Silicon photonics: waveguide crossings</td>
-        <td> <a href="mailto:wusl17@mails.tsinghua.edu.cn">wusl17@mails.tsinghua.edu.cn</a> </th>
+        <td>  2017 </th>
+        <td> China National Offshore Oil Corporation </th>
     </tr>
     <tr>
         <td><IMG src="_static/muxin.jpg" width="50px"></td>
         <td>Xin Mu<br>Master Student</td>
         <td>Silicon photonics: edge couplers</td>
-        <td> <a href="mailto:mux17@mails.tsinghua.edu.cn">mux17@mails.tsinghua.edu.cn</a> </th>
+        <td>  2017 </th>
+        <td> University of Toronto </th>
     </tr>
     <tr>
         <td><IMG src="_static/alberto.jpg" width="50px"></td>
         <td>Alberto Pepe<br>Master Student</td>
         <td>Optical wireless communications</td>
-        <td> <a href="mailto:albertopepe96@hotmail.it">albertopepe96@hotmail.it</a> </th>
+        <td>  2018 </th>
+        <td> University of Cambridge </th>
     </tr>
     </table>
     <br>
