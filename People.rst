@@ -76,7 +76,7 @@ Current Students
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
         <th>Research interest</th>
-        <th width="100px">Enrollment Year</th>
+        <th width="150px">Enrollment Year</th>
     </tr>
     <tr>
         <td><IMG src="_static/lirong.jpg"></td>
@@ -189,7 +189,7 @@ Graduated Students
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
         <th>Research interest</th>
-        <th width="100px">Enrollment Year</th>
+        <th width="150px">Enrollment Year</th>
         <th width="250px">Graduate Destination</th>
     </tr>
     <tr>
