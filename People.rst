@@ -76,7 +76,7 @@ Current Students
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
         <th>Research interest</th>
-        <th width="150px">Enrollment Year</th>
+        <th width="200px">Enrollment Year</th>
     </tr>
     <tr>
         <td><IMG src="_static/lirong.jpg"></td>
@@ -189,35 +189,30 @@ Graduated Students
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
         <th>Research interest</th>
-        <th width="150px">Enrollment Year</th>
-        <th width="250px">Graduate Destination</th>
+        <th width="200px">Graduate Destination</th>
     </tr>
     <tr>
         <td><IMG src="_static/zixian.jpg" width="50px"></td>
-        <td>Zixian Wei<br>Master Student</td>
+        <td>Zixian Wei<br>Master Student<br>Enrol in 2017</td>
         <td>Optical wireless communications</td>
-        <td>  2017 </th>
         <td> McGill University </th>
     </tr>
     <tr>
         <td><IMG src="_static/sailong.jpg" width="50px"></td>
-        <td>Sailong Wu<br>Master Student</td>
+        <td>Sailong Wu<br>Master Student<br>Enrol in 2017</td>
         <td>Silicon photonics: waveguide crossings</td>
-        <td>  2017 </th>
         <td> China National Offshore Oil Corporation </th>
     </tr>
     <tr>
         <td><IMG src="_static/muxin.jpg" width="50px"></td>
-        <td>Xin Mu<br>Master Student</td>
+        <td>Xin Mu<br>Master Student<br>Enrol in 2017</td>
         <td>Silicon photonics: edge couplers</td>
-        <td>  2017 </th>
         <td> University of Toronto </th>
     </tr>
     <tr>
         <td><IMG src="_static/alberto.jpg" width="50px"></td>
-        <td>Alberto Pepe<br>Master Student</td>
+        <td>Alberto Pepe<br>Master Student<br>Enrol in 2018</td>
         <td>Optical wireless communications</td>
-        <td>  2018 </th>
         <td> University of Cambridge </th>
     </tr>
     </table>
