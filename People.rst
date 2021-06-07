@@ -195,25 +195,25 @@ Graduated Students
         <td><IMG src="_static/zixian.jpg" width="50px"></td>
         <td>Zixian Wei<br>Master Student<br>Enrolled in 2017</td>
         <td>Optical wireless communications</td>
-        <td> McGill University </th>
+        <td>Ph.D. candidate<br>McGill University</th>
     </tr>
     <tr>
         <td><IMG src="_static/sailong.jpg" width="50px"></td>
         <td>Sailong Wu<br>Master Student<br>Enrolled in 2017</td>
         <td>Silicon photonics: waveguide crossings</td>
-        <td> China National Offshore Oil Corporation </th>
+        <td>Communications Engineers<br>China National Offshore Oil Corporation</th>
     </tr>
     <tr>
         <td><IMG src="_static/muxin.jpg" width="50px"></td>
         <td>Xin Mu<br>Master Student<br>Enrolled in 2017</td>
         <td>Silicon photonics: edge couplers</td>
-        <td> University of Toronto </th>
+        <td>Ph.D. candidate<br>University of Toronto</th>
     </tr>
     <tr>
         <td><IMG src="_static/alberto.jpg" width="50px"></td>
         <td>Alberto Pepe<br>Master Student<br>Enrolled in 2018</td>
         <td>Optical wireless communications</td>
-        <td> University of Cambridge </th>
+        <td>Ph.D. candidate<br>University of Cambridge</th>
     </tr>
     </table>
     <br>
