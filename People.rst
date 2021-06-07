@@ -76,7 +76,7 @@ Current Students
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
         <th width="375px">Research interest</th>
-        <th width="200px">Enrollment Year</th>
+        <th width="225px">Enrollment Year</th>
     </tr>
     <tr>
         <td><IMG src="_static/lirong.jpg"></td>
@@ -189,7 +189,7 @@ Graduated Students
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
         <th width="375px">Research interest</th>
-        <th width="200px">Graduate Destination</th>
+        <th width="225px">Graduate Destination</th>
     </tr>
     <tr>
         <td><IMG src="_static/zixian.jpg" width="50px"></td>
