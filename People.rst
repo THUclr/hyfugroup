@@ -109,12 +109,6 @@ Current Students
         <td>  2020 </th>
     </tr>
     <tr>
-        <td><IMG src="_static/liuxin.jpg"></td>
-        <td>Xin Liu<br>Master Student</td>
-        <td>Optical wireless communications</td>
-        <td>  2018 </th>
-    </tr>
-    <tr>
         <td><IMG src="_static/lizhi.jpg"></td>
         <td>Zhi Li<br>Master Student</td>
         <td>LiDAR, beam steering</td>
@@ -192,28 +186,34 @@ Graduated Students
         <th width="225px">Graduate Destination</th>
     </tr>
     <tr>
+        <td><IMG src="_static/liuxin.jpg"></td>
+        <td>Xin Liu<br>Master Student</td>2018-2021</td>
+        <td>Optical wireless communications</td>
+        <td>Civil servant,<br>Chengdu Municipal People’s Government</th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/alberto.jpg" width="50px"></td>
+        <td>Alberto Pepe<br>Master Student<br>2018-2020</td>
+        <td>Optical wireless communications</td>
+        <td>Ph.D. candidate,<br>University of Cambridge</th>
+    </tr>
+    <tr>
         <td><IMG src="_static/zixian.jpg" width="50px"></td>
-        <td>Zixian Wei<br>Master Student<br>Enrolled in 2017</td>
+        <td>Zixian Wei<br>Master Student<br>2017-2020</td>
         <td>Optical wireless communications</td>
         <td>Ph.D. candidate,<br>McGill University</th>
     </tr>
     <tr>
         <td><IMG src="_static/sailong.jpg" width="50px"></td>
-        <td>Sailong Wu<br>Master Student<br>Enrolled in 2017</td>
+        <td>Sailong Wu<br>Master Student<br>2017-2020</td>
         <td>Silicon photonics: waveguide crossings</td>
         <td>Communications Engineer,<br>China National Offshore Oil Corporation</th>
     </tr>
     <tr>
         <td><IMG src="_static/muxin.jpg" width="50px"></td>
-        <td>Xin Mu<br>Master Student<br>Enrolled in 2017</td>
+        <td>Xin Mu<br>Master Student<br>2017-2020</td>
         <td>Silicon photonics: edge couplers</td>
         <td>Ph.D. candidate,<br>University of Toronto</th>
-    </tr>
-    <tr>
-        <td><IMG src="_static/alberto.jpg" width="50px"></td>
-        <td>Alberto Pepe<br>Master Student<br>Enrolled in 2018</td>
-        <td>Optical wireless communications</td>
-        <td>Ph.D. candidate,<br>University of Cambridge</th>
     </tr>
     </table>
     <br>
