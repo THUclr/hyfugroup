@@ -33,7 +33,7 @@ Invited Talks
 
 [I11]	H. Y. Fu, “Next Generation Optical Networking and Driving Beyond 100G, an Optical Internetworking forum (OIF) perspective”, WDM & Next Generation Optical Networking APAC, Singapore, Jan. 29th -31st, 2013.
 
-Reviews
+Review Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 [R1]	Xin Tu, Chaolong Song, Tianye Huang, Zhenmin Chen and H. Y. Fu, “State of the art and perspectives on silicon photonic switches,” Micromachines, Vol. 10, No. 1, p. 51, 2019.
@@ -51,9 +51,9 @@ Reviews
 Selected Journal Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-[J1]	Lirong Cheng, Simei Mao, Xin Tu and H. Y. Fu*, “Dual-wavelength-band grating coupler on 220-nm silicon-on-insulator with high numerical aperture fiber placed perfectly-vertically,” IEEE Journal of Lightwave Technology, 2021. (Accept for publication)
+[J1]	Lirong Cheng, Simei Mao, Xin Tu and H. Y. Fu*, “Dual-wavelength-band grating coupler on 220-nm silicon-on-insulator with high numerical aperture fiber placed perfectly-vertically,” IEEE Journal of Lightwave Technology, 2021. (Accepted for Publication)
 
-[J2]	Lirong Cheng, Simei Mao, Caiyue Zhao, Xin Tu, Qian Li and H. Y. Fu*, “Highly-efficient dual-wavelength-band-multiplexing three-port grating coupler on 220-nm silicon-on-insulator with 248-nm deep-UV lithography,” Optics Letters, 2021. (Accept for publication)
+[J2]	Lirong Cheng, Simei Mao, Caiyue Zhao, Xin Tu, Qian Li and H. Y. Fu*, “Highly-efficient dual-wavelength-band-multiplexing three-port grating coupler on 220-nm silicon-on-insulator with 248-nm deep-UV lithography,” Optics Letters, 2021. (Accepted for Publication)
 
 [J3]	Zhi Li, Zihan Zang, Zixian Wei, Yaqi Han, Lican Wu, Mutong Li, Zhenquan Zhao and H. Y. Fu*, “Multi-user accessible indoor optical wireless communication systems employing VIPA-based 2D optical beam-steering technique,” Optics Express, Vol. 29, No. 13, pp. 20175-20189, 2021. 
 
