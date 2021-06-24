@@ -219,25 +219,19 @@ Graduated Students
         <td><IMG src="_static/liuxin.jpg"></td>
         <td>Xin Liu<br>Master Student<br>2018-2021</td>
         <td>Optical wireless communications</td>
-        <td>Civil servant,<br>Chengdu Municipal People’s Government</th>
+        <td>Civil Servant,<br>Chengdu Municipal People’s Government</th>
     </tr>
     <tr>
         <td><IMG src="_static/alberto.jpg" width="50px"></td>
         <td>Alberto Pepe<br>Master Student<br>2018-2020</td>
         <td>Optical wireless communications</td>
-        <td>Ph.D. candidate,<br>University of Cambridge</th>
-    </tr>
-    <tr>
-        <td><IMG src="_static/zhenmin.jpg" width="50px"></td>
-        <td>Zhenmin Chen<br>Postdoctor<br>2018-2020</td>
-        <td>Microcavity, sensing</td>
-        <td>Engineer,<br>Peng Cheng Laboratory</th>
+        <td>Ph.D. Candidate,<br>University of Cambridge</th>
     </tr>
     <tr>
         <td><IMG src="_static/zixian.jpg" width="50px"></td>
         <td>Zixian Wei<br>Master Student<br>2017-2020</td>
         <td>Optical wireless communications</td>
-        <td>Ph.D. candidate,<br>McGill University</th>
+        <td>Ph.D. Candidate,<br>McGill University</th>
     </tr>
     <tr>
         <td><IMG src="_static/sailong.jpg" width="50px"></td>
@@ -249,7 +243,28 @@ Graduated Students
         <td><IMG src="_static/muxin.jpg" width="50px"></td>
         <td>Xin Mu<br>Master Student<br>2017-2020</td>
         <td>Silicon photonics: edge couplers</td>
-        <td>Ph.D. candidate,<br>University of Toronto</th>
+        <td>Ph.D. Candidate,<br>University of Toronto</th>
+    </tr>
+    </table>
+    <br>
+    <br>
+
+Visiting Scholars
+~~~~~~~~~~~~~~~~~~~
+.. raw:: html
+
+    <table border="">
+    <tr>
+        <th width="50px">Photo</th>
+        <th width="150px">Name</th>
+        <th width="375px">Research interest</th>
+        <th width="225px">Graduate Destination</th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/zhenmin.jpg" width="50px"></td>
+        <td>Zhenmin Chen<br>Postdoctor<br>2018-2020</td>
+        <td>Microcavity, sensing</td>
+        <td>Research Associate,<br>Peng Cheng Laboratory</th>
     </tr>
     </table>
     <br>
