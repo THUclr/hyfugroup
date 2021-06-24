@@ -264,7 +264,7 @@ Visiting Scholars
         <td><IMG src="_static/zhenmin.jpg" width="50px"></td>
         <td>Zhenmin Chen<br>Postdoctor<br>2018-2020</td>
         <td>Microcavity, sensing</td>
-        <td>Research Associate,<br>Peng Cheng Laboratory</th>
+        <td>Research Assistant,<br>Peng Cheng Laboratory</th>
     </tr>
     </table>
     <br>
