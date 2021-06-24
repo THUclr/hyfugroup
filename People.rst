@@ -187,7 +187,7 @@ Graduated Students
     </tr>
     <tr>
         <td><IMG src="_static/liuxin.jpg"></td>
-        <td>Xin Liu<br>Master Student</td>2018-2021</td>
+        <td>Xin Liu<br>Master Student<br>2018-2021</td>
         <td>Optical wireless communications</td>
         <td>Civil servant,<br>Chengdu Municipal People’s Government</th>
     </tr>
