@@ -109,6 +109,12 @@ Current Students
         <td>  2020 </th>
     </tr>
     <tr>
+        <td><IMG src="_static/lihang.jpg"></td>
+        <td>Lihang Liu<br>PhD Student</td>
+        <td>TBD</td>
+        <td>  2021 </th>
+    </tr>
+    <tr>
         <td><IMG src="_static/lizhi.jpg"></td>
         <td>Zhi Li<br>Master Student</td>
         <td>LiDAR, beam steering</td>
@@ -168,6 +174,30 @@ Current Students
         <td>Ultrafast Optics</td>
         <td>  2020 </th>
     </tr>
+    <tr>
+        <td><IMG src="_static/lican.jpg"></td>
+        <td>Lican Wu<br>Master Student</td>
+        <td>LiDAR, beam steering</td>
+        <td>  2021 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/houyu.jpg"></td>
+        <td>Houyu Chen<br>Master Student</td>
+        <td>Silicon photonics</td>
+        <td>  2021 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/yibin.jpg"></td>
+        <td>Yibin Li<br>Master Student</td>
+        <td>Optical wireless communications</td>
+        <td>  2021 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/bohua.jpg"></td>
+        <td>Bohua Deng<br>Master Student</td>
+        <td>TBD</td>
+        <td>  2021 </th>
+    </tr>
     </table>
     <br>
     <br>
@@ -196,6 +226,12 @@ Graduated Students
         <td>Alberto Pepe<br>Master Student<br>2018-2020</td>
         <td>Optical wireless communications</td>
         <td>Ph.D. candidate,<br>University of Cambridge</th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/zhenmin.jpg" width="50px"></td>
+        <td>Zhenmin Chen<br>Postdoctor<br>2018-2020</td>
+        <td>Microcavity, sensing</td>
+        <td>Engineer,<br>Peng Cheng Laboratory</th>
     </tr>
     <tr>
         <td><IMG src="_static/zixian.jpg" width="50px"></td>
