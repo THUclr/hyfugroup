@@ -52,3 +52,4 @@ such as ultra-low detection limit sensors.
 | **(2)** The build-up process of the ultrashort pulses contains complex dynamics. We have constructed a fiber laser system and employed **time-stretch dispersive Fourier transformation (TS-DFT) technique** to unveil the formation of soliton, dissipative solitons working at different dispersion regions.
 |
  
+ 
