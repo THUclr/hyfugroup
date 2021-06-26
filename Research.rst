@@ -8,13 +8,7 @@ Optical Wireless Communication
 
     <IMG src="_static/direction1.png" width=500>
 
-**Optical Wireless Communication (OWC)** is a short-range wireless access technology and an important supplement to other 
-existing wireless communication systems. Due to the high frequency of light waves, OWC has large information carrying capacity.
-Light waves also have rich broadband spectrum resources and strong anti-electromagnetic interference capabilities compared with radio frequency. 
-In addition, OWC based on semiconductor light source are highly power efficient. 
-With the technological breakthroughs of optoelectronic materials and devices, the cost of OWC will be further reduced, 
-OWC technology will have a competitive advantage and transformative value that cannot be underestimated in the future information
-society where everything is connected.
+**Optical Wireless Communication (OWC)** is a short-range wireless access technology and an important supplement to other existing wireless communication systems. Due to the high frequency of light waves, OWC has large information carrying capacity. Light waves also have rich broadband spectrum resources and strong anti-electromagnetic interference capabilities compared with radio frequency. Recently, OWC based on high-bandwidth semiconductor light sources such as lasers and light emitting diodes (LEDs) receives extensive concern. With the development of optoelectronic materials and devices, visible light communication (VLC) will not only break the capacity bottleneck up to Gbps, but also provide indoor illumination and positioning service in the future, which plays a vital role connecting the internet of things (IoT).
 
 Silicon Photonics
 ---------------------
@@ -35,11 +29,8 @@ Advanced Sensing Technologies
 
     <IMG src="_static/direction3-1.png" width=500>
 
-**3D-Sensing (LiDAR, OCT):**
-FMCW LiDAR (Frequency Modulated Continuous Wave, Light Detection and Ranging) allows us to measure distance with millimeter or micrometer range 
-resolution, which can be applied in high accuracy 3D sensing and mapping. Swept-source optical coherence tomography (SS-OCT) with high precision 
-in 3D reconstructions of biological tissues also relies on this technique. In addition, we also try to combine with other research field such as 
-femtosecond mode-locked laser to set up fancy LiDAR system.
+**Ultrafast 3D imaging LiDAR system based on spectral scanning method:**
+Light detection and ranging (LiDAR), as a 3D sensor, has been applied in various application scenarios, such as autonomous vehicles, augmented reality (AR)/virtual reality (VR), and robots. Traditional methods based on mechanical scanning are inherently slow, bulky and prone to failure and are not well suited for the emerging applications. To adapt ultrafast imaging techniques to an ultrafast 3D imaging platform, spectrum scanning method has been proposed to be employed in LiDAR system. LiDAR group focuses on developing ultra-fast spectral scanning technology and further improving 3D imaging speed of LiDAR system.
 
 .. raw:: html
 
@@ -56,12 +47,8 @@ such as ultra-low detection limit sensors.
 
     <IMG src="_static/direction3-2.png" width=500>
 
-| **Optical nonlinearity:**
-| **(1) Ultrafast mode-locked fiber** lasers exhibit superior thermo-optical properties and excellent beam quality, 
- making them suitable for a wide range of applications. We have constructed several nonlinear amplifying loop 
- mirror (NALM)-based fiber lasers, which can generate pulses with good optical performance or interesting nonlinear phenomena. 
-| **(2)** Much efforts have made to the generation of broadband light due to its promising applications such as high-precision
- frequency metrology, optical coherence tomography and optical communications. We have demonstrated **supercontinuum generation**
- in a highly nonlinear dispersion shifted fiber. 
+| **Ultrafast optics:**
+| **(1) Ultrafast mode-locked fiber lasers** with environmental stability have become powerful tools for numerous applications outside laboratories. We have constructed two novel and simple fiber laser schemes based on nonlinear polarization evolution for ultrashort pulse generation. High stability and high repetition rate are the two most important features of our proposed fiber oscillators. 
+| **(2)** The build-up process of the ultrashort pulses contains complex dynamics. We have constructed a fiber laser system and employed **time-stretch dispersive Fourier transformation (TS-DFT) technique** to unveil the formation of soliton, dissipative solitons working at different dispersion regions.
 |
  
