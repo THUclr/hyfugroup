@@ -48,7 +48,7 @@ Review Papers
 
 [R6]	Simei Mao, Lirong Cheng, Caiyue Zhao, Faisal Nadeem Khan, Qian Li and H. Y. Fu*, “Inverse Design for Silicon Photonics: From Iterative Optimization Algorithms to Deep Neural Networks,” Applied Science, No. 11, p.3822, 2021. 
 
-[R7]  Jiaye Wu, Ze Tao Xie, Yanhua Sha, H. Y. Fu, and Qian Li*, “Epsilon-near-zero photonics: infinite potentials,” Photonics Research, 2021. (Accepted for Publication)
+[R7]	Jiaye Wu, Ze Tao Xie, Yanhua Sha, H. Y. Fu, and Qian Li*, “Epsilon-near-zero photonics: infinite potentials,” Photonics Research, 2021. (Accepted for Publication)
 
 Selected Journal Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~
