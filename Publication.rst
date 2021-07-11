@@ -53,9 +53,9 @@ Review Papers
 Selected Journal Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-[J1]	Lirong Cheng, Simei Mao, Xin Tu and H. Y. Fu*, “Dual-wavelength-band grating coupler on 220-nm silicon-on-insulator with high numerical aperture fiber placed perfectly-vertically,” IEEE Journal of Lightwave Technology, 2021. (Accepted for Publication)
+[J1]	Lirong Cheng, Simei Mao, Xin Tu and H. Y. Fu*, “Dual-wavelength-band Grating Coupler on 220-nm Silicon-on-Insulator With High Numerical Aperture Fiber Placed Perfectly Vertically,” IEEE Journal of Lightwave Technology, 2021. (Accepted for Publication)
 
-[J2]	Lirong Cheng, Simei Mao, Caiyue Zhao, Xin Tu, Qian Li and H. Y. Fu*, “Highly-efficient dual-wavelength-band-multiplexing three-port grating coupler on 220-nm silicon-on-insulator with 248-nm deep-UV lithography,” Optics Letters, 2021. (Accepted for Publication)
+[J2]	Lirong Cheng, Simei Mao, Zhi Li, Xin Tu, and H. Y. Fu*, “High-efficiency dual-band-multiplexing three-port grating coupler on 220-nm silicon-on-insulator with 248-nm deep-UV lithography,” Optics Letters, Vol. 46, No. 13, pp. 3308-3311, 2021.
 
 [J3]	Zhi Li, Zihan Zang, Zixian Wei, Yaqi Han, Lican Wu, Mutong Li, Zhenquan Zhao and H. Y. Fu*, “Multi-user accessible indoor optical wireless communication systems employing VIPA-based 2D optical beam-steering technique,” Optics Express, Vol. 29, No. 13, pp. 20175-20189, 2021. 
 
