@@ -1,20 +1,25 @@
 News
 =====================================
 
-1. TBSI两位学生荣获2021年OECC国际会议最佳论文奖 2021/07/13
+5. TBSI两位学生荣获2021年OECC国际会议最佳论文奖 2021/07/13
     https://www.tbsi.edu.cn/index.php?s=/cms/1753.html
+    https://maiimg.com/pdf/?e=agiKXiOfFUw6M6
 
-2. TBSI信息科学系列｜光子塑造未来 Photonics Shaping the Future 2021/07/08
+4. TBSI信息科学系列｜光子塑造未来 Photonics Shaping the Future 2021/07/08
     https://mp.weixin.qq.com/s/H3iqQHWhywdjvz48HnzeHQ
+    https://maiimg.com/pdf/?e=ag2ZRFudoTjkM6
 
 3. SIGS毕业生故事｜魏子贤：科研路上最重要的是对自己工作的自信与认同 2020/06/25
     https://mp.weixin.qq.com/s/Xkd_PIKo34UFAL6yeA1gaA
+    https://maiimg.com/pdf/?e=agi5tmee9xyfU6
    
-4. 【科研速报】TBSI付红岩课题组获得亚洲通信与光子学会议最佳海报奖 2019/11/06
+2. 【科研速报】TBSI付红岩课题组获得亚洲通信与光子学会议最佳海报奖 2019/11/06
     https://www.tbsi.edu.cn/index.php?s=/cms/1313.html
-
-5. TBSI一带一路上的留学生故事——意大利小镇青年的深圳梦 2019/03/28
+    https://maiimg.com/pdf/?e=agDlLeA2R1tK66
+    
+1. TBSI一带一路上的留学生故事——意大利小镇青年的深圳梦 2019/03/28
     https://www.tbsi.edu.cn/index.php?s=/cms/1149.html
+    https://maiimg.com/pdf/?e=ag2ZRFudoTjkM6
     
     
 2020/6/29 Website online.
