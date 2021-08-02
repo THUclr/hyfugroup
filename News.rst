@@ -1,4 +1,7 @@
 News
+=============
+
+Reports
 ~~~~~~~~~~
 
 5. TBSI两位学生荣获2021年OECC国际会议最佳论文奖 2021/07/13
@@ -21,10 +24,10 @@ News
     https://www.tbsi.edu.cn/index.php?s=/cms/1149.html   <or>
     https://maiimg.com/pdf/?e=ag2ZRFudoTjkM6
     
-Photos
+Photographs
 ~~~~~~~~~~
 
-2020/6/29 Website online.
+诺奖得主唐娜·斯特里克兰教授参观指导纳米器件实验室 2019/10
 
 .. raw:: html
 
