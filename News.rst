@@ -27,32 +27,72 @@ Reports
 Photographs
 ~~~~~~~~~~
 
-诺奖得主唐娜·斯特里克兰教授参观指导纳米器件实验室 2019/10
+11. 欢送课题组21届毕业生 2021/07
+
 .. raw:: html
+    
+    <IMG src="_static/202107.jpg" width=500>
+
+10. 本课题组与北大李倩老师课题组于大鹏半岛联合团建 2020/11
+
+.. raw:: html
+    
+    <IMG src="_static/202011.jpg" width=500>
+    
+9. 欢送课题组20届毕业生 2020/07
+
+.. raw:: html
+
+    <IMG src="_static/group1.jpg" width=500>  
+
+8. 课题组师生参加Asia Communication and Photonics Conference 2019 （ACP 2019） 2019/11
+
+.. raw:: html
+
+    <IMG src="_static/group12.jpg" width=500>
+
+7. 诺奖得主唐娜·斯特里克兰教授参观指导纳米器件实验室 2019/10
+
+.. raw:: html
+
     <IMG src="_static/group9.png" width=500>
     <IMG src="_static/group2.jpg" width=500>
     
-本课题组与北大李倩老师课题组于大鹏半岛联合团建 2020/11
+6. 本课题组与北大李倩老师课题组于华侨城联合团建 2019/09
+
+.. raw:: html
+
     <IMG src="_static/group3.jpg" width=500>
 
-欢送课题组20届毕业生 2020/07
-    <IMG src="_static/group1.jpg" width=500>  
-    
-TBSI Retreat conference 2018 课题组分别与VCSEL发明人Kenichi Iga教授和FinFET发明人胡正明教授交流合影 2018/03
-    <IMG src="_static/group5.jpg" width=500>
-    <IMG src="_static/group6.png" width=500>
-    
-以色列特拉维夫大学Boris Malomed教授应邀到TBSI讲授" Multidimensional solitons"方面的最新研究进展 2019/09
-    <IMG src="_static/group8.jpg" width=500>
 
-课题组师生参加Asia Communication and Photonics Conference 2019 （ACP 2019） 2019/11
-    <IMG src="_static/group12.jpg" width=500>
+5. 以色列特拉维夫大学Boris Malomed教授应邀到TBSI讲授" Multidimensional solitons"方面的最新研究进展 2019/09
 
-课题组师生参加2019年国际光通信与网络会议IEEE International Conference on Optical Communications and Networks  (ICOCN)，其中硕士生穆鑫获Best Student Paper Award 2019/08
-    <IMG src="_static/group13.jpg" width=500>
+.. raw:: html
+
+    <IMG src="_static/group8.jpg" width=500> 
+
+
+4. 课题组师生参加2019年国际光通信与网络会议IEEE International Conference on Optical Communications and Networks  (ICOCN)，其中硕士生穆鑫获Best Student Paper Award 2019/08
+
+.. raw:: html
+
+    <IMG src="_static/group13.jpg" width=500>    
     
-课题组师生参加 International Nano-Optoelectronics workshop (iNOW) 2019/07
+3. 课题组师生参加 International Nano-Optoelectronics workshop (iNOW) 2019/07
+
+.. raw:: html
+
     <IMG src="_static/group14.jpg" width=500>
     
-付红岩老师参加光通信标准化技术委员会成立大会 2019/05
+2. 付红岩老师参加光通信标准化技术委员会成立大会 2019/05
+
+.. raw:: html
+
     <IMG src="_static/group15.jpg" width=500>
+    
+1. TBSI Retreat conference 2018 课题组分别与VCSEL发明人Kenichi Iga教授和FinFET发明人胡正明教授交流合影 2018/03
+
+.. raw:: html
+
+    <IMG src="_static/group5.jpg" width=500>
+    <IMG src="_static/group6.png" width=500>
