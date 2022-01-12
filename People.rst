@@ -261,10 +261,22 @@ Visiting Scholars
         <td>Research Assistant,<br>Peng Cheng Laboratory</th>
     </tr>
      <tr>
+        <td><IMG src="_static/wanqing.jpg" width="50px"></td>
+        <td>Wanqing Cai<br>Postdoctor<br>2021-2023</td>
+        <td>Optical wireless Communications</td>
+        <td>Post doctor,<br></th>
+    </tr>
+     <tr>
         <td><IMG src="_static/amjad.jpg" width="50px"></td>
         <td>Amjad Ali Amjad<br>Postdoctor<br>2021-2023</td>
         <td>Optical wireless Communications</td>
         <td>Post doctor,<br>Peking University</th>
+    </tr>
+     <tr>
+        <td><IMG src="_static/Zeyad.jpg" width="50px"></td>
+        <td>Zeyad<br>Postdoctor<br>2021-2023</td>
+        <td>Optical wireless Communications</td>
+        <td>Post doctor,<br></th>
     </tr>
     </table>
     <br>
