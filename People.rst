@@ -111,7 +111,7 @@ Current Students
     <tr>
         <td><IMG src="_static/lihang.jpg"></td>
         <td>Lihang Liu<br>PhD Student</td>
-        <td>TBD</td>
+        <td>Optical wireless communications</td>
         <td>  2021 </th>
     </tr>
     <tr>
@@ -195,7 +195,7 @@ Current Students
     <tr>
         <td><IMG src="_static/bohua.jpg"></td>
         <td>Bohua Deng<br>Master Student</td>
-        <td>TBD</td>
+        <td>Optical wireless communications</td>
         <td>  2021 </th>
     </tr>
     </table>
