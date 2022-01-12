@@ -9,10 +9,10 @@ Reports
 
 
 7. 美通社首次报道课题组研究成果 2021/12/27
-   https://www.prnewswire.com/news-releases/tbsi-developed-a-multi-dimensional-intuitive-human-machine-interface-for-smart-gloves-based-on-triboelectric-nanogenerator-sensors-301450661.html
+    https://www.prnewswire.com/news-releases/tbsi-developed-a-multi-dimensional-intuitive-human-machine-interface-for-smart-gloves-based-on-triboelectric-nanogenerator-sensors-301450661.html
 
 6. 付红岩团队和丁文伯团队面向多维直观人机交互界面构建基于摩擦电传感器的智能手套 2021/10/29
-   https://mp.weixin.qq.com/s/_dbuxtFaQjtS7sq9Na5ojw
+    https://mp.weixin.qq.com/s/_dbuxtFaQjtS7sq9Na5ojw
 
 
 5. TBSI两位学生荣获2021年OECC国际会议最佳论文奖 2021/07/13
