@@ -4,8 +4,19 @@ News
 Reports
 ~~~~~~~~~~
 
+
+
+
+
+7. 美通社首次报道课题组研究成果 2021/12/27
+    https://www.prnewswire.com/news-releases/tbsi-developed-a-multi-dimensional-intuitive-human-machine-interface-for-smart-gloves-based-on-triboelectric-nanogenerator-sensors-301450661.html
+
+6. 付红岩团队和丁文伯团队面向多维直观人机交互界面构建基于摩擦电传感器的智能手套 2021/10/29
+    https://mp.weixin.qq.com/s/_dbuxtFaQjtS7sq9Na5ojw
+
+
 5. TBSI两位学生荣获2021年OECC国际会议最佳论文奖 2021/07/13
-    https://www.tbsi.edu.cn/index.php?s=/cms/1753.html    <or>
+    https://www.tbsi.edu.cn/2021/0713/c3694a28810/page.htm     <or>
     https://maiimg.com/pdf/?e=agiKXiOfFUw6M6
 
 4. TBSI信息科学系列｜光子塑造未来 Photonics Shaping the Future 2021/07/08
@@ -17,11 +28,11 @@ Reports
     https://maiimg.com/pdf/?e=agi5tmee9xyfU6
    
 2. 【科研速报】TBSI付红岩课题组获得亚洲通信与光子学会议最佳海报奖 2019/11/06
-    https://www.tbsi.edu.cn/index.php?s=/cms/1313.html   <or>
+    https://www.tbsi.edu.cn/2019/1106/c3695a27324/page.htm   <or>
     https://maiimg.com/pdf/?e=agDlLeA2R1tK66
     
 1. TBSI一带一路上的留学生故事——意大利小镇青年的深圳梦 2019/03/28
-    https://www.tbsi.edu.cn/index.php?s=/cms/1149.html   <or>
+    https://www.tbsi.edu.cn/2019/0328/c3695a27106/page.htm   <or>
     https://maiimg.com/pdf/?e=ag2ZRFudoTjkM6
     
 Photographs
