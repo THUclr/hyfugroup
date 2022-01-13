@@ -33,7 +33,7 @@ Reports
     
 1. TBSI一带一路上的留学生故事——意大利小镇青年的深圳梦 2019/03/28
     https://www.tbsi.edu.cn/2019/0328/c3695a27106/page.htm   <or>
-    https://maiimg.com/pdf/?e=ag2ZRFudoTjkM6
+    https://maiimg.com/pdf/?e=ayESeSCPTt/Hc6
     
 Photographs
 ~~~~~~~~~~
