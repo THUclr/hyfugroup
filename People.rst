@@ -273,7 +273,7 @@ Visiting Scholars
         <td>Post doctor,<br>Peking University</th>
     </tr>
      <tr>
-        <td><IMG src="_static/Zeyad.jpg" width="50px"></td>
+        <td><IMG src="_static/zeyad.jpg" width="50px"></td>
         <td>Zeyad Qasem<br>Postdoctor<br>2021-2023</td>
         <td></td>
         <td><br>Xiamen University</th>
