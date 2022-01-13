@@ -252,7 +252,7 @@ Visiting Scholars
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
         <th width="375px">Research interest</th>
-        <th width="225px">Graduate Destination</th>
+        <th width="225px">Graduate Institutions</th>
     </tr>
     <tr>
         <td><IMG src="_static/zhenmin.jpg" width="50px"></td>
@@ -264,7 +264,7 @@ Visiting Scholars
         <td><IMG src="_static/wanqing.jpg" width="50px"></td>
         <td>Wanqing Cai<br>Postdoctor<br>2021-2023</td>
         <td>Optical wireless Communications</td>
-        <td>Post doctor,<br></th>
+        <td>,<br></th>
     </tr>
      <tr>
         <td><IMG src="_static/amjad.jpg" width="50px"></td>
@@ -274,9 +274,9 @@ Visiting Scholars
     </tr>
      <tr>
         <td><IMG src="_static/Zeyad.jpg" width="50px"></td>
-        <td>Zeyad<br>Postdoctor<br>2021-2023</td>
-        <td>Optical wireless Communications</td>
-        <td>Post doctor,<br></th>
+        <td>Zeyad Qasem<br>Postdoctor<br>2021-2023</td>
+        <td></td>
+        <td><br>Xiamen University</th>
     </tr>
     </table>
     <br>
