@@ -18,7 +18,7 @@ Reports
 
 5. TBSI两位学生荣获2021年OECC国际会议最佳论文奖 2021/07/13
     https://www.tbsi.edu.cn/2021/0713/c3694a28810/page.htm     <or>
-    https://maiimg.com/pdf/?e=agiKXiOfFUw6M6
+    https://maiimg.com/pdf/?e=ayAPzCZQ9nkVM6
 
 4. TBSI信息科学系列｜光子塑造未来 Photonics Shaping the Future 2021/07/08
     https://mp.weixin.qq.com/s/H3iqQHWhywdjvz48HnzeHQ   <or>
@@ -30,7 +30,7 @@ Reports
    
 2. 【科研速报】TBSI付红岩课题组获得亚洲通信与光子学会议最佳海报奖 2019/11/06
     https://www.tbsi.edu.cn/2019/1106/c3695a27324/page.htm   <or>
-    https://maiimg.com/pdf/?e=agDlLeA2R1tK66
+    https://maiimg.com/pdf/?e=aycGvU479r0IY6
     
 1. TBSI一带一路上的留学生故事——意大利小镇青年的深圳梦 2019/03/28
     https://www.tbsi.edu.cn/2019/0328/c3695a27106/page.htm   <or>
