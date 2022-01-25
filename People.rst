@@ -262,7 +262,7 @@ Visiting Scholars
     </tr>
      <tr>
         <td><IMG src="_static/wanqing.jpg" width="50px"></td>
-        <td>Wanqing Cai<br>Postdoctor<br>-</td>
+        <td>Wanqing Cai<br>Postdoctor<br></td>
         <td>-</td>
         <td>-</th>
     </tr>
