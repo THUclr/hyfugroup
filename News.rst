@@ -43,7 +43,7 @@ Photographs
 
 .. raw:: html
 
-    <IMG src="_atastic/202201.jpg" width =500>
+    <IMG src="_static/202201.jpg" width =500>
 
 11. 欢送课题组21届毕业生 2021/07
 
