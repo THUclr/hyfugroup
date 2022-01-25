@@ -39,11 +39,11 @@ Reports
 Photographs
 ~~~~~~~~~~
 
-12. 本课题组与北大李倩老师课题组联合团建 2022/1
+12. 本课题组与北大李倩老师课题组联合团建 2022/01
 
 .. raw:: html
 
-    <IMG src="_static/202201.jpg" width =500>
+    <IMG src="_static/202201.png" width =500>
 
 11. 欢送课题组21届毕业生 2021/07
 
