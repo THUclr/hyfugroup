@@ -29,40 +29,40 @@ Reports
     https://mp.weixin.qq.com/s/H3iqQHWhywdjvz48HnzeHQ   <or>
     https://maiimg.com/pdf/?e=ag2ZRFudoTjkM6
 
-3. SIGS毕业生故事｜魏子贤：科研路上最重要的是对自己工作的自信与认同 2020/06/25
+3. SIGS毕业生故事｜魏子贤：科研路上最重要的是对自己工作的自信与认同 Stories of Graduate from SIGS, 2020/06/25
     https://mp.weixin.qq.com/s/Xkd_PIKo34UFAL6yeA1gaA   <or>
     https://maiimg.com/pdf/?e=agi5tmee9xyfU6
    
-2. 【科研速报】TBSI付红岩课题组获得亚洲通信与光子学会议最佳海报奖 Postdeadline Paper, 2019/11/06
+2. 【科研速报】TBSI付红岩课题组获得亚洲通信与光子学会议最佳海报奖 Postdeadline Paper ACP2019, 2019/11/06
     https://www.tbsi.edu.cn/2019/1106/c3695a27324/page.htm   <or>
     https://maiimg.com/pdf/?e=aycGvU479r0IY6
     
-1. TBSI一带一路上的留学生故事——意大利小镇青年的深圳梦 2019/03/28
+1. TBSI一带一路上的留学生故事——意大利小镇青年的深圳梦 the Shenzhen Dream of a Youth from an Italian Town, 2019/03/28
     https://www.tbsi.edu.cn/2019/0328/c3695a27106/page.htm   <or>
     https://maiimg.com/pdf/?e=ayESeSCPTt/Hc6
     
 Photographs
 ~~~~~~~~~~
 
-10. 本课题组与北大李倩老师课题组联合团建 2022/01
+10. 本课题组与北大李倩老师课题组联合团建 Team building with the research group of Prof. Li Qian from Peking University, 2022/01
 
 .. raw:: html
 
     <IMG src="_static/202201.png" width =500>
 
-11. 祝贺无线光通信小组获得ACP2020最佳学生文章与最佳海报奖 Contragulations to OWC group winning best student paper and best poster award in ACP2020
+11. 祝贺无线光通信小组获得ACP2020最佳学生文章与最佳海报奖 Contragulations to OWC group winning best student paper and best poster award in ACP2020, 2020/10
 
 .. raw:: html
 
     <IMG src="_static/group17.png" width=500>
 
-10. 欢迎课题组20届新生 Welcome our 2020 enrolled members
+10. 欢迎课题组20届新生 Welcome our 2020 enrolled members, 2020/09
 
 .. raw:: html
 
     <IMG src="_static/group16.jpg" width=500>
     
-9. 欢送课题组20届毕业生 2020/07
+9. 欢送课题组20届毕业生 See off the 2020 guaduates, 2020/07
 
 .. raw:: html
 
@@ -74,21 +74,21 @@ Photographs
 
     <IMG src="_static/group12.jpg" width=500>
 
-7. 诺奖得主唐娜·斯特里克兰教授参观指导纳米器件实验室 2019/10
+7. 诺奖得主唐娜·斯特里克兰教授参观指导纳米器件实验室 Nobel Prize Winner Donna Strickland visits Nano-Devices Laboratory, 2019/10
 
 .. raw:: html
 
     <IMG src="_static/group9.png" width=500>
     <IMG src="_static/group2.jpg" width=500>
     
-6. 本课题组与北大李倩老师课题组于华侨城联合团建 2019/09
+6. 本课题组与北大李倩老师课题组于华侨城联合团建 Team building with the research group of Prof. Li Qian in Shenzhen Overseas Chinese Town, 2019/09
 
 .. raw:: html
 
     <IMG src="_static/group3.jpg" width=500>
 
 
-5. 以色列特拉维夫大学Boris Malomed教授应邀到TBSI讲授" Multidimensional solitons"方面的最新研究进展 2019/09
+5. 以色列特拉维夫大学Boris Malomed教授应邀到TBSI讲授" Multidimensional solitons"方面的最新研究进展, Prof. Boris Malomed gives a lecture in TBSI, 2019/09
 
 .. raw:: html
 
@@ -107,13 +107,13 @@ Photographs
 
     <IMG src="_static/group14.jpg" width=500>
     
-2. 付红岩老师参加光通信标准化技术委员会成立大会 2019/05
+2. 付红岩老师参加光通信标准化技术委员会成立大会 Prof. Fu attended the inaugural meeting of Optical Communication Standardization Technical Committee, 2019/05
 
 .. raw:: html
 
     <IMG src="_static/group15.jpg" width=500>
     
-1. TBSI Retreat conference 2018 课题组师生分别与VCSEL发明人Kenichi Iga教授和FinFET发明人胡正明教授交流合影 2018/03
+1. TBSI Retreat conference 2018 课题组师生分别与VCSEL发明人Kenichi Iga教授和FinFET发明人胡正明教授交流合影, Communication with Prof. Kenichi Iga and Prof. Hu Zhengming, 2018/03
 
 .. raw:: html
 
