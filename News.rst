@@ -13,7 +13,7 @@ Reports
     https://maifile.cn/pdf/a74139115801.pdf
 
 
-7. 美通社首次报道课题组研究成果 TBSI developed a multi-dimensional intuitive human-machine interface for smart gloves based on triboelectric nanogenerator sensors, 2021/12/27
+7. 美通社首次报道课题组研究成果 PR Newswire reported the research results of the group for the first time, 2021/12/27
     https://www.prnewswire.com/news-releases/tbsi-developed-a-multi-dimensional-intuitive-human-machine-interface-for-smart-gloves-based-on-triboelectric-nanogenerator-sensors-301450661.html    <or>
     https://maiimg.com/pdf/?e=ayQV2p.dCFEbA6
 
