@@ -29,13 +29,13 @@ Our vision: Enabling people's future life with advanced optical technologies.
     
     
     
-欢送课题组21届毕业生 2021/07
+See off the 2021 guaduates of the research group, 2021/07
 
 .. raw:: html
     
     <IMG src="_static/202107.jpg" width=500>
-
-本课题组与北大李倩老师课题组于大鹏半岛联合团建 2020/11
+    
+Team building with the research group of Teacher Li Qian of Peking University, in Dapeng Peninsula, 2020/11
 
 .. raw:: html
     
