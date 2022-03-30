@@ -33,10 +33,10 @@ See off the 2021 guaduates of the research group, 2021/07
 
 .. raw:: html
     
-    <IMG src="_static/202107.jpg" width=500>
+    <IMG src="_static/202107.jpg" width=800>
     
 Team building with the research group of Prof. Qian Li of Peking University, in Dapeng Peninsula, 2020/11
 
 .. raw:: html
     
-    <IMG src="_static/202011.jpg" width=500>
+    <IMG src="_static/202011.jpg" width=800>
