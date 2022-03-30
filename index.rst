@@ -25,14 +25,18 @@ Our vision: Enabling people's future life with advanced optical technologies.
    News
    Resources
 
-Contragulations to OWC group winning best student paper and best poster award in ACP2020!!!
+
+    
+    
+    
+欢送课题组21届毕业生 2021/07
 
 .. raw:: html
+    
+    <IMG src="_static/202107.jpg" width=500>
 
-    <IMG src="_static/group17.png" width=500>
-
-Welcome our recently enrolled members!!
+本课题组与北大李倩老师课题组于大鹏半岛联合团建 2020/11
 
 .. raw:: html
-
-    <IMG src="_static/group16.jpg" width=500>
+    
+    <IMG src="_static/202011.jpg" width=500>
