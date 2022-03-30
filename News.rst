@@ -50,7 +50,17 @@ Photographs
 
     <IMG src="_static/202201.png" width =500>
 
+11. 祝贺无线光通信小组获得ACP2020最佳学生文章与最佳海报奖 Contragulations to OWC group winning best student paper and best poster award in ACP2020
 
+.. raw:: html
+
+    <IMG src="_static/group17.png" width=500>
+
+10. 欢迎课题组20届新生 Welcome our 2020 enrolled members
+
+.. raw:: html
+
+    <IMG src="_static/group16.jpg" width=500>
     
 9. 欢送课题组20届毕业生 2020/07
 
