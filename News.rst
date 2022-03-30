@@ -44,7 +44,7 @@ Reports
 Photographs
 ~~~~~~~~~~
 
-10. 本课题组与北大李倩老师课题组联合团建 Team building with the research group of Prof. Li Qian from Peking University, 2022/01
+10. 本课题组与北大李倩老师课题组联合团建 Team building with the research group of Prof. Qian Li from Peking University, 2022/01
 
 .. raw:: html
 
@@ -81,7 +81,7 @@ Photographs
     <IMG src="_static/group9.png" width=500>
     <IMG src="_static/group2.jpg" width=500>
     
-6. 本课题组与北大李倩老师课题组于华侨城联合团建 Team building with the research group of Prof. Li Qian in Shenzhen Overseas Chinese Town, 2019/09
+6. 本课题组与北大李倩老师课题组于华侨城联合团建 Team building with the research group of Prof. Qian Li in Shenzhen Overseas Chinese Town, 2019/09
 
 .. raw:: html
 
@@ -113,7 +113,7 @@ Photographs
 
     <IMG src="_static/group15.jpg" width=500>
     
-1. TBSI Retreat conference 2018 课题组师生分别与VCSEL发明人Kenichi Iga教授和FinFET发明人胡正明教授交流合影, Communication with Prof. Kenichi Iga and Prof. Hu Zhengming, 2018/03
+1. TBSI Retreat conference 2018 课题组师生分别与VCSEL发明人Kenichi Iga教授和FinFET发明人胡正明教授交流合影, Communication with Prof. Kenichi Iga and Prof. Zhengming Hu, 2018/03
 
 .. raw:: html
 
