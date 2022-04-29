@@ -62,14 +62,11 @@ Review Papers
 Selected Journal Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-[J1]	H.Y. Fu, Qian Li, "Light arrays measure up on a chip the size of a fingertip", **Nature** 603 (7900), 232-233
-
-[J19] H. Y. Fu* and Qian Li*, “Light arrays measure up on a chip the size of a fingertip,” Nature 603(7900), pp. 232-233, 2022.
+[J1] H. Y. Fu* and Qian Li*, “Light arrays measure up on a chip the size of a fingertip,” Nature 603(7900), pp. 232-233, 2022.
 
 [J2]	Yang Luo, Zihan Wang, Jiyu Wang Xiao Xiao, Qian Li, Wenbo Ding* and H. Y. Fu*, “Triboelectric Bending Sensor based Smart Glove towards Intuitive Multi-Dimensional Human-Machine Interfaces,” Nano Energy, Vol. 89, p.106330, 2021. (Front Cover Paper)
 
-[J3]	Y Luo, X Xiao, J Chen, Q Li, H Fu, “Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays”, ACS nano.
+[J3]	Y Luo, X Xiao, J Chen, Q Li, H Fu, “Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays”, ACS nano, Vol.16, No.4, pp.6734–6743, 2022.
 
 [J4]	Jiaye Wu, Ze Tao Xie, Yanhua Sha, H. Y. Fu, and Qian Li*, “Epsilon-near-zero photonics: infinite potentials,” Photonics Research, Vol. 9, No.8, pp. 1616-1644, 2021.
 
