@@ -63,7 +63,9 @@ Selected Journal Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-[J1]	H.Y. Fu, Qian Li, "Light arrays measure up on a chip the size of a fingertip", Nature 603 (7900), 232-233
+[J1]	H.Y. Fu, Qian Li, "Light arrays measure up on a chip the size of a fingertip", **Nature** 603 (7900), 232-233
+
+[J19] H. Y. Fu* and Qian Li*, “Light arrays measure up on a chip the size of a fingertip,” Nature 603(7900), pp. 232-233, 2022.
 
 [J2]	Yang Luo, Zihan Wang, Jiyu Wang Xiao Xiao, Qian Li, Wenbo Ding* and H. Y. Fu*, “Triboelectric Bending Sensor based Smart Glove towards Intuitive Multi-Dimensional Human-Machine Interfaces,” Nano Energy, Vol. 89, p.106330, 2021. (Front Cover Paper)
 
@@ -79,13 +81,13 @@ Selected Journal Papers
 
 [J8]	Zhenmin Chen, Xin Tu, Maolin Dai, Qian Li, and H. Y. Fu, "Kerr Frequency Comb Generation in Microsphere Resonators With Normal Dispersion," J. Lightwave Technol. 40, 1092-1097 (2022)
 
-[J9]	Zhi Li, Bonan Liu, Changrui Liao, and H. Y. Fu*, “Solid-state FMCW LiDAR with In-fiber Beam Scanner,” Optics Letters, 2022. (Accepted for Publication)
+[J9]	Zhi Li, Bonan Liu, Changrui Liao, and H. Y. Fu*, “Solid-state FMCW LiDAR with In-fiber Beam Scanner,” Optics Letters,Vol.47, No.3, pp.469-472,2022.
 
-[J10]	 Zhaoming Wang, Li Zhang, Jingzhou Li, Guodan Wei, Yuhan Dong* and H. Y. Fu*, “Fluorescent Concentrator based MISO-NOMA for Visible Light Communications,” Optics Letters, 2022. (Accepted for Publication)
+[J10]	 Zhaoming Wang, Li Zhang, Jingzhou Li, Guodan Wei, Yuhan Dong* and H. Y. Fu*, “Fluorescent Concentrator based MISO-NOMA for Visible Light Communications,” Optics Letters, Vol.47, No.4, pp.902-905, 2022.
 
-[J11]	 Zixian Wei, Mutong Li, Zhongxu Liu, Zhaoming Wang, Chao Zhang, Yanfu Yang, Changyuan Yu and H. Y. Fu*, “Parallel Mini/Micro-LEDs Transmitter: Size-dependent Effect and Gbps Multi-user Visible Light Communication,” IEEE Journal of Lightwave Technology, 2022. (Accepted for Publication)
+[J11]	 Zixian Wei, Mutong Li, Zhongxu Liu, Zhaoming Wang, Chao Zhang, Yanfu Yang, Changyuan Yu and H. Y. Fu*, “Parallel Mini/Micro-LEDs Transmitter: Size-dependent Effect and Gbps Multi-user Visible Light Communication,” IEEE Journal of Lightwave Technology, 40(8), pp.2329-2340, 2022. 
 
-[J12]	 Zhenmin Chen, Xin Tu, Maolin Dai, Qian Li, and H. Y. Fu*, “Frequency Comb Generation in Microsphere Resonators with Normal Dispersion,” IEEE Journal of Lightwave Technology, 2022. (Accepted for Publication)
+[J12]	 Zhenmin Chen, Xin Tu, Maolin Dai, Qian Li, and H. Y. Fu*, “Frequency Comb Generation in Microsphere Resonators with Normal Dispersion,” IEEE Journal of Lightwave Technology, Vol.40, No.4, pp.1092-1097, 2022. 
 
 [J13]	 Yuanfang Zhao, M. S. Aruna Gandhi, Zhengyong Liu, Qian Li, and H. Y. Fu*, “Vernier effect assisted sucrose sensor based on cascaded Sagnac interferometer with no-core fiber,” Biomedical Optics Express, Vol.12, No. 12, pp.7338-7347, 2021. 
 
