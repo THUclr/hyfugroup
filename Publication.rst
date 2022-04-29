@@ -68,85 +68,87 @@ Selected Journal Papers
 
 [J3]	Y Luo, X Xiao, J Chen, Q Li, H Fu, “Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays”, ACS nano, Vol.16, No.4, pp.6734–6743, 2022.
 
-[J4]	Jiaye Wu, Ze Tao Xie, Yanhua Sha, H. Y. Fu, and Qian Li*, “Epsilon-near-zero photonics: infinite potentials,” Photonics Research, Vol. 9, No.8, pp. 1616-1644, 2021.
+[J4] Wanqing Cai, Muhammad Umair Ali, Ping Liu, Miao He, Cong Zhao, Ziming Chen, Yue Zang, Man-Chung Tang, Hong Meng, Hongyan Fu*, Guodan Wei*, and Hin-Lap Yip*, “Unravelling Alkali-Metal-Assisted Domain Distribution of Quasi-2D Perovskites for Cascade Energy Transfer towards Efficient Blue Light-Emitting Diodes,” Advanced Science, 2022. (Accepted)
 
-[J5]	Lei Wang, Zixian Wei, Chien-Ju Chen, Lai Wang*, H. Y. Fu*, Li Zhang, Kai-Chia Chen, Meng-Chyi Wu*, Yuhan Dong, Zhibiao Hao, and Yi Luo, “1.3 GHz E-O bandwidth GaN-based micro-LED for multi-gigabit visible light communication,” Photonics Research, Vol. 9, No. 5, pp.792-802, 2021. (Editor’s Pick)
+[J5]	Jiaye Wu, Ze Tao Xie, Yanhua Sha, H. Y. Fu, and Qian Li*, “Epsilon-near-zero photonics: infinite potentials,” Photonics Research, Vol. 9, No.8, pp. 1616-1644, 2021.
 
-[J6]	MSA Gandhi, Y Zhao, C Huang, Y Zhang, HY Fu, Q Li, ”Highly sensitive refractive index sensor based on plastic optical fiber balloon structure”, Optics Letters 47 (7), 1697-1700
+[J6]	Lei Wang, Zixian Wei, Chien-Ju Chen, Lai Wang*, H. Y. Fu*, Li Zhang, Kai-Chia Chen, Meng-Chyi Wu*, Yuhan Dong, Zhibiao Hao, and Yi Luo, “1.3 GHz E-O bandwidth GaN-based micro-LED for multi-gigabit visible light communication,” Photonics Research, Vol. 9, No. 5, pp.792-802, 2021. (Editor’s Pick)
 
-[J7]	Zhaoming Wang, Li Zhang, Jingzhou Li, Guodan Wei, Yuhan Dong, and H. Y. Fu, "Fluorescent concentrator based MISO-NOMA for visible light communications," Opt. Lett. 47, 902-905 (2022)
+[J7]	MSA Gandhi, Y Zhao, C Huang, Y Zhang, HY Fu, Q Li, ”Highly sensitive refractive index sensor based on plastic optical fiber balloon structure”, Optics Letters 47 (7), 1697-1700
 
-[J8]	Zhenmin Chen, Xin Tu, Maolin Dai, Qian Li, and H. Y. Fu, "Kerr Frequency Comb Generation in Microsphere Resonators With Normal Dispersion," J. Lightwave Technol. 40, 1092-1097 (2022)
+[J8]	Zhaoming Wang, Li Zhang, Jingzhou Li, Guodan Wei, Yuhan Dong, and H. Y. Fu, "Fluorescent concentrator based MISO-NOMA for visible light communications," Opt. Lett. 47, 902-905 (2022)
 
-[J9]	Zhi Li, Bonan Liu, Changrui Liao, and H. Y. Fu*, “Solid-state FMCW LiDAR with In-fiber Beam Scanner,” Optics Letters,Vol.47, No.3, pp.469-472,2022.
+[J9]	Zhenmin Chen, Xin Tu, Maolin Dai, Qian Li, and H. Y. Fu, "Kerr Frequency Comb Generation in Microsphere Resonators With Normal Dispersion," J. Lightwave Technol. 40, 1092-1097 (2022)
 
-[J10]	 Zhaoming Wang, Li Zhang, Jingzhou Li, Guodan Wei, Yuhan Dong* and H. Y. Fu*, “Fluorescent Concentrator based MISO-NOMA for Visible Light Communications,” Optics Letters, Vol.47, No.4, pp.902-905, 2022.
+[J10]	Zhi Li, Bonan Liu, Changrui Liao, and H. Y. Fu*, “Solid-state FMCW LiDAR with In-fiber Beam Scanner,” Optics Letters,Vol.47, No.3, pp.469-472,2022.
 
-[J11]	 Zixian Wei, Mutong Li, Zhongxu Liu, Zhaoming Wang, Chao Zhang, Yanfu Yang, Changyuan Yu and H. Y. Fu*, “Parallel Mini/Micro-LEDs Transmitter: Size-dependent Effect and Gbps Multi-user Visible Light Communication,” IEEE Journal of Lightwave Technology, 40(8), pp.2329-2340, 2022. 
+[J11]	 Zhaoming Wang, Li Zhang, Jingzhou Li, Guodan Wei, Yuhan Dong* and H. Y. Fu*, “Fluorescent Concentrator based MISO-NOMA for Visible Light Communications,” Optics Letters, Vol.47, No.4, pp.902-905, 2022.
 
-[J12]	 Zhenmin Chen, Xin Tu, Maolin Dai, Qian Li, and H. Y. Fu*, “Frequency Comb Generation in Microsphere Resonators with Normal Dispersion,” IEEE Journal of Lightwave Technology, Vol.40, No.4, pp.1092-1097, 2022. 
+[J12]	 Zixian Wei, Mutong Li, Zhongxu Liu, Zhaoming Wang, Chao Zhang, Yanfu Yang, Changyuan Yu and H. Y. Fu*, “Parallel Mini/Micro-LEDs Transmitter: Size-dependent Effect and Gbps Multi-user Visible Light Communication,” IEEE Journal of Lightwave Technology, 40(8), pp.2329-2340, 2022. 
 
-[J13]	 Yuanfang Zhao, M. S. Aruna Gandhi, Zhengyong Liu, Qian Li, and H. Y. Fu*, “Vernier effect assisted sucrose sensor based on cascaded Sagnac interferometer with no-core fiber,” Biomedical Optics Express, Vol.12, No. 12, pp.7338-7347, 2021. 
+[J13]	 Zhenmin Chen, Xin Tu, Maolin Dai, Qian Li, and H. Y. Fu*, “Frequency Comb Generation in Microsphere Resonators with Normal Dispersion,” IEEE Journal of Lightwave Technology, Vol.40, No.4, pp.1092-1097, 2022. 
 
-[J14]	 Zhaoming Wang, Zixian Wei, Yuting Cai, Lei Wang, Mutong Li, Siwei Zhang, Rong-Jun Xie, Lai Wang, Guodan Wei * and H. Y. Fu*, “Microencapsulation-Enabled Air-stable Perovskite-PMMA Films Combining a Micro-LED for High-speed Visible White Light Communication,” ACS Applied Materials & Interfaces, Vol.13, pp. 54143-54151, 2021.
+[J14]	 Yuanfang Zhao, M. S. Aruna Gandhi, Zhengyong Liu, Qian Li, and H. Y. Fu*, “Vernier effect assisted sucrose sensor based on cascaded Sagnac interferometer with no-core fiber,” Biomedical Optics Express, Vol.12, No. 12, pp.7338-7347, 2021. 
 
-[J15]	 Ping Liu, Wanqing Cai, Cong Zhao, Si-Wei Zhang, Pengbo Nie, Wenzhan Xu, Hong Meng, H. Y. Fu, and Guodan Wei*, “Quasi-2D CsPbBrxI3−x Composite Thin Films for Efficient and Stable Red Perovskite Light-Emitting Diodes,” Advanced Optical Materials, p. 2101419, 2021. 
+[J15]	 Zhaoming Wang, Zixian Wei, Yuting Cai, Lei Wang, Mutong Li, Siwei Zhang, Rong-Jun Xie, Lai Wang, Guodan Wei * and H. Y. Fu*, “Microencapsulation-Enabled Air-stable Perovskite-PMMA Films Combining a Micro-LED for High-speed Visible White Light Communication,” ACS Applied Materials & Interfaces, Vol.13, pp. 54143-54151, 2021.
 
-[J16]	 Xuanyi Liu, Qian Li*, Denghui Pan, Feng Ye, Boris A. Malomed and H. Y. Fu**, “A robust and novel linear fiber laser mode-locked by nonlinear polarization evolution in all-polarization-maintaining fibers,” IEEE Journal of Lightwave Technology, Vol. 39, No. 23, pp. 7509 - 7516, 2021.
+[J16]	 Ping Liu, Wanqing Cai, Cong Zhao, Si-Wei Zhang, Pengbo Nie, Wenzhan Xu, Hong Meng, H. Y. Fu, and Guodan Wei*, “Quasi-2D CsPbBrxI3−x Composite Thin Films for Efficient and Stable Red Perovskite Light-Emitting Diodes,” Advanced Optical Materials, p. 2101419, 2021. 
 
-[J17]	 Lirong Cheng, Simei Mao, Zhenmin Chen, Yinghui Wang, Caiyue Zhao, and H. Y. Fu*, “Ultra-compact dual-mode mode-size converter for silicon photonic few-mode fiber interface,” Optics Express, Vol.29, Vol.8, pp.28066-28077, 2021.
+[J17]	 Xuanyi Liu, Qian Li*, Denghui Pan, Feng Ye, Boris A. Malomed and H. Y. Fu**, “A robust and novel linear fiber laser mode-locked by nonlinear polarization evolution in all-polarization-maintaining fibers,” IEEE Journal of Lightwave Technology, Vol. 39, No. 23, pp. 7509 - 7516, 2021.
 
-[J18]	 Zixian Wei, Zhongxu Liu, Xin Liu, Lei Wang, Lai Wang*, Changyuan Yu, and H. Y. Fu*, “8.75 Gbps visible light communication link using artificial neural network equalizer and single-pixel blue micro-LED,” Optics Letters, Vol.46, No.18, pp.4670-4673, 2021.
+[J18]	 Lirong Cheng, Simei Mao, Zhenmin Chen, Yinghui Wang, Caiyue Zhao, and H. Y. Fu*, “Ultra-compact dual-mode mode-size converter for silicon photonic few-mode fiber interface,” Optics Express, Vol.29, Vol.8, pp.28066-28077, 2021.
 
-[J19]	 Simei Mao, Lirong Cheng, Caiyue Zhao and H. Y. Fu*, “Ultra-broadband and ultra-compact polarization beam splitter based on tapered subwavelength-grating waveguide and slot waveguide,” Optics Express, Vol.29, Vol.8, pp.28066-28077, 2021.
+[J19]	 Zixian Wei, Zhongxu Liu, Xin Liu, Lei Wang, Lai Wang*, Changyuan Yu, and H. Y. Fu*, “8.75 Gbps visible light communication link using artificial neural network equalizer and single-pixel blue micro-LED,” Optics Letters, Vol.46, No.18, pp.4670-4673, 2021.
 
-[J20]	 Jiaye Wu, Xuanyi Liu, Haishi Fu, Yingkai Zheng, Kuan-Chang Chang, Shengdong Zhang, H. Y. Fu and Qian Li*, “Manipulation and enhancement of optical properties in epsilon-near-zero nanolayer by supercritical fluid,” Scientific Reports, Vol.11, No.1, pp.1-8, 2021. 
+[J20]	 Simei Mao, Lirong Cheng, Caiyue Zhao and H. Y. Fu*, “Ultra-broadband and ultra-compact polarization beam splitter based on tapered subwavelength-grating waveguide and slot waveguide,” Optics Express, Vol.29, Vol.8, pp.28066-28077, 2021.
 
-[J21]	 Lirong Cheng, Simei Mao, Xin Tu and H. Y. Fu*, “Dual-wavelength-band grating coupler on 220-nm silicon-on-insulator with high numerical aperture fiber placed perfectly-vertically,” IEEE Journal of Lightwave Technology, Vol. 39, No. 8, pp. 5902-5909, 2021.
+[J21]	 Jiaye Wu, Xuanyi Liu, Haishi Fu, Yingkai Zheng, Kuan-Chang Chang, Shengdong Zhang, H. Y. Fu and Qian Li*, “Manipulation and enhancement of optical properties in epsilon-near-zero nanolayer by supercritical fluid,” Scientific Reports, Vol.11, No.1, pp.1-8, 2021. 
 
-[J22]	 Lirong Cheng, Simei Mao, Caiyue Zhao, Xin Tu, Qian Li and H. Y. Fu*, “Highly-efficient dual-wavelength-band-multiplexing three-port grating coupler on 220-nm silicon-on-insulator with 248-nm deep-UV lithography,” Optics Letters, Vol. 46, No.13, pp. 3308-3311, 2021.
+[J22]	 Lirong Cheng, Simei Mao, Xin Tu and H. Y. Fu*, “Dual-wavelength-band grating coupler on 220-nm silicon-on-insulator with high numerical aperture fiber placed perfectly-vertically,” IEEE Journal of Lightwave Technology, Vol. 39, No. 8, pp. 5902-5909, 2021.
 
-[J23]	 Zhi Li, Zihan Zang, Zixian Wei, Yaqi Han, Lican Wu, Mutong Li, Zhenquan Zhao and H. Y. Fu*, “Multi-user accessible indoor optical wireless communication systems employing VIPA-based 2D optical beam-steering technique,” Optics Express, Vol. 29, No. 13, pp. 20175-20189, 2021. 
+[J23]	 Lirong Cheng, Simei Mao, Caiyue Zhao, Xin Tu, Qian Li and H. Y. Fu*, “Highly-efficient dual-wavelength-band-multiplexing three-port grating coupler on 220-nm silicon-on-insulator with 248-nm deep-UV lithography,” Optics Letters, Vol. 46, No.13, pp. 3308-3311, 2021.
 
-[J24]	 Xin Liu, Zixian Wei, Mutong Li, Lei Wang, Zhongxu Liu, Changyuan Yu, Lai Wang*, Yi Luo, and H. Y. Fu*, “16.6 Gbps SDM-CWDM visible light communication using neural network-based receiver and triple color micro-LEDs,” Optics Letters, Vol. 46, No.12, pp. 2888-2891,2021. 
+[J24]	 Zhi Li, Zihan Zang, Zixian Wei, Yaqi Han, Lican Wu, Mutong Li, Zhenquan Zhao and H. Y. Fu*, “Multi-user accessible indoor optical wireless communication systems employing VIPA-based 2D optical beam-steering technique,” Optics Express, Vol. 29, No. 13, pp. 20175-20189, 2021. 
 
-[J25]	 Zhi Li, Zihan Zang, Yaqi Han, Lican Wu and H. Y. Fu*, “Solid-state FMCW LiDAR with two-dimensional spectral scanning using a virtually imaged phased array,” Optics Express, Vol. 29, No. 11, pp. 16547-16562, 2021. 
+[J25]	 Xin Liu, Zixian Wei, Mutong Li, Lei Wang, Zhongxu Liu, Changyuan Yu, Lai Wang*, Yi Luo, and H. Y. Fu*, “16.6 Gbps SDM-CWDM visible light communication using neural network-based receiver and triple color micro-LEDs,” Optics Letters, Vol. 46, No.12, pp. 2888-2891,2021. 
 
-[J26]	 Simei Mao, Lirong Cheng, Caiyue Zhao, Faisal Nadeem Khan, Qian Li and H. Y. Fu*, “Inverse Design for Silicon Photonics: From Iterative Optimization Algorithms to Deep Neural Networks,” Applied Science, No. 11, p.3822, 2021. 
+[J26]	 Zhi Li, Zihan Zang, Yaqi Han, Lican Wu and H. Y. Fu*, “Solid-state FMCW LiDAR with two-dimensional spectral scanning using a virtually imaged phased array,” Optics Express, Vol. 29, No. 11, pp. 16547-16562, 2021. 
 
-[J27]	 Xin Tu, Wansheng Xie, Zhenmin Chen, Ming-Feng Ge, Tianye Huang, Chaolong Song and H. Y. Fu*, “Analysis of Deep Neural Network Models for Inverse Design of Silicon Photonic Grating Coupler,” IEEE Journal of Lightwave Technology, Vol. 39, No. 9, pp. 2790-2799, 2021. 
+[J27]	 Simei Mao, Lirong Cheng, Caiyue Zhao, Faisal Nadeem Khan, Qian Li and H. Y. Fu*, “Inverse Design for Silicon Photonics: From Iterative Optimization Algorithms to Deep Neural Networks,” Applied Science, No. 11, p.3822, 2021. 
 
-[J28]	 Zixian Wei, Shi Zhang, Simei Mao, Lei Wang, Li Zhang, Chien-ju Chen, Meng-Chyi Wu, Yuhan Dong, Lai Wang*, Yi Luo and H. Y. Fu*, “Full-duplex high-speed indoor optical wireless communication system based on a micro-LED and VCSEL array,” Optics Express, Vol. 29, No. 3, pp. 3891-3903, 2021. 
+[J28]	 Xin Tu, Wansheng Xie, Zhenmin Chen, Ming-Feng Ge, Tianye Huang, Chaolong Song and H. Y. Fu*, “Analysis of Deep Neural Network Models for Inverse Design of Silicon Photonic Grating Coupler,” IEEE Journal of Lightwave Technology, Vol. 39, No. 9, pp. 2790-2799, 2021. 
 
-[J29]	 Yuanfang Zhao, Maolin Dai, Zhenmin Chen, Xuanyi Liu, M. S. Aruna Gandhi, Qian Li and H. Y. Fu*, “Ultrasensitive temperature fiber sensor with Vernier effect improved Michelson interferometer,” Optics Express, Vol. 29, No. 2, pp. 1090-1101, 2021. 
+[J29]	 Zixian Wei, Shi Zhang, Simei Mao, Lei Wang, Li Zhang, Chien-ju Chen, Meng-Chyi Wu, Yuhan Dong, Lai Wang*, Yi Luo and H. Y. Fu*, “Full-duplex high-speed indoor optical wireless communication system based on a micro-LED and VCSEL array,” Optics Express, Vol. 29, No. 3, pp. 3891-3903, 2021. 
 
-[J30]	 Zhenmin Chen, Qian Li, and H. Y. Fu*, “Stimulated Brillouin scattering by dual lasers pumping in WGM microcavities,” IEEE Photonics Journal, Vol. 12, No. 6, p. 6101108, 2020. 
+[J30]	 Yuanfang Zhao, Maolin Dai, Zhenmin Chen, Xuanyi Liu, M. S. Aruna Gandhi, Qian Li and H. Y. Fu*, “Ultrasensitive temperature fiber sensor with Vernier effect improved Michelson interferometer,” Optics Express, Vol. 29, No. 2, pp. 1090-1101, 2021. 
 
-[J31]	 Sailong Wu, Simei Mao, Lidan Zhou, Lin Liu, Yujie Chen*, Xin Mu, Lirong Cheng, Zhenmin Chen, Xin Tu, and H. Y. Fu*, “A compact and polarization-insensitive silicon waveguide crossing based on subwavelength grating MMI couplers,” Optics Express, Vol. 28, No. 19, pp. 27268-27276, 2020. 
+[J31]	 Zhenmin Chen, Qian Li, and H. Y. Fu*, “Stimulated Brillouin scattering by dual lasers pumping in WGM microcavities,” IEEE Photonics Journal, Vol. 12, No. 6, p. 6101108, 2020. 
 
-[J32]	 Zixian Wei, Li Zhang, Lei Wang, Chien-Ju Chen, Zhaoming Wang, Kai-Chia Chen, Meng-Chyi Wu, Yuhan Dong, Lai Wang, Yi Luo and H. Y. Fu*, “Multi-user high-speed QAM-OFDMA visible light communication system using a 75-μm single layer quantum dot micro-LED,” Optics Express, Vol. 28, No.12, pp. 18332-18342, 2020. 
+[J32]	 Sailong Wu, Simei Mao, Lidan Zhou, Lin Liu, Yujie Chen*, Xin Mu, Lirong Cheng, Zhenmin Chen, Xin Tu, and H. Y. Fu*, “A compact and polarization-insensitive silicon waveguide crossing based on subwavelength grating MMI couplers,” Optics Express, Vol. 28, No. 19, pp. 27268-27276, 2020. 
 
-[J33]	 Zixian Wei, Li Zhang, Lei Wang, Chien-Ju Chen, Alberto Pepe, Xin Liu, Kai-Chia Chen, Meng-Chyi Wu, Yuhan Dong, Lai Wang*, Yi Luo，and H. Y. Fu*, “2 Gbps/3 m air–underwater optical wireless communication based on a single-layer quantum dot blue micro-LED,” Optics Letters, Vol. 45, No. 9, pp. 2616-2619, 2020. 
+[J33]	 Zixian Wei, Li Zhang, Lei Wang, Chien-Ju Chen, Zhaoming Wang, Kai-Chia Chen, Meng-Chyi Wu, Yuhan Dong, Lai Wang, Yi Luo and H. Y. Fu*, “Multi-user high-speed QAM-OFDMA visible light communication system using a 75-μm single layer quantum dot micro-LED,” Optics Express, Vol. 28, No.12, pp. 18332-18342, 2020. 
 
-[J34]	 Renlai Zhou, Xuanyi Liu, Dan Yu, Qian Li* and H. Y. Fu**, “Versatile multi-soliton patterns of noise-like pulses in a passively mode-locked fiber laser,” Optics Express, Vol. 28, No. 2, pp. 912-923, 2020.
+[J34]	 Zixian Wei, Li Zhang, Lei Wang, Chien-Ju Chen, Alberto Pepe, Xin Liu, Kai-Chia Chen, Meng-Chyi Wu, Yuhan Dong, Lai Wang*, Yi Luo，and H. Y. Fu*, “2 Gbps/3 m air–underwater optical wireless communication based on a single-layer quantum dot blue micro-LED,” Optics Letters, Vol. 45, No. 9, pp. 2616-2619, 2020. 
 
-[J35]	 Zhenmin Chen, Zhihe Guo, Xin Mu, Qian Li, Xiang Wu, and H. Y. Fu*, “Packaged microbubble resonator optofluidic flow rate sensor based on Bernoulli Effect,” Optics Express, Vol. 27, No. 25, pp. 36932-36940, 2019. 
+[J35]	 Renlai Zhou, Xuanyi Liu, Dan Yu, Qian Li* and H. Y. Fu**, “Versatile multi-soliton patterns of noise-like pulses in a passively mode-locked fiber laser,” Optics Express, Vol. 28, No. 2, pp. 912-923, 2020.
 
-[J36]	 Renlai Zhou, Dan Yu, Xuanyi Liu, Qian Li* and H. Y. Fu**, “Dark rectangular noise-like pulses in a figure-nine fiber laser based on a nonlinear amplifying loop mirror,” Optics Letters, Vol. 44, No. 15, pp. 3717-3720, 2019. 
+[J36]	 Zhenmin Chen, Zhihe Guo, Xin Mu, Qian Li, Xiang Wu, and H. Y. Fu*, “Packaged microbubble resonator optofluidic flow rate sensor based on Bernoulli Effect,” Optics Express, Vol. 27, No. 25, pp. 36932-36940, 2019. 
 
-[J37]	 Renlai Zhou, Rongle Huang, Qian Li* and H. Y. Fu**, “Raman soliton at 2 μm in picosecond pumped supercontinuum by a weak CW trigger,” Optics Express, Vol. 27, No. 9, pp. 12976-12986, 2019.
+[J37]	 Renlai Zhou, Dan Yu, Xuanyi Liu, Qian Li* and H. Y. Fu**, “Dark rectangular noise-like pulses in a figure-nine fiber laser based on a nonlinear amplifying loop mirror,” Optics Letters, Vol. 44, No. 15, pp. 3717-3720, 2019. 
 
-[J38]	 H. Y. Fu, Sunil K. Khijwania, H. Y. Tam, P. K. A. Wai and C. Lu, “Polarization-maintaining Photonic Crystal Fiber based All-optical Polarimetric Torsion Sensor,” Applied Optics, Vol. 49, No. 31, pp. 5954-5958, 2010.
+[J38]	 Renlai Zhou, Rongle Huang, Qian Li* and H. Y. Fu**, “Raman soliton at 2 μm in picosecond pumped supercontinuum by a weak CW trigger,” Optics Express, Vol. 27, No. 9, pp. 12976-12986, 2019.
 
-[J39]	 H. Y. Fu, Chuang Wu, M. L. V. Tse, Lin Zhang, Kei-Chun Davis Cheng, H. Y. Tam, Bai-Ou Guan, and C. Lu, “High pressure sensor based on photonic crystal fiber for downhole application,” Applied Optics, Vol. 49, No. 14, pp. 2639-2643, 2010.
+[J39]	 H. Y. Fu, Sunil K. Khijwania, H. Y. Tam, P. K. A. Wai and C. Lu, “Polarization-maintaining Photonic Crystal Fiber based All-optical Polarimetric Torsion Sensor,” Applied Optics, Vol. 49, No. 31, pp. 5954-5958, 2010.
 
-[J40]	 H. Y. Fu, A. C. L. Wong, P. A. Childs, H. Y. Tam, Y. B. Liao, C. Lu and P. K. A. Wai, “Multiplexing of Polarization-maintaining Photonic Crystal Fiber based Sagnac Interferometric Sensors,” Optics Express, Vol. 17, No.21, pp. 18501-18512, 2009.
+[J40]	 H. Y. Fu, Chuang Wu, M. L. V. Tse, Lin Zhang, Kei-Chun Davis Cheng, H. Y. Tam, Bai-Ou Guan, and C. Lu, “High pressure sensor based on photonic crystal fiber for downhole application,” Applied Optics, Vol. 49, No. 14, pp. 2639-2643, 2010.
 
-[J41]	 H. Y. Fu, H. L. Liu, W. H. Chung, and H. Y. Tam, “A Novel Fiber Bragg Grating Sensor Configuration for Long-distance Quasi-Distributed Measurement,” IEEE Sensors Journal, Vol. 8, No. 9, pp. 1598-1602, 2008.
+[J41]	 H. Y. Fu, A. C. L. Wong, P. A. Childs, H. Y. Tam, Y. B. Liao, C. Lu and P. K. A. Wai, “Multiplexing of Polarization-maintaining Photonic Crystal Fiber based Sagnac Interferometric Sensors,” Optics Express, Vol. 17, No.21, pp. 18501-18512, 2009.
 
-[J42]	 H. Y. Fu, H. Y. Tam, L. Y. Shao, X. Y. Dong, P. K. A. Wai, C. Lu, and Sunil K. Khijwania, “Pressure Sensor Realized with Polarization-maintaining Photonic Crystal Fiber based Sagnac Interferometer,” Applied Optics, Vol. 47, No. 15, pp. 2835-2839, 2008. (Google scholar Citations: >300，Top 20 Most Cited articles on Applied Optics over the last 5 year at 50 Year Anniversary in 2012)
+[J42]	 H. Y. Fu, H. L. Liu, W. H. Chung, and H. Y. Tam, “A Novel Fiber Bragg Grating Sensor Configuration for Long-distance Quasi-Distributed Measurement,” IEEE Sensors Journal, Vol. 8, No. 9, pp. 1598-1602, 2008.
 
-[J43]	 H. Y. Fu, H. L. Liu, X. Y. Dong, H. Y. Tam, P. K. A. Wai, and C. Lu, “High-speed Fibre Bragg Grating Sensor Interrogation Using Dispersion Compensation Fibre,” Electronics Letters, Vol. 44, No. 10, pp. 618-619, 2008.
+[J43]	 H. Y. Fu, H. Y. Tam, L. Y. Shao, X. Y. Dong, P. K. A. Wai, C. Lu, and Sunil K. Khijwania, “Pressure Sensor Realized with Polarization-maintaining Photonic Crystal Fiber based Sagnac Interferometer,” Applied Optics, Vol. 47, No. 15, pp. 2835-2839, 2008. (Google scholar Citations: >300，Top 20 Most Cited articles on Applied Optics over the last 5 year at 50 Year Anniversary in 2012)
+
+[J44]	 H. Y. Fu, H. L. Liu, X. Y. Dong, H. Y. Tam, P. K. A. Wai, and C. Lu, “High-speed Fibre Bragg Grating Sensor Interrogation Using Dispersion Compensation Fibre,” Electronics Letters, Vol. 44, No. 10, pp. 618-619, 2008.
 
 
 
