@@ -115,28 +115,28 @@ Current Students
         <td>  2021 </th>
     </tr>
     <tr>
-        <td><IMG src="_static/lizhi.jpg"></td>
-        <td>Zhi Li<br>Master Student</td>
-        <td>LiDAR, beam steering</td>
-        <td>  2019 </th>
+        <td><IMG src="_static/qingyang.jpg"></td>
+        <td>Qingyang Zhu<br>PhD Student</td>
+        <td>LiDAR</td>
+        <td>  2022 </th>
     </tr>
     <tr>
-        <td><IMG src="_static/maolin.jpg"></td>
-        <td>Maolin Dai<br>Master Student</td>
-        <td>Microcavity, sensing</td>
-        <td>  2019 </th>
-    </tr>
-    <tr>
-        <td><IMG src="_static/yang.jpg"></td>
-        <td>Yang Luo<br>Master Student</td>
-        <td>Optomachanics</td>
-        <td>  2019 </th>
-    </tr>
-    <tr>
-        <td><IMG src="_static/zhaoming.jpg"></td>
-        <td>Zhaoming Wang<br>Master Student</td>
+        <td><IMG src="_static/siyu.jpg"></td>
+        <td>Siyu Bai<br>PhD Student</td>
         <td>Optical wireless communications</td>
-        <td>  2019 </th>
+        <td>  2022 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/haoyi.jpg"></td>
+        <td>Yi Hao<br>PhD Student</td>
+        <td>LiDAR</td>
+        <td>  2022 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/zhiyan.jpg"></td>
+        <td>Zhiyan Chen<br>PhD Student</td>
+        <td>Optical wireless communications</td>
+        <td>  2022 </th>
     </tr>
     <tr>
         <td><IMG src="_static/zhenquan.jpg"></td>
@@ -252,7 +252,7 @@ Graduated Students
         <td>Ph.D. Candidate,<br>École Polytechnique Fédérale de Lausanne (EPFL)</th>
     </tr>
     <tr>
-        <td><IMG src="_static/maolin.jpg" width="50px"></td>
+        <td><IMG src="_static/maolin_1.jpg" width="50px"></td>
         <td>Maolin Dai<br>Master Student<br>2019-2022</td>
         <td>Photonic devices: sensors and lasers</td>
         <td>Ph.D. Candidate,<br>the University of Tokyo</th>
@@ -280,25 +280,25 @@ Visiting Scholars
     </tr>
     <tr>
         <td><IMG src="_static/zhenmin.jpg" width="50px"></td>
-        <td>Zhenmin Chen<br>Postdoctor<br>2018-2020</td>
+        <td>Zhenmin Chen<br>Postdoctor(FDU)<br>2018-2020</td>
         <td>Microcavity, sensing</td>
         <td>Research Assistant,<br>Peng Cheng Laboratory</th>
     </tr>
      <tr>
         <td><IMG src="_static/wanqing.jpg" width="50px"></td>
-        <td>Wanqing Cai<br>Postdoctor<br>2020-2022</td>
+        <td>Wanqing Cai<br>Postdoctor(SCUT)<br>2020-2022</td>
         <td>Blue Perovskite LEDs</td>
         <td>-</th>
     </tr>
      <tr>
         <td><IMG src="_static/amjad.jpg" width="50px"></td>
-        <td>Amjad Ali Amjad<br>Postdoctor<br>2021-2023</td>
+        <td>Amjad Ali Amjad<br>Postdoctor(ZJU)<br>2021-2023</td>
         <td>Optical wireless Communications</td>
         <td>-</th>
     </tr>
      <tr>
         <td><IMG src="_static/zeyad.jpg" width="50px"></td>
-        <td>Zeyad Qasem<br>Postdoctor<br>2022-2024</td>
+        <td>Zeyad Qasem<br>Postdoctor(XMU)<br>2022-2024</td>
         <td>Optical wireless Communications</td>
         <td>-</th>
     </tr>
