@@ -280,25 +280,25 @@ Visiting Scholars
     </tr>
     <tr>
         <td><IMG src="_static/zhenmin.jpg" width="50px"></td>
-        <td>Zhenmin Chen(PhD,Fudan U.)<br>Postdoc<br>2018-2020</td>
+        <td>Zhenmin Chen (PhD, Fudan U.)<br>Postdoc<br>2018-2020</td>
         <td>Microcavity, sensing</td>
         <td>Research Assistant,<br>Peng Cheng Laboratory</th>
     </tr>
      <tr>
         <td><IMG src="_static/wanqing.jpg" width="50px"></td>
-        <td>Wanqing Cai(PhD,SCUT)<br>Postdoc<br>2020-2022</td>
+        <td>Wanqing Cai (PhD, SCUT)<br>Postdoc<br>2020-2022</td>
         <td>Blue Perovskite LEDs</td>
         <td>-</th>
     </tr>
      <tr>
         <td><IMG src="_static/amjad.jpg" width="50px"></td>
-        <td>Amjad Ali Amjad(PhD,Zhejiang U.)<br>Postdoc<br>2021-2023</td>
+        <td>Amjad Ali Amjad (PhD, Zhejiang U.)<br>Postdoc<br>2021-2023</td>
         <td>Optical wireless Communications</td>
         <td>-</th>
     </tr>
      <tr>
         <td><IMG src="_static/zeyad.jpg" width="50px"></td>
-        <td>Zeyad Qasem(PhD, Xiamen U.)<br>Postdoc<br>2022-2024</td>
+        <td>Zeyad Qasem (PhD, Xiamen U.)<br>Postdoc<br>2022-2024</td>
         <td>Optical wireless Communications</td>
         <td>-</th>
     </tr>
