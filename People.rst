@@ -258,7 +258,7 @@ Graduated Students
         <td>Ph.D. Candidate,<br>the University of Tokyo</th>
     </tr>
     <tr>
-        <td><IMG src="_static/zhaoming.jpg" width="50px"></td>
+        <td><IMG src="_static/zhaoming_1.jpg" width="50px"></td>
         <td>Zhaoming Wang<br>Master Student<br>2019-2022</td>
         <td>Optical wireless Communications</td>
         <td>Ph.D. Candidate,<br>University of Oxford</th>
