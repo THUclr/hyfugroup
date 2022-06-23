@@ -239,6 +239,30 @@ Graduated Students
         <td>Silicon photonics: edge couplers</td>
         <td>Ph.D. Candidate,<br>University of Toronto</th>
     </tr>
+    <tr>
+        <td><IMG src="_static/yang.jpg" width="50px"></td>
+        <td>Yang Luo<br>Master Student<br>2019-2022</td>
+        <td>Flexible electronics and its applications</td>
+        <td>Ph.D. Candidate,<br>University of California, Los Angeles</th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/lizhi.jpg" width="50px"></td>
+        <td>Zhi Li<br>Master Student<br>2019-2022</td>
+        <td>LiDAR</td>
+        <td>Ph.D. Candidate,<br>École Polytechnique Fédérale de Lausanne (EPFL)</th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/maolin.jpg" width="50px"></td>
+        <td>Maolin Dai<br>Master Student<br>2019-2022</td>
+        <td>Photonic devices: sensors and lasers</td>
+        <td>Ph.D. Candidate,<br>the University of Tokyo</th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/zhaoming.jpg" width="50px"></td>
+        <td>Zhaoming Wang<br>Master Student<br>2019-2022</td>
+        <td>Optical wireless Communications</td>
+        <td>Ph.D. Candidate,<br>University of Oxford</th>
+    </tr>
     </table>
     <br>
     <br>
@@ -262,8 +286,8 @@ Visiting Scholars
     </tr>
      <tr>
         <td><IMG src="_static/wanqing.jpg" width="50px"></td>
-        <td>Wanqing Cai<br>Postdoctor<br></td>
-        <td>-</td>
+        <td>Wanqing Cai<br>Postdoctor<br>2020-2022</td>
+        <td>Blue Perovskite LEDs</td>
         <td>-</th>
     </tr>
      <tr>
