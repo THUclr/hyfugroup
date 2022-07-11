@@ -56,12 +56,12 @@ HONORS AND AWARDS
 AFFILIATIONS AND ACTIVITIES
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| Life Member of The Optical Society (OSA)
-| Life Member of Society of Photo-Optical Instrumentation Engineers (SPIE)
 | Senior Member of Institute of Electrical and Electronics Engineers (IEEE)
+| Senior and Life Member of The Optical Society (OPTICA)
+| Life Member of Society of Photo-Optical Instrumentation Engineers (SPIE)
 | Committee Member of IEEE Photonics Society (IPS) Guangdong Chapter
 | Council Member of Shenzhen Society of Micro-Nano Technology
-| Founding Advisor of the OSA, SPIE, IPS Student Chapters at Tsinghua SIGS
+| Founding Advisor of the OPTICA, SPIE, IEEE Student Chapters at Tsinghua SIGS
 
 
 Students
