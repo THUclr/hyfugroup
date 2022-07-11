@@ -96,9 +96,9 @@ Selected Journal Papers
 
 [J16] Cong Zhao, Ping Liu, Wanqing Cai, Wenzhan Xu, Muhammad Umair Ali, Zhuhua Xu, H. Y. Fu, Hong Meng, Jingzhou Li, and Guodan Wei, "Polymer-Assisted Phase Stable Γ-Cspbi3 Perovskite Film for Self-Powered and Ultrafast Photodiodes." **Advanced Materials Interfaces**, vol. 9, no. 9, p. 2102212, 2022.
 
-[J17]	MSA Gandhi, Y Zhao, C Huang, Y Zhang, HY Fu, Q Li, ”Highly sensitive refractive index sensor based on plastic optical fiber balloon structure”, **Optics Letters** 47 (7), 1697-1700
+[J17]	MSA Gandhi, Y Zhao, C Huang, Y Zhang, HY Fu, Q Li, ”Highly sensitive refractive index sensor based on plastic optical fiber balloon structure”, **Optics Letters** 47 (7), 1697-1700, 2022.
 
-[J18]	Zhaoming Wang, Li Zhang, Jingzhou Li, Guodan Wei, Yuhan Dong, and H. Y. Fu, "Fluorescent concentrator based MISO-NOMA for visible light communications," **Opt. Lett**. 47, 902-905 (2022)
+[J18]	Zhaoming Wang, Li Zhang, Jingzhou Li, Guodan Wei, Yuhan Dong, and H. Y. Fu, "Fluorescent concentrator based MISO-NOMA for visible light communications," **Opt. Lett**. 47, 902-905, 2022.
 
 [J19]	Zhi Li, Bonan Liu, Changrui Liao, and H. Y. Fu*, “Solid-state FMCW LiDAR with In-fiber Beam Scanner,” **Optics Letters**,Vol.47, No.3, pp.469-472,2022.
 
