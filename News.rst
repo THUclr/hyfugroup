@@ -113,6 +113,13 @@ Photographs
 
     <IMG src="_static/group15.jpg" width=500>
     
+1. TBSI Retreat conference 2018 课题组师生与诺奖得主阿兰·阿斯佩教授交流合影 Communication with Prof. Alain Aspect, Nobel Prize Winner of 2022， 2018/12
+
+.. raw:: html
+
+    <IMG src="_static/nobel-alain.jpg" width=500>
+   
+    
 1. TBSI Retreat conference 2018 课题组师生分别与VCSEL发明人Kenichi Iga教授和FinFET发明人胡正明教授交流合影 Communication with Prof. Kenichi Iga and Prof. Zhengming Hu, 2018/03
 
 .. raw:: html
