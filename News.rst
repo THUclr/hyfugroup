@@ -113,7 +113,7 @@ Photographs
 
     <IMG src="_static/group15.jpg" width=500>
     
-2. 课题组师生与诺奖得主阿兰·阿斯佩教授交流合影 Communication with Prof. Alain Aspect, Nobel Prize Winner of 2022， 2018/12
+2. 课题组师生与诺奖得主阿兰·阿斯佩教授交流合影 Research Group Meeting with Alain Aspect, Laureate of Nobel Prize in Physics 2022，2018/12
 
 .. raw:: html
 
