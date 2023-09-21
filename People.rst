@@ -314,7 +314,7 @@ Graduated Students
         <td><IMG src="_static/caiyue.jpg"></td>
         <td>Caiyue Zhao<br>Master Student</td>
         <td>Silicon photonics</td>
-        <td>  Phd candidate, The Chinese University of Hong Kong </th>
+        <td>  Ph.D. Candidate,<br>The Chinese University of Hong Kong </th>
     </tr>
     <tr>
         <td><IMG src="_static/yinghui.jpg"></td>
