@@ -5,8 +5,7 @@ Reports
 ~~~~~~~~~~
 
 10. 课题组在大规模多任务纳米光子集成器件的逆向设计上取得新进展 Hongyan Fu’s team has made new progress in the reverse design of large-scale multi-task nanophotonics integrated devices, 2023/03/13
-http://www.tbsi.edu.cn/2023/0308/c3694a59808/page.htm <or>
-    https://maiimg.com/pdf/?e=ayQV2p.dCFEbA6
+http://www.tbsi.edu.cn/2023/0308/c3694a59808/page.htm
 
 
 9. 课题组发表基于仿生传感阵列的机器学习辅助识别文章 Hongyan Fu’s team published a paper on machine learning assisted recognition based on bionic sensor array, 2022/04/06
