@@ -4,7 +4,7 @@ News
 Reports
 ~~~~~~~~~~
 
-10. <b><i>课题组在大规模多任务纳米光子集成器件的逆向设计上取得新进展 Hongyan Fu’s team has made new progress in the reverse design of large-scale multi-task nanophotonics integrated devices, 2023/03/13</i></b>
+10. *课题组在大规模多任务纳米光子集成器件的逆向设计上取得新进展 Hongyan Fu’s team has made new progress in the reverse design of large-scale multi-task nanophotonics integrated devices, 2023/03/13*
 http://www.tbsi.edu.cn/2023/0308/c3694a59808/page.htm
 
 
