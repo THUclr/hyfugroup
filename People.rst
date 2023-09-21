@@ -43,27 +43,27 @@ PROFESSIONAL EXPERIENCES
 
 ACADEMIC APPOINTMENTS
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-|Senior & Life Member of Optica\
-|Senior Member of Institute of Electrical and Electronics Engineers (IEEE)\
-|Life Member of Society of Photo-Optical Instrumentation Engineers (SPIE)\
-|Committee Member of IEEE Photonics Society (IPS) Guangdong Chapter\
-|Council Member of Shenzhen Society of Micro-Nano Technology\
-|Founding Advisor of Optica, IEEE, and SPIE Student Chapters at Tsinghua SIGS\
+| Senior & Life Member of Optica\
+| Senior Member of Institute of Electrical and Electronics Engineers (IEEE)\
+| Life Member of Society of Photo-Optical Instrumentation Engineers (SPIE)\
+| Committee Member of IEEE Photonics Society (IPS) Guangdong Chapter\
+| Council Member of Shenzhen Society of Micro-Nano Technology\
+| Founding Advisor of Optica, IEEE, and SPIE Student Chapters at Tsinghua SIGS\
 
 
 RESEARCH INTEREST AND EXPERTISE
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-|Integrated Photonics and Their Applications for Communications and Sensing, including Optical Wireless Communications, LiDAR, Silicon Photonics, Ultra-fast Optics, etc.\
+| Integrated Photonics and Their Applications for Communications and Sensing, including Optical Wireless Communications, LiDAR, Silicon Photonics, Ultra-fast Optics, etc.\
 
 HONORS AND AWARDS
 ~~~~~~~~~~~~~~~~~
-|Postdeadline Paper, Best Student Paper Award, Best Poster Award, ACP 2021\
-|Best Student Paper Awards, OECC 2021\
-|Best Student Paper Award, ACP 2020\
-|Best Poster Award, ACP 2019\
-|The President Commendation (Best Innovation Team), CRI, Huawei, 2015\
-|The President Commendation (Outstanding Research Contribution), CRI, Huawei, 2014\
-|The President Commendation (Best Innovation Team), CRI, Huawei, 2014\
+| Postdeadline Paper, Best Student Paper Award, Best Poster Award, ACP 2021\
+| Best Student Paper Awards, OECC 2021\
+| Best Student Paper Award, ACP 2020\
+| Best Poster Award, ACP 2019\
+| The President Commendation (Best Innovation Team), CRI, Huawei, 2015\
+| The President Commendation (Outstanding Research Contribution), CRI, Huawei, 2014\
+| The President Commendation (Best Innovation Team), CRI, Huawei, 2014\
 
 
 
