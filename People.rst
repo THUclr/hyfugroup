@@ -158,8 +158,8 @@ Current Students
      <tr>
         <td><IMG src="_static/xingyu.jpg"></td>
         <td>Chenxingyu Huang<br>PhD Student</td>
-        <td>Optical wireless communications</td>
-        <td>  Epsilon-near-zero photonics</th>
+        <td>Epsilon-near-zero photonics</td>
+        <td> 2023 </th>
     </tr>
     <tr>
         <td><IMG src="_static/lican.jpg"></td>
