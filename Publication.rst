@@ -71,31 +71,13 @@ Review Papers
 Selected Journal Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-[J1] H. Y. Fu* and Qian Li*, “Light arrays measure up on a chip the size of a fingertip,” **Nature** 603(7900), pp. 232-233, 2022.
+[J1]	H. Y. Fu* and Qian Li*, “Light arrays measure up on a chip the size of a fingertip,” **Nature** 603(7900), pp. 232-233, 2022.
 
-[J2]	Yang Luo, Zihan Wang, Jiyu Wang Xiao Xiao, Qian Li, Wenbo Ding* and H. Y. Fu*, “Triboelectric Bending Sensor based Smart Glove towards Intuitive Multi-Dimensional Human-Machine Interfaces,” **Nano Energy**, Vol. 89, p.106330, 2021. (Front Cover Paper)
+[J2]	Jiaye Wu+, Xuanyi Liu+, Boris A. Malomed, Kuan-Chang Chang, Minghe Zhao, Kang Qi, Yanhua Sha, Ze Tao Xie, Marco Clementi, Camille-Sophie Bres, Shengdong Zhang, Hongyan Fu* and Qian Li*, “Observation of SQUID‐Like Behavior in Fiber Laser with Intra-Cavity Epsilon-Near-Zero Effect,” **Laser & Photonics Reviews**, Vol.16, No. 12, p.2200487, 2022.
+[J3]	Zixian Wei, Lei Wang, Zhongxu Liu, Chao Zhang, Chien-Ju Chen, Meng-Chyi Wu, Yanfu Yang, Changyuan Yu, Lai Wang, and H. Y. Fu*, “Multigigabit Visible Light Communication Based on High-Bandwidth InGaN Quantum Dot Green Micro-LED,” **ACS Photonics**, Vol.9, No.7 pp.2354-2366, 2022.
+[J4]	Zixian Wei, Lei Wang, Zhenhao Li, Chien-Ju Chen, Meng-Chyi Wu, Lai Wang, and H. Y. Fu*, “Micro-LEDs Illuminate Visible Light Communication,” **IEEE Communications Magazine**, Vol.61, No.4, pp.108-114, 2022.
 
-[J3]	Y Luo, X Xiao, J Chen, Q Li, H Fu, “Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays”, **ACS NANO**, Vol.16, No.4, pp.6734–6743, 2022.
-
-[J4] Wanqing Cai, Muhammad Umair Ali, Ping Liu, Miao He, Cong Zhao, Ziming Chen, Yue Zang, Man-Chung Tang, Hong Meng, Hongyan Fu*, Guodan Wei*, and Hin-Lap Yip*, “Unravelling Alkali-Metal-Assisted Domain Distribution of Quasi-2D Perovskites for Cascade Energy Transfer towards Efficient Blue Light-Emitting Diodes,” **Advanced Science**, pp. 2200393, 2022.
-
-[J5]	Zhaoming Wang, Zixian Wei, Yuting Cai, Lei Wang, Mutong Li, Siwei Zhang, Rong-Jun Xie, Lai Wang, Guodan Wei * and H. Y. Fu*, “Microencapsulation-Enabled Air-stable Perovskite-PMMA Films Combining a Micro-LED for High-speed Visible White Light Communication,” **ACS Applied Materials & Interfaces**, Vol.13, pp. 54143-54151, 2021.
-
-[J6] Zixian Wei, Lei Wang, Zhongxu Liu, Chao Zhang, Chien-Ju Chen, Meng-Chyi Wu, Yanfu Yang, Changyuan Yu, Lai Wang, and H. Y. Fu, "Multigigabit Visible Light Communication Based on High-Bandwidth InGaN Quantum Dot Green Micro-LED", **ACS Photonics**.
-
-[J7] Ping Liu, Wanqing Cai, Cong Zhao, Siwei Zhang, Pengbo Nie, Wenzhan Xu, Hong Meng, Hongyan Fu, and Guodan Wei, "Quasi-2d Cspbbrxi3−X Composite Thin Films for Efficient and Stable Red Perovskite Light-Emitting Diodes." **Advanced Optical Materials**, vol. 9, no. 24, p. 2101419, 2021.
-
-[J8]	Jiaye Wu, Ze Tao Xie, Yanhua Sha, H. Y. Fu, and Qian Li*, “Epsilon-near-zero photonics: infinite potentials,” **Photonics Research**, Vol. 9, No.8, pp. 1616-1644, 2021.
-
-[J9]	Lei Wang, Zixian Wei, Chien-Ju Chen, Lai Wang*, H. Y. Fu*, Li Zhang, Kai-Chia Chen, Meng-Chyi Wu*, Yuhan Dong, Zhibiao Hao, and Yi Luo, “1.3 GHz E-O bandwidth GaN-based micro-LED for multi-gigabit visible light communication,” **Photonics Research**, Vol. 9, No. 5, pp.792-802, 2021. (Editor’s Pick, One of the two papers awarded in 2021)
-
-[J10]	[J1]	H. Y. Fu* and Qian Li*, “Light arrays measure up on a chip the size of a fingertip,” **Nature** 603(7900), pp. 232-233, 2022.
-
-[J2]	Jiaye Wu+, Xuanyi Liu+, Boris A. Malomed, Kuan-Chang Chang, Minghe Zhao, Kang Qi, Yanhua Sha, Ze Tao Xie, Marco Clementi, Camille-Sophie Bres, Shengdong Zhang, Hongyan Fu* and Qian Li*, “Observation of SQUID‐Like Behavior in Fiber Laser with Intra-Cavity Epsilon-Near-Zero Effect,” Laser & Photonics Reviews, Vol.16, No. 12, p.2200487, 2022.
-[J3]	Zixian Wei, Lei Wang, Zhongxu Liu, Chao Zhang, Chien-Ju Chen, Meng-Chyi Wu, Yanfu Yang, Changyuan Yu, Lai Wang, and H. Y. Fu*, “Multigigabit Visible Light Communication Based on High-Bandwidth InGaN Quantum Dot Green Micro-LED,” ACS Photonics, Vol.9, No.7 pp.2354-2366, 2022.
-[J4]	Zixian Wei, Lei Wang, Zhenhao Li, Chien-Ju Chen, Meng-Chyi Wu, Lai Wang, and H. Y. Fu*, “Micro-LEDs Illuminate Visible Light Communication,” IEEE Communications Magazine, Vol.61, No.4, pp.108-114, 2022.
-
-[J5]	Simei Mao, Lirong Cheng, Houyu Chen, Xuanyi Liu, Zihan Geng, Qian Li, Hongyan Fu*, “Multi-task topology optimization of photonic devices in low-dimensional Fourier domain via deep learning,” Nanophotonics, Vol. 12, No. 5, pp.1007-1018, 2022.
+[J5]	Simei Mao, Lirong Cheng, Houyu Chen, Xuanyi Liu, Zihan Geng, Qian Li, Hongyan Fu*, “Multi-task topology optimization of photonic devices in low-dimensional Fourier domain via deep learning,” **Nanophotonics**, Vol. 12, No. 5, pp.1007-1018, 2022.
 
 [J6]	Yang Luo, Zihan Wang, Jiyu Wang Xiao Xiao, Qian Li, Wenbo Ding* and H. Y. Fu*, “Triboelectric Bending Sensor based Smart Glove towards Intuitive Multi-Dimensional Human-Machine Interfaces,” **Nano Energy**, Vol. 89, p.106330, 2021. (Front Cover Paper)
 
@@ -114,61 +96,64 @@ Selected Journal Papers
 [J13]	Lei Wang, Zixian Wei, Chien-Ju Chen, Lai Wang*, H. Y. Fu*, Li Zhang, Kai-Chia Chen, Meng-Chyi Wu*, Yuhan Dong, Zhibiao Hao, and Yi Luo, “1.3 GHz E-O bandwidth GaN-based micro-LED for multi-gigabit visible light communication,” **Photonics Research**, Vol. 9, No. 5, pp.792-802, 2021. (Editor’s Pick, One of the two papers awarded in 2021)
 
 
-[J14]	Zeyad AH Qasem, Amjad Ali, Bohua Deng, Qian Li, and H. Y. Fu*, “Index modulation-based efficient technique for underwater wireless optical communications,” Optics & Laser Technology, Vol. 167, p.109683, 2023.
+[J14]	Zeyad AH Qasem, Amjad Ali, Bohua Deng, Qian Li, and H. Y. Fu*, “Index modulation-based efficient technique for underwater wireless optical communications,” **Optics & Laser Technology**, Vol. 167, p.109683, 2023.
 
-[J15]	Caiyue Zhao, Lirong Cheng, Houyu Chen, Simei Mao, Yinghui Wang, Qian Li, and H. Y. Fu*, “Compact dual-mode waveguide crossing based on adjoint shape optimization,” Optics Letters, Vol. 48, No. 15, pp.3873-3876, 2023.
+[J15]	Caiyue Zhao, Lirong Cheng, Houyu Chen, Simei Mao, Yinghui Wang, Qian Li, and H. Y. Fu*, “Compact dual-mode waveguide crossing based on adjoint shape optimization,” **Optics Letters**, Vol. 48, No. 15, pp.3873-3876, 2023.
 
 
-[J16]	Chenxingyu Huang, Siwei Peng, Xuanyi Liu, Jiaye Wu, Hongyan Fu, Lei Lu, Shengdong Zhang, Qian Li*, “Manufacturing-Enabled Tunability of Linear and Nonlinear Epsilon-Near-Zero Properties in Indium Tin Oxide Nanofilms,” ACS Applied Materials & Interfaces, Vol. 15, No. 29, pp. 35186-35195, 2023.
+[J16]	Chenxingyu Huang, Siwei Peng, Xuanyi Liu, Jiaye Wu, Hongyan Fu, Lei Lu, Shengdong Zhang, Qian Li*, “Manufacturing-Enabled Tunability of Linear and Nonlinear Epsilon-Near-Zero Properties in Indium Tin Oxide Nanofilms,” **ACS Applied Materials & Interfaces**, Vol. 15, No. 29, pp. 35186-35195, 2023.
 
 [J17]	Zhuhua Xu, Chuying Sun, Siyi Min, Zilong Ye, Cong Zhao, Jingzhou Li, Zhenghao Liu, Youdi Liu, Wen‐Di Li, Man‐Chung Tang, Qinghua Song, H. Y. Fu, Feiyu Kang, Jiangyu Li, Yang Shen, Cunjiang Yu, Guodan Wei*, “Si/Organic Integrated Narrowband Near‐Infrared Photodetector,” Small, p.2302072, 2023.
 
 
 [J18]	Jiayao Huang, Fu Deng, Feng Ye, H. Y. Fu, Shengdong Zhang, Qian Li*, “Strong plasmon− phonon coupling for graphene/hBN thermal emitter atomic system,” Carbon, p.118210, 2023.
 
-[J19]	Simei Mao, Lirong Cheng, Caiyue Zhao, Yinghui Wang, Qian Li, and H. Y. Fu*, “Compact hybrid five-mode multiplexer based on asymmetric directional couplers with constant bus waveguide width,” Optics Letters, Vol. 48, No. 10, pp.2607-2610, 2023.
+[J19]	Simei Mao, Lirong Cheng, Caiyue Zhao, Yinghui Wang, Qian Li, and H. Y. Fu*, “Compact hybrid five-mode multiplexer based on asymmetric directional couplers with constant bus waveguide width,” **Optics Letters**, Vol. 48, No. 10, pp.2607-2610, 2023.
 
 
-[J20]	Jiwei Wang, Chen Chen, Bohua Deng, Zhaoming Wang, Min Liu and H. Y. Fu*, “Enhancing underwater VLC with spatial division transmission and pairwise coding,” Optics Express, Vol. 31, No. 10, pp.16812-16832, 2023.
+[J20]	Jiwei Wang, Chen Chen, Bohua Deng, Zhaoming Wang, Min Liu and H. Y. Fu*, “Enhancing underwater VLC with spatial division transmission and pairwise coding,” **Optics Express**, Vol. 31, No. 10, pp.16812-16832, 2023.
 
-[J21]	Bohua Deng, Jiwei Wang, Zhaoming Wang, Zeyad AH Qasem, Qian Li, Xinke Tang, Chen Chen, H. Y. Fu*, “Polarization Multiplexing Based UOWC Systems Under Bubble Turbulence,” IEEE Journal of Lightwave Technology, Vol. 41, No. 17, pp.5588-5598, 2023. 
-
-
-[J22]	Yuan Zhang, Zixian Wei, Zhongxu Liu, Chen Cheng, Zhaoming Wang, Xinke Tang, Yanfu Yang, Changyuan Yu, H. Y. Fu*, “Optical Communication and Positioning Convergence for Flexible Underwater Wireless Sensor Network,” IEEE Journal of Lightwave Technology, Vol. 41, No. 16, pp.5321-5327, 2023. 
-
-[J23]	Xuanyi Liu, Maolin Dai, Denghui Pan, Feng Ye, Boris A. Malomed, Qian Li* and H. Y. Fu**, “Robust mode-locking in a hybrid ultrafast laser based on nonlinear multimodal interference,” Optics & Laser Technology, Vol. 159, p.108941, 2023.
+[J21]	Bohua Deng, Jiwei Wang, Zhaoming Wang, Zeyad AH Qasem, Qian Li, Xinke Tang, Chen Chen, H. Y. Fu*, “Polarization Multiplexing Based UOWC Systems Under Bubble Turbulence,” **IEEE Journal of Lightwave Technology**, Vol. 41, No. 17, pp.5588-5598, 2023. 
 
 
-[J24]	Zhenquan Zhao, Faisal Nadeem Khan, Zeyad AH Qasem, Bohua Deng, Qian Li, Zhengyong Liu, and H. Y. Fu*, “Convolutional neural network-based versus vision transformer-based SNR estimation for visible light communication networks,” Optics Letters, Vol. 48, No. 6, pp.1419-1422, 2023.
+[J22]	Yuan Zhang, Zixian Wei, Zhongxu Liu, Chen Cheng, Zhaoming Wang, Xinke Tang, Yanfu Yang, Changyuan Yu, H. Y. Fu*, “Optical Communication and Positioning Convergence for Flexible Underwater Wireless Sensor Network,” **IEEE Journal of Lightwave Technology**, Vol. 41, No. 16, pp.5321-5327, 2023. 
 
-[J25]	Xuanyi Liu, Feng Ye, Minghe Zhao, Boris A Malomed, H. Y. Fu*, Qian Li, “All-polarization-maintaining linear cavity fiber lasers mode-locked by nonlinear polarization evolution in stretched pulse regime,” IEEE Journal of Lightwave Technology, Vol. 41, No. 15, pp.5107-5115, 2023. 
-
-
-[J26]	Chengcheng Wu, Min Wang, Kai-Ning Tong, Meng Zhang, Wansi Li, Zhuhua Xu, Wei-Long Zhang, Yuan Wu, Chen Yang, Hong-Yan Fu, Season Si Chen, Maggie Ng, Man-Chung Tang, and Guodan Wei*, “Blue Iridium (III) Phosphorescent OLEDs with High Brightness Over 10 000 cd m−2 and Ultralow Efficiency Roll‐Off,” Advanced Optical Materials, Vol. 11, No. 1, p.2201998, 2023.
-
-[J27]	Wenzhan Xu, Yu Gao, Miao He, Shuyan Chen, Hongyan Fu, Guodan Wei*, “Functional Polymer Passivating FA0.85PEA0.15SnI3 for Efficient and Stable Lead-free Perovskite Solar Cells,” Nano Research, Vol.16, No.1, pp.481-488, 2023. 
+[J23]	Xuanyi Liu, Maolin Dai, Denghui Pan, Feng Ye, Boris A. Malomed, Qian Li* and H. Y. Fu**, “Robust mode-locking in a hybrid ultrafast laser based on nonlinear multimodal interference,” **Optics & Laser Technology**, Vol. 159, p.108941, 2023.
 
 
-[J28]	Yaqi Han, Zhi Li, Lican Wu, Songping Mai, Xinpeng Xing and H. Y. Fu*, “High-Speed Two-Dimensional Spectral-Scanning Coherent LiDAR System Based on Tunable VCSEL,” IEEE Journal of Lightwave Technology, Vol. 41, No. 2, pp.412-419, 2022. 
+[J24]	Zhenquan Zhao, Faisal Nadeem Khan, Zeyad AH Qasem, Bohua Deng, Qian Li, Zhengyong Liu, and H. Y. Fu*, “Convolutional neural network-based versus vision transformer-based SNR estimation for visible light communication networks,” **Optics Letters**, Vol. 48, No. 6, pp.1419-1422, 2023.
 
-[J29]	Zixian Wei, Yuan Zhang, Simei Mao, Zhongxu Liu, Zihan Zang, Changyuan Yu and H. Y. Fu*, “Optical Uplink, D2D and IoT Links Based on VCSEL Array: Analysis and Demonstration,” IEEE Journal of Lightwave Technology, Vol.40, No.15, pp.5083-5096, 2022. 
+[J25]	Xuanyi Liu, Feng Ye, Minghe Zhao, Boris A Malomed, H. Y. Fu*, Qian Li, “All-polarization-maintaining linear cavity fiber lasers mode-locked by nonlinear polarization evolution in stretched pulse regime,” **IEEE Journal of Lightwave Technology**, Vol. 41, No. 15, pp.5107-5115, 2023. 
 
 
-[J30]	Yibin Li, Zixian Wei, Amjad Ali, Qian Li and H. Y. Fu*, “THO-OFDM scheme for visible light communication with noise suppression and dimming control,” Optics Letters, Vol. 47, No. 19, pp.5180-5183, 2022.
+[J26]	Chengcheng Wu, Min Wang, Kai-Ning Tong, Meng Zhang, Wansi Li, Zhuhua Xu, Wei-Long Zhang, Yuan Wu, Chen Yang, Hong-Yan Fu, Season Si Chen, Maggie Ng, Man-Chung Tang, and Guodan Wei*, “Blue Iridium (III) Phosphorescent OLEDs with High Brightness Over 10 000 cd m−2 and Ultralow Efficiency Roll‐Off,” **Advanced Optical Materials**, Vol. 11, No. 1, p.2201998, 2023.
 
-[J31]	Amjad Ali, Zeyad AH Qasem, Yibin Li, Qian Li and H. Y. Fu*, “All-inorganic liquid phase quantum dots and blue laser diode-based white-light source for simultaneous high-speed visible light communication and high-efficiency solid-state lighting,” Optics Express, Vol. 30, No. 20, pp.35112-35124, 2022.
+[J27]	Wenzhan Xu, Yu Gao, Miao He, Shuyan Chen, Hongyan Fu, Guodan Wei*, “Functional Polymer Passivating FA0.85PEA0.15SnI3 for Efficient and Stable Lead-free Perovskite Solar Cells,” **Nano Research**, Vol.16, No.1, pp.481-488, 2023. 
 
-[J32]	Xueyang Li, Chen Cheng, Zixian Wei, H. Y. Fu, Yanfu Yang*, Weisheng Hu*, “Net 5.75 Gbps/2 m Single-Pixel Blue Mini-LED Based Underwater Wireless Communication System Enabled by Partial Pre-Emphasis and Nonlinear Pre-Distortion,” IEEE Journal of Lightwave Technology, Vol. 40, No. 18, pp.6116-6122, 2022. 
 
-[J33]	Chen Cheng, Xueyang Li, Qian Xiang, Jun Li, Yongchao Jin, Zixian Wei, H. Y. Fu and Yanfu Yang*, “4-bit DAC based 6.9 Gb/s PAM-8 UOWC system using single-pixel mini-LED and digital pre-compensation,” Optics Express, Vol. 30, No. 15, pp.28014-28023, 2022.
+[J28]	Yaqi Han, Zhi Li, Lican Wu, Songping Mai, Xinpeng Xing and H. Y. Fu*, “High-Speed Two-Dimensional Spectral-Scanning Coherent LiDAR System Based on Tunable VCSEL,” **IEEE Journal of Lightwave Technology**, Vol. 41, No. 2, pp.412-419, 2022. 
 
-[J34]	Zihan Zang, Yunpeng Xu, Haoqiang Wang, Zhi Li, Yanjun Han, Hongtao Li, H. Y. Fu and Yi Luo*, “Spectrally Scanning LiDAR Based on Wide-Angle Agile Diffractive Beam Steering” IEEE Photonics Technology Letters, Vol. 34, No. 16, pp.850-853, 2022.
+[J29]	Zixian Wei, Yuan Zhang, Simei Mao, Zhongxu Liu, Zihan Zang, Changyuan Yu and H. Y. Fu*, “Optical Uplink, D2D and IoT Links Based on VCSEL Array: Analysis and Demonstration,” **IEEE Journal of Lightwave Technology**, Vol.40, No.15, pp.5083-5096, 2022. 
 
-[J35]	Zetao Xie, Yanhua Sha, Jiaye Wu, H. Y. Fu and Qian Li*, “Ultrafast dynamic switching of optical response based on nonlinear hyperbolic metamaterial platform,” Optics Express, Vol. 30, No. 12, pp.21634-21648, 2022.
 
-[J36]	Zhi Li, Yicong Li, Zihan Zang, Mutong Li, Qian Li and H. Y. Fu*, “LiDAR Integrated High-capacity IR OWC System with Localization and Link Alignment Abilities,” Optics Express, Vol. 30, No. 12, pp.20796-20808, 2022
+[J30]	Yibin Li, Zixian Wei, Amjad Ali, Qian Li and H. Y. Fu*, “THO-OFDM scheme for visible light communication with noise suppression and dimming control,” **Optics Letters**, Vol. 47, No. 19, pp.5180-5183, 2022.
 
-[J37]	Lican Wu, Zhi Li, Yaqi Han, Yuan Zhang, and H. Y. Fu*, “12 Gbit/s Indoor Optical Wireless Communication System with Ultrafast Beam-steering Using Tunable VCSEL,” Optics Express, Vol. 30, No. 9, pp.15049-15059, 2022.
+[J31]	Amjad Ali, Zeyad AH Qasem, Yibin Li, Qian Li and H. Y. Fu*, “All-inorganic liquid phase quantum dots and blue laser diode-based white-light source for simultaneous high-speed visible light communication and high-efficiency solid-state lighting,” **Optics Express**, Vol. 30, No. 20, pp.35112-35124, 2022.
+
+
+[J32]	Xueyang Li, Chen Cheng, Zixian Wei, H. Y. Fu, Yanfu Yang*, Weisheng Hu*, “Net 5.75 Gbps/2 m Single-Pixel Blue Mini-LED Based Underwater Wireless Communication System Enabled by Partial Pre-Emphasis and Nonlinear Pre-Distortion,” **IEEE Journal of Lightwave Technology**, Vol. 40, No. 18, pp.6116-6122, 2022. 
+
+[J33]	Chen Cheng, Xueyang Li, Qian Xiang, Jun Li, Yongchao Jin, Zixian Wei, H. Y. Fu and Yanfu Yang*, “4-bit DAC based 6.9 Gb/s PAM-8 UOWC system using single-pixel mini-LED and digital pre-compensation,” **Optics Express**, Vol. 30, No. 15, pp.28014-28023, 2022.
+
+
+[J34]	Zihan Zang, Yunpeng Xu, Haoqiang Wang, Zhi Li, Yanjun Han, Hongtao Li, H. Y. Fu and Yi Luo*, “Spectrally Scanning LiDAR Based on Wide-Angle Agile Diffractive Beam Steering” **IEEE Photonics Technology Letters**, Vol. 34, No. 16, pp.850-853, 2022.
+
+[J35]	Zetao Xie, Yanhua Sha, Jiaye Wu, H. Y. Fu and Qian Li*, “Ultrafast dynamic switching of optical response based on nonlinear hyperbolic metamaterial platform,” **Optics Express**, Vol. 30, No. 12, pp.21634-21648, 2022.
+
+
+[J36]	Zhi Li, Yicong Li, Zihan Zang, Mutong Li, Qian Li and H. Y. Fu*, “LiDAR Integrated High-capacity IR OWC System with Localization and Link Alignment Abilities,” **Optics Express**, Vol. 30, No. 12, pp.20796-20808, 2022
+
+[J37]	Lican Wu, Zhi Li, Yaqi Han, Yuan Zhang, and H. Y. Fu*, “12 Gbit/s Indoor Optical Wireless Communication System with Ultrafast Beam-steering Using Tunable VCSEL,” **Optics Express**, Vol. 30, No. 9, pp.15049-15059, 2022.
 
 
 [J38]	Zhenquan Zhao, Faisal Nadeem Khan, Yibin Li, Zhaoming Wang, Yuan Zhang, and H. Y. Fu*, “Application and Comparison of Active and Transfer Learning Approaches for Modulation Format Classification in Visible Light Communication Systems,” Optics Express, Vol. 30, No. 10, pp.16351-16361, 2022. 
@@ -248,6 +233,7 @@ Selected Journal Papers
 [J75]	H. Y. Fu, H. Y. Tam, L. Y. Shao, X. Y. Dong, P. K. A. Wai, C. Lu, and Sunil K. Khijwania, “Pressure Sensor Realized with Polarization-maintaining Photonic Crystal Fiber based Sagnac Interferometer,” **Applied Optics**, Vol. 47, No. 15, pp. 2835-2839, 2008. (Google scholar Citations: >300，Top 20 Most Cited articles on Applied Optics over the last 5 year at 50 Year Anniversary in 2012)
 
 [J76]	H. Y. Fu, H. L. Liu, X. Y. Dong, H. Y. Tam, P. K. A. Wai, and C. Lu, “High-speed Fibre Bragg Grating Sensor Interrogation Using Dispersion Compensation Fibre,” **Electronics Letters**, Vol. 44, No. 10, pp. 618-619, 2008.
+
 
 
 
