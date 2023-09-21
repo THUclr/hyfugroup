@@ -19,7 +19,9 @@ Invited Talks
 
 [I2]	H. Y. Fu “High-speed and Wide-field Spectral-scanning Coherent LiDAR Systems Based on Tunable VCSEL”, Workshop: Light Detection and Ranging (LiDAR), 2023 Opto-Electronics and Communications Conference (OECC), Shanghai, China, July 2nd -6th, 2023. 
 
+
 [I3]	H Y. Fu “VCSELs for Optical Wireless Communications”, The Asia Communications and Photonics Conference (ACP2022), Shenzhen, China, Nov. 5th -8th, 2022.
+
 
 [I4]	H. Y. Fu and Lirong Cheng “New functionalities and design strategies of passive silicon photonic devices”, The 13th International Conference on Advanced Infocomm Technology (ICAIT), Yanji, China, Oct. 15th -18th, 2021. 
 
@@ -74,7 +76,9 @@ Selected Journal Papers
 [J1]	H. Y. Fu* and Qian Li*, “Light arrays measure up on a chip the size of a fingertip,” **Nature** 603(7900), pp. 232-233, 2022.
 
 [J2]	Jiaye Wu+, Xuanyi Liu+, Boris A. Malomed, Kuan-Chang Chang, Minghe Zhao, Kang Qi, Yanhua Sha, Ze Tao Xie, Marco Clementi, Camille-Sophie Bres, Shengdong Zhang, Hongyan Fu* and Qian Li*, “Observation of SQUID‐Like Behavior in Fiber Laser with Intra-Cavity Epsilon-Near-Zero Effect,” **Laser & Photonics Reviews**, Vol.16, No. 12, p.2200487, 2022.
+
 [J3]	Zixian Wei, Lei Wang, Zhongxu Liu, Chao Zhang, Chien-Ju Chen, Meng-Chyi Wu, Yanfu Yang, Changyuan Yu, Lai Wang, and H. Y. Fu*, “Multigigabit Visible Light Communication Based on High-Bandwidth InGaN Quantum Dot Green Micro-LED,” **ACS Photonics**, Vol.9, No.7 pp.2354-2366, 2022.
+
 [J4]	Zixian Wei, Lei Wang, Zhenhao Li, Chien-Ju Chen, Meng-Chyi Wu, Lai Wang, and H. Y. Fu*, “Micro-LEDs Illuminate Visible Light Communication,” **IEEE Communications Magazine**, Vol.61, No.4, pp.108-114, 2022.
 
 [J5]	Simei Mao, Lirong Cheng, Houyu Chen, Xuanyi Liu, Zihan Geng, Qian Li, Hongyan Fu*, “Multi-task topology optimization of photonic devices in low-dimensional Fourier domain via deep learning,” **Nanophotonics**, Vol. 12, No. 5, pp.1007-1018, 2022.
