@@ -308,13 +308,13 @@ Graduated Students
         <td><IMG src="_static/zhangyuan.jpg"></td>
         <td>Yuan Zhang<br>Master Student</td>
         <td>Optical wireless communications</td>
-        <td>  Shenzhen Experimental School </th>
+        <td>  Teacher, Shenzhen Experimental School </th>
     </tr>
     <tr>
         <td><IMG src="_static/caiyue.jpg"></td>
         <td>Caiyue Zhao<br>Master Student</td>
         <td>Silicon photonics</td>
-        <td>  The Chinese University of Hong Kong </th>
+        <td>  Phd candidate, The Chinese University of Hong Kong </th>
     </tr>
     <tr>
         <td><IMG src="_static/yinghui.jpg"></td>
