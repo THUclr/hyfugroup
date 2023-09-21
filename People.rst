@@ -33,13 +33,13 @@ EDUCATION BACKGROUND
 PROFESSIONAL EXPERIENCES
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-|2021-present, Tenured-Associate Professor, Tsinghua Shenzhen International Graduate School, Tsinghua University\
-|2017-2021, Associate Professor, Tsinghua-Berkeley Shenzhen Institute, Tsinghua University\
-|2016-2017, Project Officer, Central Research Institute, Huawei Technologies\
-|2012-2016, Project Manager, Central Research Institute, Huawei Technologies\
-|2010-2012, Senior Research Engineer, Central Research Institute, Huawei Technologies\
-|2009-2010, Research Associate, Photonic Research Centre, The Hong Kong Polytechnic University\
-|2008-2009, Research Assistant, Photonic Research Centre, The Hong Kong Polytechnic University\
+| 2021-present, Tenured-Associate Professor, Tsinghua Shenzhen International Graduate School, Tsinghua University\
+| 2017-2021, Associate Professor, Tsinghua-Berkeley Shenzhen Institute, Tsinghua University\
+| 2016-2017, Project Officer, Central Research Institute, Huawei Technologies\
+| 2012-2016, Project Manager, Central Research Institute, Huawei Technologies\
+| 2010-2012, Senior Research Engineer, Central Research Institute, Huawei Technologies\
+| 2009-2010, Research Associate, Photonic Research Centre, The Hong Kong Polytechnic University\
+| 2008-2009, Research Assistant, Photonic Research Centre, The Hong Kong Polytechnic University\
 
 ACADEMIC APPOINTMENTS
 ~~~~~~~~~~~~~~~~~~~~~~~~~
