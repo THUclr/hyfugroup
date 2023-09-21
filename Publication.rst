@@ -160,9 +160,9 @@ Selected Journal Papers
 [J37]	Lican Wu, Zhi Li, Yaqi Han, Yuan Zhang, and H. Y. Fu*, “12 Gbit/s Indoor Optical Wireless Communication System with Ultrafast Beam-steering Using Tunable VCSEL,” **Optics Express**, Vol. 30, No. 9, pp.15049-15059, 2022.
 
 
-[J38]	Zhenquan Zhao, Faisal Nadeem Khan, Yibin Li, Zhaoming Wang, Yuan Zhang, and H. Y. Fu*, “Application and Comparison of Active and Transfer Learning Approaches for Modulation Format Classification in Visible Light Communication Systems,” Optics Express, Vol. 30, No. 10, pp.16351-16361, 2022. 
+[J38]	Zhenquan Zhao, Faisal Nadeem Khan, Yibin Li, Zhaoming Wang, Yuan Zhang, and H. Y. Fu*, “Application and Comparison of Active and Transfer Learning Approaches for Modulation Format Classification in Visible Light Communication Systems,” **Optics Express**, Vol. 30, No. 10, pp.16351-16361, 2022. 
 
-[J39]	Xueyang Li, Chen Cheng, Chao Zhang, Zixian Wei, Lai Wang*, H. Y. Fu*, and Yanfu Yang*, “Net 4 Gb/s underwater optical wireless communication system over 2 m using a Single-pixel GaN-based blue micro-LED and linear equalization,” Optics Letters, 47(8), pp.1976-1979, 2022.
+[J39]	Xueyang Li, Chen Cheng, Chao Zhang, Zixian Wei, Lai Wang*, H. Y. Fu*, and Yanfu Yang*, “Net 4 Gb/s underwater optical wireless communication system over 2 m using a Single-pixel GaN-based blue micro-LED and linear equalization,” **Optics Letters**, 47(8), pp.1976-1979, 2022.
 
 [J40]	Zixian Wei, Mutong Li, Zhongxu Liu, Zhaoming Wang, Chao Zhang, Yanfu Yang, Changyuan Yu and H. Y. Fu*, “Parallel Mini/Micro-LEDs Transmitter: Size-dependent Effect and Gbps Multi-user Visible Light Communication,” **IEEE Journal of Lightwave Technology**, 40(8), pp.2329-2340, 2022. 
 
