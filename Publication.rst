@@ -91,7 +91,7 @@ Selected Journal Papers
 
 [J9]	Zhaoming Wang, Zixian Wei, Yuting Cai, Lei Wang, Mutong Li, Siwei Zhang, Rong-Jun Xie, Lai Wang, Guodan Wei * and H. Y. Fu*, “Microencapsulation-Enabled Air-stable Perovskite-PMMA Films Combining a Micro-LED for High-speed Visible White Light Communication,” **ACS Applied Materials & Interfaces**, Vol.13, pp. 54143-54151, 2021.
 
-[J10]	Zixian Wei, Lei Wang, Zhongxu Liu, Chao Zhang, Chien-Ju Chen, Meng-Chyi Wu, Yanfu Yang, Changyuan Yu, Lai Wang, and H. Y. Fu, "Multigigabit Visible Light Communication Based on High-Bandwidth InGaN Quantum Dot Green Micro-LED", **ACS Photonics**.
+[J10]	Zixian Wei, Lei Wang, Zhongxu Liu, Chao Zhang, Chien-Ju Chen, Meng-Chyi Wu, Yanfu Yang, Changyuan Yu, Lai Wang, and H. Y. Fu*, “Multigigabit Visible Light Communication Based on High-Bandwidth InGaN Quantum Dot Green Micro-LED,” **ACS Photonics**, Vol.9, No.7 pp.2354-2366, 2022.
 
 [J11]	Ping Liu, Wanqing Cai, Cong Zhao, Siwei Zhang, Pengbo Nie, Wenzhan Xu, Hong Meng, Hongyan Fu, and Guodan Wei, "Quasi-2d Cspbbrxi3−X Composite Thin Films for Efficient and Stable Red Perovskite Light-Emitting Diodes." **Advanced Optical Materials**, vol. 9, no. 24, p. 2101419, 2021.
 
