@@ -46,7 +46,7 @@ ACADEMIC APPOINTMENTS
 | Senior & Life Member of Optica\
 | Senior Member of Institute of Electrical and Electronics Engineers (IEEE)\
 | Life Member of Society of Photo-Optical Instrumentation Engineers (SPIE)\
-| Committee Member of IEEE Photonics Society (IPS) Guangdong Chapter\
+| Vice president of IEEE Photonics Society (IPS) Guangdong Chapter\
 | Council Member of Shenzhen Society of Micro-Nano Technology\
 | Founding Advisor of Optica, IEEE, and SPIE Student Chapters at Tsinghua SIGS\
 
@@ -57,6 +57,7 @@ RESEARCH INTEREST AND EXPERTISE
 
 HONORS AND AWARDS
 ~~~~~~~~~~~~~~~~~
+| Best Student Paper, Best Poster, OECC2023\
 | Postdeadline Paper, Best Student Paper Award, Best Poster Award, ACP 2021\
 | Best Student Paper Awards, OECC 2021\
 | Best Student Paper Award, ACP 2020\
@@ -209,12 +210,7 @@ Current Students
         <td>LiDAR</td>
         <td>  2023 </th>
     </tr>
-       <tr>
-        <td><IMG src="_static/hengjia.jpg"></td>
-        <td>Hengjia Zhang<br>Master Student</td>
-        <td>Optical wireless communications</td>
-        <td>  2023 </th>
-    </tr>
+     
     </table>
     <br>
     <br>
@@ -262,6 +258,12 @@ Graduated Students
         <td>Silicon photonics: edge couplers</td>
         <td>Ph.D. Candidate,<br>University of Toronto</th>
     </tr>
+  <tr>
+        <td><IMG src="_static/lirong.jpg"></td>
+        <td>Lirong Cheng<br>2018-2023</td>
+        <td>Silicon photonics: passives, grating couplers</td>
+        <td>  Interuniversity Microelectronics Center</th>
+    </tr>
     <tr>
         <td><IMG src="_static/yang.jpg" width="50px"></td>
         <td>Yang Luo<br>Master Student<br>2019-2022</td>
@@ -286,45 +288,40 @@ Graduated Students
         <td>Optical wireless Communications</td>
         <td>Ph.D. Candidate,<br>University of Oxford</th>
     </tr>
-    <tr>
-        <td><IMG src="_static/lirong.jpg"></td>
-        <td>Lirong Cheng<br>PhD Student</td>
-        <td>Silicon photonics: passives, grating couplers</td>
-        <td>  Interuniversity Microelectronics Center</th>
-    </tr>
+  
        <tr>
         <td><IMG src="_static/yuanfang.jpg"></td>
-        <td>Yuanfang Zhao<br>PhD Student</td>
+        <td>Yuanfang Zhao<br>2019-2023</td>
         <td>Microcavity biosensing</td>
         <td>  Huawei </th>
     </tr>
     <tr>
         <td><IMG src="_static/zhenquan.jpg"></td>
-        <td>Zhenquan Zhao<br>Master Student</td>
+        <td>Zhenquan Zhao<br>2020-2023</td>
         <td>Optical wireless communications</td>
         <td>  BYD </th>
     </tr>
     <tr>
         <td><IMG src="_static/zhangyuan.jpg"></td>
-        <td>Yuan Zhang<br>Master Student</td>
+        <td>Yuan Zhang<br>2020-2023</td>
         <td>Optical wireless communications</td>
         <td>  Teacher, Shenzhen Experimental School </th>
     </tr>
     <tr>
         <td><IMG src="_static/caiyue.jpg"></td>
-        <td>Caiyue Zhao<br>Master Student</td>
+        <td>Caiyue Zhao<br>2020-2023</td>
         <td>Silicon photonics</td>
         <td>  Ph.D. Candidate,<br>The Chinese University of Hong Kong </th>
     </tr>
     <tr>
         <td><IMG src="_static/yinghui.jpg"></td>
-        <td>Yinghui Wang<br>Master Student</td>
+        <td>Yinghui Wang<br>2020-2023</td>
         <td>Silicon photonics</td>
         <td>  Huawei </th>
     </tr>
     <tr>
         <td><IMG src="_static/denghui.jpg"></td>
-        <td>Denghui Pan<br>Master Student</td>
+        <td>Denghui Pan<br>2020-2023</td>
         <td>Ultrafast Optics</td>
         <td>  TBD </th>
     </tr>
@@ -361,11 +358,29 @@ Visiting Scholars
         <td>Optical wireless Communications</td>
         <td> Donghai Laboratory</th>
     </tr>
+ <tr>
+        <td><IMG src="_static/amjad.jpg" width="50px"></td>
+        <td>Jianan Zhang (PhD, Zhejiang U.)<br>Postdoc<br>2021-2023</td>
+        <td>Optical wireless Communications</td>
+        <td> Donghai Laboratory</th>
+    </tr>
      <tr>
         <td><IMG src="_static/zeyad.jpg" width="50px"></td>
         <td>Zeyad Qasem (PhD, Xiamen U.)<br>Postdoc<br>2022-2024</td>
         <td>Optical wireless Communications</td>
         <td>-</th>
+    </tr>
+ <tr>
+        <td><IMG src="_static/amjad.jpg" width="50px"></td>
+        <td>Chengkun Chang (PhD, Zhejiang U.)<br>Postdoc<br>2022-2024</td>
+        <td>Optical wireless Communications</td>
+        <td> Donghai Laboratory</th>
+    </tr>
+ <tr>
+        <td><IMG src="_static/amjad.jpg" width="50px"></td>
+        <td>Gongxun Lu (PhD, Zhejiang U.)<br>Postdoc<br>2023-2026</td>
+        <td>Optical wireless Communications</td>
+        <td> Donghai Laboratory</th>
     </tr>
     </table>
     <br>
