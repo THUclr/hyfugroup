@@ -222,8 +222,7 @@ Graduated Students
 .. raw:: html
 
     <table border="">
- <tr>
-    <tr>
+   <tr>
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
         <th width="375px">Research interest</th>
@@ -247,7 +246,7 @@ Graduated Students
         <td>Silicon photonics: edge couplers</td>
         <td>Ph.D. Candidate,<br>University of Toronto</th>
     </tr>
-  <tr>
+  
  <tr>
         <td><IMG src="_static/zihan.jpg" width="50px"></td>
         <td>Zihan Zang<br>Ph.D. Student<br>2017-2023</td>
