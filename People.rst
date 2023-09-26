@@ -228,7 +228,7 @@ Graduated Students
         <th width="375px">Research interest</th>
         <th width="225px">Graduate Destination</th>
     </tr>
-<tr>
+    <tr>
         <td><IMG src="_static/zixian.jpg" width="50px"></td>
         <td>Zixian Wei<br>Master Student<br>2017-2020</td>
         <td>Optical wireless communications</td>
@@ -246,14 +246,12 @@ Graduated Students
         <td>Silicon photonics: edge couplers</td>
         <td>Ph.D. Candidate,<br>University of Toronto</th>
     </tr>
-  
- <tr>
+     <tr>
         <td><IMG src="_static/zihan.jpg" width="50px"></td>
         <td>Zihan Zang<br>Ph.D. Student<br>2017-2023</td>
         <td>Lidar</td>
         <td>Postdoc,<br>University of California, Los Angeles</th>
     </tr>
- 
     <tr>
         <td><IMG src="_static/liuxin.jpg"></td>
         <td>Xin Liu<br>Master Student<br>2018-2021</td>
@@ -266,7 +264,7 @@ Graduated Students
         <td>Optical wireless communications</td>
         <td>Ph.D. Candidate,<br>University of Cambridge</th>
     </tr>
-    
+    <tr>
         <td><IMG src="_static/lirong.jpg"></td>
         <td>Lirong Cheng<br>2018-2023</td>
         <td>Silicon photonics: passives, grating couplers</td>
@@ -296,7 +294,6 @@ Graduated Students
         <td>Optical wireless Communications</td>
         <td>Ph.D. Candidate,<br>University of Oxford</th>
     </tr>
-  
        <tr>
         <td><IMG src="_static/yuanfang.jpg"></td>
         <td>Yuanfang Zhao<br>2019-2023</td>
