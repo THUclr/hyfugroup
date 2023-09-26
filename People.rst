@@ -222,6 +222,7 @@ Graduated Students
 .. raw:: html
 
     <table border="">
+ <tr>
     <tr>
         <th width="50px">Photo</th>
         <th width="150px">Name</th>
@@ -253,7 +254,7 @@ Graduated Students
         <td>Lidar</td>
         <td>Postdoc,<br>University of California, Los Angeles</th>
     </tr>
-  <tr>
+ 
     <tr>
         <td><IMG src="_static/liuxin.jpg"></td>
         <td>Xin Liu<br>Master Student<br>2018-2021</td>
