@@ -253,6 +253,12 @@ Graduated Students
         <td>Postdoc,<br>University of California, Los Angeles</th>
     </tr>
     <tr>
+        <td><IMG src="_static/mingyue.jpg" width="50px"></td>
+        <td>Mingyue Guan<br>Ph.D. Student<br>2017-2022</td>
+        <td>Optoelectronic device</td>
+        <td>BYD</th>
+    </tr>
+    <tr>
         <td><IMG src="_static/liuxin.jpg"></td>
         <td>Xin Liu<br>Master Student<br>2018-2021</td>
         <td>Optical wireless communications</td>
