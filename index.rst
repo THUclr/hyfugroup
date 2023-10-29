@@ -29,7 +29,7 @@ Our vision: Enabling people's future life with advanced optical technologies.
     
     
     
-See off the 2021 guaduates of the research group, 2021/07
+See off the 2023 guaduates of the research group, 2023/10
 
 .. raw:: html
     
