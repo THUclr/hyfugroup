@@ -33,4 +33,4 @@ See off the 2023 guaduates of the research group, 2023/10
 
 .. raw:: html
     
-    <IMG src="_static/202310.jpg" width=800>
+    <IMG src="_202310.jpg" width=800>
