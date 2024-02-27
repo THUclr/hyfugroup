@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'HYFUgroup'
-copyright = '2023, Lirong'
+copyright = '2024, Lirong'
 author = 'Lirong'
 
 # The short X.Y version
