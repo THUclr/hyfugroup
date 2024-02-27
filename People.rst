@@ -382,10 +382,10 @@ Visiting Scholars
         <td>-</th>
     </tr>
  <tr>
-        <td><IMG src="_static/amjad.jpg" width="50px"></td>
-        <td>Chengkun Chang (PhD, Zhejiang U.)<br>Postdoc<br>2022-2024</td>
-        <td>Optical wireless Communications</td>
-        <td> Donghai Laboratory</th>
+        <td><IMG src="_static/chengshuai.jpg" width="50px"></td>
+        <td>Chengshuai Chang (PhD, Dongbei U.)<br>Postdoc<br>2022-2024</td>
+        <td>Lithium metal battery, solid electrolyte, sensor detection</td>
+        <td>-</th>
     </tr>
  <tr>
         <td><IMG src="_static/gongxun.jpg" width="50px"></td>
