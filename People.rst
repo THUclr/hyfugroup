@@ -92,7 +92,7 @@ Current Students
  
     <tr>
         <td><IMG src="_static/xuanyi.jpg"></td>
-        <td>Xuanyi liu<br>PhD Student</td>
+        <td>Xuanyi Liu<br>PhD Student</td>
         <td>Ultrafast Optics</td>
         <td>  2020 </th>
     </tr>
