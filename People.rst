@@ -121,7 +121,7 @@ Current Students
         <td>  2022 </th>
     </tr>
     <tr>
-        <td><IMG src="_static/haoyi.jpg"></td>
+        <td> <IMG src="_static/haoyi.jpg"></td>
         <td>Yi Hao<br>PhD Student</td>
         <td>LiDAR</td>
         <td>  2022 </th>
