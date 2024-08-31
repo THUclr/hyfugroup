@@ -84,13 +84,6 @@ Current Students
     </tr>
     
     <tr>
-        <td><IMG src="_static/simei.jpg"></td>
-        <td>Simei Mao<br>PhD Student</td>
-        <td>Silicon photonics: multiplexing, inverse design</td>
-        <td>  2019 </th>
-    </tr>
- 
-    <tr>
         <td><IMG src="_static/xuanyi.jpg"></td>
         <td>Xuanyi Liu<br>PhD Student</td>
         <td>Ultrafast Optics</td>
@@ -305,6 +298,12 @@ Graduated Students
         <td>Yuanfang Zhao<br>2019-2023</td>
         <td>Microcavity biosensing</td>
         <td>  Huawei </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/simei.jpg"></td>
+        <td>Simei Mao<br>2019-2024</td>
+        <td>Silicon photonics: multiplexing, inverse design</td>
+        <td>  iMEC </th>
     </tr>
     <tr>
         <td><IMG src="_static/zhenquan.jpg"></td>
