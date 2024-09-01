@@ -166,61 +166,60 @@ Current Students
         <td>Optical wireless communications</td>
         <td> 2024 </th>
     </tr>
-      <tr>
+     <tr>
         <td><IMG src="_static/weichen.jpg"></td>
         <td>Weichen Yuan<br>Master Student</td>
         <td>Microcavity, Photonics devices</td>
         <td>  2022 </th>
     </tr>
-      <tr>
+     <tr>
         <td><IMG src="_static/zehua.jpg"></td>
         <td>Zehua Xu<br>Master Student</td>
         <td>Optical wireless communications</td>
         <td>  2022 </th>
     </tr>
-       <tr>
+     <tr>
         <td><IMG src="_static/haoyu.jpg"></td>
         <td>Haoyu Huang<br>Master Student</td>
         <td>Optical wireless communications</td>
         <td>  2023 </th>
     </tr>
-       <tr>
+     <tr>
         <td><IMG src="_static/annan.jpg"></td>
         <td>Annan Xia<br>Master Student</td>
         <td>LiDAR</td>
         <td>  2023 </th>
     </tr>
-    <tr>
+     <tr>
         <td><IMG src="_static/yehong.jpg"></td>
         <td>Hong Ye<br>Master Student</td>
         <td>LiDAR</td>
         <td>  2024 </th>
     </tr>
-<tr>
+     <tr>
         <td><IMG src="_static/jinxuan.jpg"></td>
         <td>Jinxuan Lin<br>Master Student</td>
         <td>TBD</td>
         <td>  2024 </th>
     </tr>
-<tr>
+     <tr>
         <td><IMG src="_static/yuyu.jpg"></td>
         <td>Yuyu Yuan<br>Master Student</td>
         <td>TBD</td>
         <td>  2024 </th>
     </tr>
-<tr>
+     <tr>
         <td><IMG src="_static/longbiao.jpg"></td>
         <td>Longbiao Liu<br>Master Student</td>
         <td>TBD</td>
         <td>  2024 </th>
     </tr>
-<tr>
+     <tr>
         <td><IMG src="_static/pengbo.jpg"></td>
         <td>Bo Peng<br>Master Student</td>
         <td>TBD</td>
         <td>  2024 </th>
-    </tr>
-     
+    </tr> 
     </table>
     <br>
     <br>
