@@ -82,13 +82,6 @@ Current Students
         <th width="375px">Research interest</th>
         <th width="225px">Enrollment Year</th>
     </tr>
-    
-    <tr>
-        <td><IMG src="_static/xuanyi.jpg"></td>
-        <td>Xuanyi Liu<br>PhD Student</td>
-        <td>Ultrafast Optics</td>
-        <td>  2020 </th>
-    </tr>
     <tr>
         <td><IMG src="_static/yaqi.jpg"></td>
         <td>Yaqi Han<br>PhD Student</td>
@@ -295,45 +288,51 @@ Graduated Students
     </tr>
        <tr>
         <td><IMG src="_static/yuanfang.jpg"></td>
-        <td>Yuanfang Zhao<br>2019-2023</td>
+        <td>Yuanfang Zhao<br>Ph.D. Student<br>2019-2023</td>
         <td>Microcavity biosensing</td>
         <td>  Huawei </th>
     </tr>
     <tr>
         <td><IMG src="_static/simei.jpg"></td>
-        <td>Simei Mao<br>2019-2024</td>
+        <td>Simei Mao<br>Ph.D. Student<br>2019-2024</td>
         <td>Silicon photonics: multiplexing, inverse design</td>
         <td>  iMEC </th>
     </tr>
     <tr>
         <td><IMG src="_static/zhenquan.jpg"></td>
-        <td>Zhenquan Zhao<br>2020-2023</td>
+        <td>Zhenquan Zhao<br>Master Student<br>2020-2023</td>
         <td>Optical wireless communications</td>
         <td>  BYD </th>
     </tr>
     <tr>
         <td><IMG src="_static/zhangyuan.jpg"></td>
-        <td>Yuan Zhang<br>2020-2023</td>
+        <td>Yuan Zhang<br>Master Student<br>2020-2023</td>
         <td>Optical wireless communications</td>
         <td>  Teacher, Shenzhen Experimental School </th>
     </tr>
     <tr>
         <td><IMG src="_static/caiyue.jpg"></td>
-        <td>Caiyue Zhao<br>2020-2023</td>
+        <td>Caiyue Zhao<br>Master Student<br>2020-2023</td>
         <td>Silicon photonics</td>
         <td>  Ph.D. Candidate,<br>The Chinese University of Hong Kong </th>
     </tr>
     <tr>
         <td><IMG src="_static/yinghui.jpg"></td>
-        <td>Yinghui Wang<br>2020-2023</td>
+        <td>Yinghui Wang<br>Master Student<br>2020-2023</td>
         <td>Silicon photonics</td>
         <td>  Huawei </th>
     </tr>
     <tr>
         <td><IMG src="_static/denghui.jpg"></td>
-        <td>Denghui Pan<br>2020-2023</td>
+        <td>Denghui Pan<br>Master Student<br>2020-2023</td>
         <td>Ultrafast Optics</td>
-        <td>  TBD </th>
+        <td>  University of California，Santa Cruz </th>
+    </tr>
+     <tr>
+        <td><IMG src="_static/xuanyi.jpg"></td>
+        <td>Xuanyi Liu<br>Ph.D. Student<br>2020-2024</td>
+        <td>Ultrafast Optics</td>
+        <td> Postdoc,<br>Sun Yat-sen University </th>
     </tr>
     </table>
     <br>
