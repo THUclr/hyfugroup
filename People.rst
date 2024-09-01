@@ -84,93 +84,69 @@ Current Students
     </tr>
     <tr>
         <td><IMG src="_static/yaqi.jpg"></td>
-        <td>Yaqi Han<br>PhD Student</td>
+        <td>Yaqi Han<br>Ph.D. Student</td>
         <td>LiDAR, beam steering</td>
         <td>  2020 </th>
     </tr>
     <tr>
         <td><IMG src="_static/lihang.jpg"></td>
-        <td>Lihang Liu<br>PhD Student</td>
+        <td>Lihang Liu<br>Ph.D. Student</td>
         <td>Optical wireless communications</td>
         <td>  2021 </th>
     </tr>
     <tr>
         <td><IMG src="_static/qingyang.jpg"></td>
-        <td>Qingyang Zhu<br>PhD Student</td>
+        <td>Qingyang Zhu<br>Ph.D. Student</td>
         <td>LiDAR</td>
         <td>  2022 </th>
     </tr>
     <tr>
         <td><IMG src="_static/siyu.jpg"></td>
-        <td>Siyu Bai<br>PhD Student</td>
+        <td>Siyu Bai<br>Ph.D. Student</td>
         <td>Optical wireless communications</td>
         <td>  2022 </th>
     </tr>
     <tr>
         <td> <IMG src="_static/haoyi.jpg"></td>
-        <td>Yi Hao<br>PhD Student</td>
+        <td>Yi Hao<br>Ph.D. Student</td>
         <td>LiDAR</td>
         <td>  2022 </th>
     </tr>
     <tr>
         <td><IMG src="_static/lijin.jpg"></td>
-        <td>Jin Li<br>PhD Student</td>
+        <td>Jin Li<br>Ph.D. Student</td>
         <td>Silicon photonics</td>
         <td>  2022 </th>
     </tr>
     <tr>
         <td><IMG src="_static/zhiyan.jpg"></td>
-        <td>Zhiyan Chen<br>PhD Student</td>
+        <td>Zhiyan Chen<br>Ph.D. Student</td>
         <td>Optical wireless communications</td>
         <td>  2022 </th>
     </tr>
      <tr>
         <td><IMG src="_static/ziming.jpg"></td>
-        <td>Ziming Ye<br>PhD Student</td>
+        <td>Ziming Ye<br>Ph.D. Student</td>
         <td>LiDAR</td>
         <td>  2023 </th>
     </tr>
      <tr>
         <td><IMG src="_static/yuru.jpg"></td>
-        <td>Yuru Tang<br>PhD Student</td>
+        <td>Yuru Tang<br>Ph.D. Student</td>
         <td>Optical wireless communications</td>
         <td>  2023 </th>
     </tr>
      <tr>
         <td><IMG src="_static/zhiyue.jpg"></td>
-        <td>Zhiyue Yin<br>PhD Student</td>
+        <td>Zhiyue Yin<br>Ph.D. Student</td>
         <td>Optical wireless communications</td>
         <td>  2023 </th>
     </tr>
      <tr>
         <td><IMG src="_static/xingyu.jpg"></td>
-        <td>Chenxingyu Huang<br>PhD Student</td>
+        <td>Chenxingyu Huang<br>Ph.D. Student</td>
         <td>Epsilon-near-zero photonics</td>
         <td> 2023 </th>
-    </tr>
-    <tr>
-        <td><IMG src="_static/lican.jpg"></td>
-        <td>Lican Wu<br>Master Student</td>
-        <td>LiDAR, beam steering</td>
-        <td>  2021 </th>
-    </tr>
-    <tr>
-        <td><IMG src="_static/houyu.jpg"></td>
-        <td>Houyu Chen<br>Master Student</td>
-        <td>Silicon photonics</td>
-        <td>  2021 </th>
-    </tr>
-    <tr>
-        <td><IMG src="_static/yibin.jpg"></td>
-        <td>Yibin Li<br>Master Student</td>
-        <td>Optical wireless communications</td>
-        <td>  2021 </th>
-    </tr>
-    <tr>
-        <td><IMG src="_static/bohua.jpg"></td>
-        <td>Bohua Deng<br>Master Student</td>
-        <td>Optical wireless communications</td>
-        <td>  2021 </th>
     </tr>
       <tr>
         <td><IMG src="_static/weichen.jpg"></td>
@@ -258,7 +234,7 @@ Graduated Students
     </tr>
     <tr>
         <td><IMG src="_static/lirong.jpg"></td>
-        <td>Lirong Cheng<br>2018-2023</td>
+        <td>Lirong Cheng<br>Ph.D. Student<br>2018-2023</td>
         <td>Silicon photonics: passives, grating couplers</td>
         <td>  Interuniversity Microelectronics Center</th>
     </tr>
@@ -326,13 +302,37 @@ Graduated Students
         <td><IMG src="_static/denghui.jpg"></td>
         <td>Denghui Pan<br>Master Student<br>2020-2023</td>
         <td>Ultrafast Optics</td>
-        <td>  University of California，Santa Cruz </th>
+        <td>  Ph.D. Candidate,<br>University of California，Santa Cruz </th>
     </tr>
      <tr>
         <td><IMG src="_static/xuanyi.jpg"></td>
         <td>Xuanyi Liu<br>Ph.D. Student<br>2020-2024</td>
         <td>Ultrafast Optics</td>
         <td> Postdoc,<br>Sun Yat-sen University </th>
+    </tr>
+     <tr>
+        <td><IMG src="_static/lican.jpg"></td>
+        <td>Lican Wu<br>Master Student<br>2021-2024</td>
+        <td>LiDAR, beam steering</td>
+        <td>  China Cosco Shipping Corporation Limited </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/houyu.jpg"></td>
+        <td>Houyu Chen<br>Master Student<br>2021-2024</td>
+        <td>Silicon photonics</td>
+        <td>  Shenzhen SiCarrier Technology Co., Ltd </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/yibin.jpg"></td>
+        <td>Yibin Li<br>Master Student<br>2021-2024</td>
+        <td>Optical wireless communications</td>
+        <td>  Ph.D. Candidate,<br>The Hong Kong Polytechnic University </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/bohua.jpg"></td>
+        <td>Bohua Deng<br>Master Student<br>2021-2024</td>
+        <td>Optical wireless communications</td>
+        <td>  Ph.D. Candidate,<br>McGill University </th>
     </tr>
     </table>
     <br>
