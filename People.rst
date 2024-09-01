@@ -148,6 +148,24 @@ Current Students
         <td>Epsilon-near-zero photonics</td>
         <td> 2023 </th>
     </tr>
+     <tr>
+        <td><IMG src="_static/xubin.jpg"></td>
+        <td>Bin Xu<br>Ph.D. Student</td>
+        <td>Silicon photonics</td>
+        <td> 2024 </th>
+    </tr>
+     <tr>
+        <td><IMG src="_static/shichen.jpg"></td>
+        <td>Shichen Zheng<br>Ph.D. Student</td>
+        <td>TBD</td>
+        <td> 2024 </th>
+    </tr>
+     <tr>
+        <td><IMG src="_static/mengjia.jpg"></td>
+        <td>Mengjia Zhu<br>Ph.D. Student</td>
+        <td>Optical wireless communications</td>
+        <td> 2024 </th>
+    </tr>
       <tr>
         <td><IMG src="_static/weichen.jpg"></td>
         <td>Weichen Yuan<br>Master Student</td>
@@ -171,6 +189,36 @@ Current Students
         <td>Annan Xia<br>Master Student</td>
         <td>LiDAR</td>
         <td>  2023 </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/yehong.jpg"></td>
+        <td>Hong Ye<br>Master Student</td>
+        <td>LiDAR</td>
+        <td>  2024 </th>
+    </tr>
+<tr>
+        <td><IMG src="_static/jinxuan.jpg"></td>
+        <td>Jinxuan Lin<br>Master Student</td>
+        <td>TBD</td>
+        <td>  2024 </th>
+    </tr>
+<tr>
+        <td><IMG src="_static/yuyu.jpg"></td>
+        <td>Yuyu Yuan<br>Master Student</td>
+        <td>TBD</td>
+        <td>  2024 </th>
+    </tr>
+<tr>
+        <td><IMG src="_static/longbiao.jpg"></td>
+        <td>Longbiao Liu<br>Master Student</td>
+        <td>TBD</td>
+        <td>  2024 </th>
+    </tr>
+<tr>
+        <td><IMG src="_static/pengbo.jpg"></td>
+        <td>Bo Peng<br>Master Student</td>
+        <td>TBD</td>
+        <td>  2024 </th>
     </tr>
      
     </table>
