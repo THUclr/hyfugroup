@@ -418,13 +418,13 @@ Visiting Scholars
         <td><IMG src="_static/jianan.jpg" width="50px"></td>
         <td>Jianan Zhang (PhD, The Pennsylvania U.)<br>Postdoc<br>2021-2023</td>
         <td>Optical wireless Communications</td>
-        <td>-</th>
+        <td> Huawei</th>
     </tr>
      <tr>
         <td><IMG src="_static/zeyad.jpg" width="50px"></td>
         <td>Zeyad Qasem (PhD, Xiamen U.)<br>Postdoc<br>2022-2024</td>
         <td>Optical wireless Communications</td>
-        <td>-</th>
+        <td> Donghai Laboratory</th>
     </tr>
  <tr>
         <td><IMG src="_static/chengshuai.jpg" width="50px"></td>
