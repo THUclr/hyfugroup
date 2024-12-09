@@ -41,7 +41,7 @@ Invited Talks
 
 [I12]	H. Y. Fu, Qian Li and Renlai Zhou “Novel Devices Enabled 3D Sensing Technologies”, The 10th International Conference on Advanced Infocomm Technology (ICAIT), A003-3, Stockholm, Sweden, Aug. 12th -15th, 2018.
 
-[I13]	H. Y. Fu, Qian Li and Renlai Zhou “Fiber Supercontinuum Source for 3D Sensing”, The 12th International Nano-Optoelectronics Workshop (iNOW), Th3, CA, USA, Jul. 21st -28th, 2018.
+[I13]	H. Y. Fu, Qian Li and Renlai Zhou “Fiber Supercontinuum Source for 3D Sensing”, The 12th International Nano-Optoelectronics Workshop (iNOW), Th3, Berkeley, CA, USA, Jul. 21st -28th, 2018.
 
 [I14]	H. Y. Fu, “Silicon Photonic Switches for Data Communications”, The 11th International Nano-Optoelectronics Workshop (iNOW), Tianjin/Qian’an/Chengde, Aug. 4th -12th, 2017.
 
