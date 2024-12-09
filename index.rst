@@ -1,6 +1,3 @@
-import os
-html_static_path = [os.path.abspath('_static')]
-
 .. hyfugroup documentation master file, created  
    sphinx-quickstart on Sun Jun 28 20:55:46 2020.
    You can adapt this file completely to your liking, but it should at least
