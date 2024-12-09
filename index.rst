@@ -6,7 +6,7 @@
 Home Page
 =====================================
 
-Welcome to HYFUgroup Photonics Lab. We are a group of photonics researchers at Nano-Devices Laboratory, Tsinghua-Berkeley Shenzhen Institute, Tsinghua University. 
+Welcome to HYFUgroup Photonics Lab. We are a group of photonics researchers at Nano-Devices Laboratory, Tsinghua Shenzhen International Graduate School, Tsinghua University. 
 Our research interests include optical wireless communication,  silicon photonics and advanced sensing technologies.
 
 Our vision: Enabling people's future life with advanced optical technologies.
