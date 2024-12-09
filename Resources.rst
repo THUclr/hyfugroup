@@ -5,7 +5,7 @@ Resources
 .. raw:: html
 
     <a href="http://hyfugroup.quickconnect.cn/" Internal access> ==== Click here to visit our NAS ==== </a><br><br>
-    <a href="http://www.tbsi.edu.cn/" TBSI homepage> Tsinghua-Berkeley Shenzhen Institute </a><br><br>
+    <a href="https://www.sigs.tsinghua.edu.cn/" SIGS homepage> Tsinghua Shenzhen International Graduate School </a><br><br>
 
 Contact Prof. Fu via e-mail: \ `hyfu@sz.tsinghua.edu.cn <mailto:hyfu@sz.tsinghua.edu.cn>`_
 
