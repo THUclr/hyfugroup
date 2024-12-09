@@ -8,7 +8,7 @@ Professor
 
     <table>
     <tr>
-        <td><IMG src="./_static/hyfu.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><IMG src="\_static\hyfu.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td><b>Hongyan Fu</b>&nbsp;&nbsp; <a href="https://scholar.google.com/citations?hl=en&user=ruUJphwAAAAJ&view_op=list_works&sortby=pubdate"
             Google Scholar>(Google Scholar Page)</a><br>    
             BEng, MSc, PhD, SrMIEEE, MOSA, MSPIE<br>
