@@ -31,6 +31,4 @@ Our vision: Enabling people's future life with advanced optical technologies.
     
 See off the 2023 members of the research group, 2023/10
 
-.. raw:: html
-    
-    <IMG src="_static/202310.jpg" width=800>
+
