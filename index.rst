@@ -33,4 +33,4 @@ See off the 2023 members of the research group, 2023/10
 
 .. raw:: html
     
-    <IMG src="hyfugroup/_static/202310.jpg" width=800>
+    <IMG src="https://github.com/THUclr/hyfugroup/_static/202310.jpg" width=800>
