@@ -3,7 +3,7 @@ News
 
 Reports
 ~~~~~~~~~~
-11. 课题组受邀在《自然·电子学》发表量子点器件专家述评​​ Hongyan Fu’s team contributed an Expert Opinion commentary on quantum-dot photonic devices in Nature Electronics, 2025/03/13
+11. 课题组受邀在《自然·电子学》发表量子点器件专家述评​​ Hongyan Fu’s team contributed an Expert Opinion commentary on quantum-dot photonic devices for VLC and LiDAR applications in Nature Electronics, 2025/03/13
         https://www.nature.com/articles/s41928-025-01366-6
 
 10. 课题组在大规模多任务纳米光子集成器件的逆向设计上取得新进展 Hongyan Fu’s team has made new progress in the reverse design of large-scale multi-task nanophotonics integrated devices, 2023/03/13
