@@ -157,7 +157,7 @@ Current Students
      <tr>
         <td><IMG src="_static/shichen.JPG"></td>
         <td>Shichen Zheng<br>Ph.D. Student</td>
-        <td>TBD</td>
+        <td>LiDAR</td>
         <td> 2024 </th>
     </tr>
      <tr>
@@ -199,25 +199,19 @@ Current Students
      <tr>
         <td><IMG src="_static/jinxuan.JPG"></td>
         <td>Jinxuan Lin<br>Master Student</td>
-        <td>TBD</td>
-        <td>  2024 </th>
-    </tr>
-     <tr>
-        <td><IMG src="_static/yuyu.JPG"></td>
-        <td>Yuyu Yuan<br>Master Student</td>
-        <td>TBD</td>
+        <td>Silicon Photonics</td>
         <td>  2024 </th>
     </tr>
      <tr>
         <td><IMG src="_static/longbiao.JPG"></td>
         <td>Longbiao Liu<br>Master Student</td>
-        <td>TBD</td>
+        <td>LiDAR</td>
         <td>  2024 </th>
     </tr>
      <tr>
         <td><IMG src="_static/pengbo.JPG"></td>
         <td>Bo Peng<br>Master Student</td>
-        <td>TBD</td>
+        <td>Silicon Photonics</td>
         <td>  2024 </th>
     </tr> 
     </table>
