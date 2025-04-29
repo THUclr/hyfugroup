@@ -12,44 +12,6 @@ Book Chapters
 
 [B3]	Amjad Ali, Qian Li, H. Y. Fu and Syed Raza Mehdi, “Blue Laser Diode-Based Visible Light Communication and Solid-State Lighting,” in Antenna Systems, IntechOpen, (2021).
 
-Invited Talks
-~~~~~~~~~~~~~~
-
-[I1]	H. Y. Fu, “Optical Wireless Communication and Sensing Fusion for 6G Applications”, The 23th International Conference on Optical Communications & Networks (ICOCN), Qufu, China, Aug. 23th-27th, 2023.
-
-[I2]	H. Y. Fu “High-speed and Wide-field Spectral-scanning Coherent LiDAR Systems Based on Tunable VCSEL”, Workshop: Light Detection and Ranging (LiDAR), 2023 Opto-Electronics and Communications Conference (OECC), Shanghai, China, July 2nd -6th, 2023. 
-
-
-[I3]	H Y. Fu “VCSELs for Optical Wireless Communications”, The Asia Communications and Photonics Conference (ACP2022), Shenzhen, China, Nov. 5th -8th, 2022.
-
-
-[I4]	H. Y. Fu and Lirong Cheng “New functionalities and design strategies of passive silicon photonic devices”, The 13th International Conference on Advanced Infocomm Technology (ICAIT), Yanji, China, Oct. 15th -18th, 2021. 
-
-[I5]	H. Y. Fu, “Optical Wireless Communications for 6G High-speed Transmission”, The 19th International Conference on Optical Communications & Networks (ICOCN), Qufu, China, Aug. 23th -27th, 2021.
-
-[I6]	H. Y. Fu, “Towards 6G Optical Wireless Communications”, The 4th International Conference on Communication Engineering and Technology (ICCET’2020), Shanghai, China, Feb. 2021.
-
-[I7]	H. Y. Fu and Zixian Wei “Optical Wireless Communication Technologies for 6G”, The 12th International Conference on Advanced Infocomm Technology (ICAIT), A003-3, Macau, Nov. 12th -15th, 2020.
-
-[I8]	H. Y. Fu, “Key Technologies for Optical Wireless Communications for 6G”, The Asia Communications and Photonics Conference (ACP’2020), M2F.4, Beijing, China, Nov. 2020.
-
-[I9]	H. Y. Fu, “Recent Advances on Optical Wireless Communication Technologies for 6G,” The 2020 Optoelectronics Global Conference (OGC), Shenzhen, China, Sep. 7th -11th, 2020.
-
-[I10]	H. Y. Fu, Zixian Wei, Simei Mao, Xin Mu and Alberto Pepe “VCSEL-based Optical Wireless Communications”, The 11th International Conference on Advanced Infocomm Technology (ICAIT), Session on Optical Communications, Jinan, China, Oct. 18th -20th, 2019.
-
-[I11]	H. Y. Fu, and Zixian Wei “Recent Progress on Optical Wireless Communications”, The 12th International Nano-Optoelectronics Workshop (iNOW), Guangzhou/Dongguan/Shenzhen, China, Jul. 21st -28th, 2019.
-
-[I12]	H. Y. Fu, Qian Li and Renlai Zhou “Novel Devices Enabled 3D Sensing Technologies”, The 10th International Conference on Advanced Infocomm Technology (ICAIT), A003-3, Stockholm, Sweden, Aug. 12th -15th, 2018.
-
-[I13]	H. Y. Fu, Qian Li and Renlai Zhou “Fiber Supercontinuum Source for 3D Sensing”, The 12th International Nano-Optoelectronics Workshop (iNOW), Th3, Berkeley, CA, USA, Jul. 21st -28th, 2018.
-
-[I14]	H. Y. Fu, “Silicon Photonic Switches for Data Communications”, The 11th International Nano-Optoelectronics Workshop (iNOW), Tianjin/Qian’an/Chengde, Aug. 4th -12th, 2017.
-
-[I15]	H. Y. Fu, “Silicon Photonic Switches and Their Applications for Data Center”, The 15th International Conference on Optical Communications & Networks (ICOCN), Hangzhou, Sep. 24th -27th, 2016.
-
-[I16]	H. Y. Fu, “Next Generation Optical Networking and Driving Beyond 100G, an Optical Internetworking forum (OIF) perspective”, WDM & Next Generation Optical Networking APAC, Singapore, Jan. 29th -31st, 2013.
-an Optical Internetworking forum (OIF) perspective”, WDM & Next Generation Optical Networking APAC, Singapore, Jan. 29th -31st, 2013.
-
 
 Review Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~
