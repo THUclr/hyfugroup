@@ -15,22 +15,29 @@ Book Chapters
 
 Review Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~
+[R1] Xuanyi Liu, Feng Ye, Yang Luo, Hongyan Fu, and Qian Li, "Ultrafast Polarization-Maintaining Fiber Lasers: Design, Fabrication, Performance, and Applications," Laser & Photonics Reviews, Vol. 19, 2025.
 
-[R1]	Xin Tu, Chaolong Song, Tianye Huang, Zhenmin Chen and H. Y. Fu, “State of the art and perspectives on silicon photonic switches,” Micromachines, Vol. 10, No. 1, p. 51, 2019.
+[R2] Z. Li, Y. Han, L. Wu, Z. Zang, M. Dai, S. Set, S. Yamashita, Q. Li, and H. Fu, "Towards an Ultrafast 3D Imaging Scanning LiDAR System: A Review," Photonics Research, Vol. 12, pp. 1709-1729, 2024.
 
-[R2]	Xin Mu, Sailong Wu, Lirong Cheng, and H. Y. Fu*, “Edge Couplers in Silicon Photonic Integrated Circuits: A Review,” Applied Science, Vol. 10, No. 4, pp. 1538, 2020. 
+[R3] Wei, Zixian, Zhaoming Wang, Jianan Zhang, Qian Li, Junping Zhang, and H. Y. Fu, "Evolution of optical wireless communication for B5G/6G", Progress in Quantum Electronics, vol. 83, pp. 100398, 2022.
 
-[R3]	Sailong Wu, Xin Mu, Lirong Cheng, Simei Mao and H. Y. Fu*, “State-of-the-Art and Perspectives on Silicon Waveguide Crossings: A Review,” Micromachines, Vol. 11, No. 3, pp. 326, 2020. 
+[R4]	Simei Mao, Lirong Cheng, Caiyue Zhao, Faisal Nadeem Khan, Qian Li and H. Y. Fu*, “Inverse Design for Silicon Photonics: From Iterative Optimization Algorithms to Deep Neural Networks,” Applied Science, No. 11, p.3822, 2021. 
 
-[R4]	Lirong Cheng, Simei Mao, Zhi Li, Yaqi Han and H. Y. Fu*, “Grating Couplers on Silicon Photonics: Design Principles, Emerging Trends and Practical Issues,” Micromachines, Vol. 11, No. 7, p. 666, 2020. 
+[R5]	Jiaye Wu, Ze Tao Xie, Yanhua Sha, H. Y. Fu, and Qian Li*, “Epsilon-near-zero photonics: infinite potentials,” Photonics Research, Vol. 9, Issue 8, pp. 1616-1644, 2021.
 
-[R5]	Maolin Dai, Zhenmin Chen, Yuanfang Zhao, Manthangal Sivanesan Aruna Gandhi, Qian Li and H. Y. Fu*, “State-of-the-Art Optical Microfiber Coupler Sensors for Physical and Biochemical Sensing Applications,” Biosensors, Vol. 10, No. 11, p. 179, 2020.
+[R6]	Xin Mu, Sailong Wu, Lirong Cheng, and H. Y. Fu*, “Edge Couplers in Silicon Photonic Integrated Circuits: A Review,” Applied Science, Vol. 10, No. 4, pp. 1538, 2020. 
 
-[R6]	Simei Mao, Lirong Cheng, Caiyue Zhao, Faisal Nadeem Khan, Qian Li and H. Y. Fu*, “Inverse Design for Silicon Photonics: From Iterative Optimization Algorithms to Deep Neural Networks,” Applied Science, No. 11, p.3822, 2021. 
+[R7]	Sailong Wu, Xin Mu, Lirong Cheng, Simei Mao and H. Y. Fu*, “State-of-the-Art and Perspectives on Silicon Waveguide Crossings: A Review,” Micromachines, Vol. 11, No. 3, pp. 326, 2020. 
 
-[R7]	Jiaye Wu, Ze Tao Xie, Yanhua Sha, H. Y. Fu, and Qian Li*, “Epsilon-near-zero photonics: infinite potentials,” Photonics Research, Vol. 9, Issue 8, pp. 1616-1644, 2021.
+[R8]	Lirong Cheng, Simei Mao, Zhi Li, Yaqi Han and H. Y. Fu*, “Grating Couplers on Silicon Photonics: Design Principles, Emerging Trends and Practical Issues,” Micromachines, Vol. 11, No. 7, p. 666, 2020. 
 
-[R8] Wei, Zixian, Zhaoming Wang, Jianan Zhang, Qian Li, Junping Zhang, and H. Y. Fu, "Evolution of optical wireless communication for B5G/6G", Progress in Quantum Electronics, vol. 83, pp. 100398, 2022.
+[R9]	Maolin Dai, Zhenmin Chen, Yuanfang Zhao, Manthangal Sivanesan Aruna Gandhi, Qian Li and H. Y. Fu*, “State-of-the-Art Optical Microfiber Coupler Sensors for Physical and Biochemical Sensing Applications,” Biosensors, Vol. 10, No. 11, p. 179, 2020.
+
+[R10]	Xin Tu, Chaolong Song, Tianye Huang, Zhenmin Chen and H. Y. Fu, “State of the art and perspectives on silicon photonic switches,” Micromachines, Vol. 10, No. 1, p. 51, 2019.
+
+
+
+
 
 Selected Journal Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~
