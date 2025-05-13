@@ -62,25 +62,25 @@ Selected Journal Papers
 
 [J10] Caiyue Zhao, Lirong Cheng, Houyu Chen, Simei Mao, Yinghui Wang, Qian Li, and H. Y. Fu*, “Compact dual-mode waveguide crossing based on adjoint shape optimization,” Optics Letters, Vol. 48, No. 15, pp.3873-3876, 2023.
 
-[J11] Chenxingyu Huang, Siwei Peng, Xuanyi Liu, Jiaye Wu, Hongyan Fu, Lei Lu, Shengdong Zhang, Qian Li*,“Manufacturing-Enabled Tunability of Linear and Nonlinear Epsilon-Near-Zero Properties in Indium Tin Oxide Nanofilms,” ACS Applied Materials& Interfaces, Vol. 15, No. 29, pp.35186-35195, 2023.
+[J11] Chenxingyu Huang, Siwei Peng, Xuanyi Liu, Jiaye Wu, Hongyan Fu, Lei Lu, Shengdong Zhang, Qian Li*, “Manufacturing-Enabled Tunability of Linear and Nonlinear Epsilon-Near-Zero Properties in Indium Tin Oxide Nanofilms,” ACS Applied Materials & Interfaces, Vol. 15, No. 29, pp. 35186-35195, 2023.
 
-[J12] Zhuhua Xu, Chuying Sun, Siyi Min, Zilong Ye, Cong Zhao, Jingzhou Li, Zhenghao Liu, Youdi Liu, Wen-Di Li, Man-Chung Tang, Qinghua Song, H.Y.Fu, Feiyu Kang, Jiangyu Li, Yang Shen, Cunjiang Yu, Guodan Wei*,“Si/Organic Integrated Narrowband Near-Infrared Photodetector,” Small, p.2302072, 2023.
+[J12] Zhuhua Xu, Chuying Sun, Siyi Min, Zilong Ye, Cong Zhao, Jingzhou Li, Zhenghao Liu, Youdi Liu, Wen‐Di Li, Man‐Chung Tang, Qinghua Song, H. Y. Fu, Feiyu Kang, Jiangyu Li, Yang Shen, Cunjiang Yu, Guodan Wei*, “Si/Organic Integrated Narrowband Near‐Infrared Photodetector,” Small, p.2302072, 2023.
 
-[J13] Jiayao Huang, Fu Deng, Feng Ye, H. Y. Fu, Shengdong Zhang, Qian Li*,“Strong plasmon-phonon coupling for graphene/hBN thermal emitter atomic system,” Carbon, p.118210, 2023.
+[J13] Jiayao Huang, Fu Deng, Feng Ye, H. Y. Fu, Shengdong Zhang, Qian Li*, “Strong plasmon− phonon coupling for graphene/hBN thermal emitter atomic system,” Carbon, p.118210, 2023.
 
-[J14] Simei Mao, Lirong Cheng, Caiyue Zhao, Yinghui Wang, Qian Li, and H. Y. Fu*,“Compact hybrid five-mode multiplexer based on asymmetric directional couplers with constant bus waveguide width,” Optics Letters, Vol.48, No.10, pp.2607-2610, 2023.
+[J14] Simei Mao, Lirong Cheng, Caiyue Zhao, Yinghui Wang, Qian Li, and H. Y. Fu*, “Compact hybrid five-mode multiplexer based on asymmetric directional couplers with constant bus waveguide width,” Optics Letters, Vol. 48, No. 10, pp.2607-2610, 2023.
 
-[J15] Jiwei Wang, Chen Chen, Bohua Deng, Zhaoming Wang, Min Liu and H.Y. Fu*,“Enhancing underwater VLC with spatial division transmission and pairwise coding,” Optics Express, Vol.31,No.10,pp.16812-16832,2023.
+[J15] Jiwei Wang, Chen Chen, Bohua Deng, Zhaoming Wang, Min Liu and H. Y. Fu*, “Enhancing underwater VLC with spatial division transmission and pairwise coding,” Optics Express, Vol. 31, No. 10, pp.16812-16832, 2023.
 
-[J16] Bohua Deng, Jiwei Wang, Zhaoming Wang, Zeyad AHQasem, Qian Li, Xinke Tang, Chen Chen, H. Y. Fu*,“Polarization Multiplexing Based UOWC Systems Under Bubble Turbulence,” IEEE Journal of Lightwave Technology, Vol.41, No. 17, pp.5588-5598, 2023.
+[J16] Bohua Deng, Jiwei Wang, Zhaoming Wang, Zeyad AH Qasem, Qian Li, Xinke Tang, Chen Chen, H. Y. Fu*, “Polarization Multiplexing Based UOWC Systems Under Bubble Turbulence,” IEEE Journal of Lightwave Technology, Vol. 41, No. 17, pp.5588-5598, 2023. 
 
-[J17] Yuan Zhang, Zixian Wei, Zhongxu Liu, Chen Cheng, Zhaoming Wang, Xinke Tang, Yanfu Yang, Changyuan Yu, H.Y. Fu*,“Optical Communication and Positioning Convergence for Flexible Underwater Wireless Sensor Network,” IEEE Journal of Lightwave Technology, Vol. 41, No. 16,pp.5321-5327，2023.
+[J17] Yuan Zhang, Zixian Wei, Zhongxu Liu, Chen Cheng, Zhaoming Wang, Xinke Tang, Yanfu Yang, Changyuan Yu, H. Y. Fu*, “Optical Communication and Positioning Convergence for Flexible Underwater Wireless Sensor Network,” IEEE Journal of Lightwave Technology, Vol. 41, No. 16, pp.5321-5327, 2023.
 
-[J18] Xuanyi Liu, Maolin Dai, Denghui Pan, Feng Ye, Boris A. Malomed, Qian Li* and H.Y. Fu**,“Robust mode-locking in a hybrid ultrafast laser based on nonlinear multimodal interference,” Optics& Laser Technology, Vol.159, p.108941, 2023.
+[J18] Xuanyi Liu, Maolin Dai, Denghui Pan, Feng Ye, Boris A. Malomed, Qian Li* and H. Y. Fu**, “Robust mode-locking in a hybrid ultrafast laser based on nonlinear multimodal interference,” Optics & Laser Technology, Vol. 159, p.108941, 2023.
 
-[J19] Zhenquan Zhao, Faisal Nadeem Khan, Zeyad AH Qasem, Bohua Deng, Qian Li, Zhengyong Liu, and H. Y. Fu*,“Convolutional neural network-based versus vision transformer-based SNR estimation for visible light communication networks,” Optics Letters, Vol.48, No.6, pp.1419-1422,2023.
+[J19] Zhenquan Zhao, Faisal Nadeem Khan, Zeyad AH Qasem, Bohua Deng, Qian Li, Zhengyong Liu, and H. Y. Fu*, “Convolutional neural network-based versus vision transformer-based SNR estimation for visible light communication networks,” Optics Letters, Vol. 48, No. 6, pp.1419-1422, 2023.
 
-[J20] Xuanyi Liu, Feng Ye, Minghe Zhao, Boris A Malomed, H. Y. Fu*, Qian Li,“All-polarization-maintaining linear cavity fiber lasers mode-locked by nonlinear polarization evolution in stretched pulse regime,” IEEE Journal of Lightwave Technology, Vol. 41, No. 15,pp.5107-5115, 2023.
+[J20] Xuanyi Liu, Feng Ye, Minghe Zhao, Boris A Malomed, H. Y. Fu*, Qian Li, “All-polarization-maintaining linear cavity fiber lasers mode-locked by nonlinear polarization evolution in stretched pulse regime,” IEEE Journal of Lightwave Technology, Vol. 41, No. 15, pp.5107-5115, 2023.
 
 [J21] Chengcheng Wu, Min Wang, Kai-Ning Tong, Meng Zhang, Wansi Li, Zhuhua Xu, Wei-Long Zhang, Yuan Wu, Chen Yang, Hong-Yan Fu, Season Si Chen, Maggie Ng, Man-Chung Tang, and Guodan Wei*,“Blue Iridium(III) Phosphorescent OLEDs with High Brightness Over 10 000 cd m⁻² and Ultralow Efficiency Roll-Off," Advanced Optical Materials, Vol.11, No.1, p.2201998, 2023.
 
