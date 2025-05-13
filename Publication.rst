@@ -42,25 +42,25 @@ Review Papers
 Selected Journal Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-[J1] Y. Hao et al.,"Hybrid FMCW LiDAR System With Nonlinearity-Corrected MEMS-VCSEL for Extended 3D Imaging Range," Technology, Vol. 43, No. 9, pp. 4042-4052, 2025.
+[J1] Yi Hao, Qingyang Zhu, Yaqi Han, Zihan Zang, Ziming Ye, Connie Chang-Hasnain and H. Y. Fu*, “Hybrid FMCW LiDAR System with Nonlinearity-Corrected MEMS-VCSEL for Extended 3D Imaging Range”, IEEE Journal of Lightwave Technology, Vol. 43, No. 9, pp. 4042–4052, 2025.
 
-[J2] Jiaye Wu, Marco Clementi, Chenxingyu Huang, Feng Ye, H. Y. Fu, Lei Lu, Shengdong Zhang, Qian Li, and Camille-Sophie Bres,"Thermo-Optic Epsilon-Near-Zero Effects," Nature Communications, Vol. 15, p. 794, 2024.
+[J2] Jiaye Wu, Marco Clementi, Chenxingyu Huang, Feng Ye, H. Y. Fu, Lei Lu, Shengdong Zhang, Qian Li* and Camille-Sophie Brès*, “Thermo-optic epsilon-near-zero effects”, Nature Communication, Vol. 15, No. 1, p. 794, 2024.
 
-[J3] Xuanyi Liu and H. Y. Fu,"Highly-Coherent Second-Harmonic Generation in a Chip-Scale Source," Light: Science& Applications, Vol.13, 2024.
+[J3] Xuanyi Liu and H. Y. Fu, “Highly-coherent second-harmonic generation in a chip-scale source”, Light: Science & Applications, Vol. 13, No. 1, p. 20, 2024
 
-[J4] Y. Tang et al.,"Joint In-Phase and Quadrature Non-Orthogonal Multiple Access for Multi-User VLC," Journal of Lightwave Technology, Vol.42, No. 20, pp. 7219-7228, 2024.
+[J4] Yuru Tang, Chen Chen*, Cuiwei He, Bohua Deng, Min Liu, XinkeTang, H. Y. Fu* and Harald Haas, “Joint In-Phase and Quadrature Non-Orthogonal Multiple Access for Multi-User VLC”, IEEE Journal of Lightwave Technology, Vol. 42, No. 20, pp. 7219–7228, 2024.
 
-[J5] Qingyang Zhu, Yi Hao, Lican Wu, Yaqi Han, Qian Li, and H. Y. Fu,"4D Spectral-Scanning FMCW LiDAR System for 360-Degree Detection," Journal of Lightwave Technology, pp. 1-8, 2024.
+[J5] Qingyang Zhu, Yi Hao, Lican Wu, Yaqi Han, Qian Li, and H. Y. Fu*, “4D Spectral-Scanning FMCW LiDAR System for 360-degree Detection”, IEEE Journal of Lightwave Technology, Vol. 43, No. 2, pp. 522–529, 2025.
 
-[J6] Bohua Deng, Chen Chen, Haoyu Huang, Yibin Li, Yuru Tang, Zixian Wei, Yang Luo, Min Liu, Harald Haas, and H. Y. Fu,"Three-Dimensional Transmission Based UOWC in Complex Underwater Environments," Journal of Lightwave Technology, 2024.
+[J6] Bohua Deng, Chen Chen*, Haoyu Huang, Yibin Li, YuruTang, Zixian Wei, Yang Luo, Min Liu, Harald Haas, H. Y. Fu*, “Three-Dimensional Transmission Based UOWC in Complex Underwater Environments”, IEEE Journal of Lightwave Technology, Vol. 42, No. 24, pp. 8748–8759, 2024.
 
-[J7] Y. Han, Z. Zang, L. Wu, Y. Hao, Q. Zhu, C. Chang-Hasnain, and H. Fu,"Enhancing the Field-of-View of Spectral-Scanning FMCW LiDAR by Multipass Configuration with an Echelle Grating," Optics Letters, Vol.49, pp. 3267-3270, 2024.
+[J7] Yaqi Han, Zihan Zang, Lican Wu, Yi Hao, Qingyang Zhu, Connie Chang-Hasnain, and H. Y. Fu*, “Enhancing the field-of-view of spectral-scanning FMCW LiDAR by multipass configuration with an echelle grating”, Optics Letter, Vol. 49, No. 11, p. 3267, 2024.
 
-[J8] Zhaoming Wang, Yu Gao, Yibin Li, Hao Yan, Feiyu Kang, Yang Shen, Xiao-Ping Zhang, Guodan Wei, and Hongyan Fu,"High Speed Dual-Band Photodetector for Dual-Channel Optical Communications in Wavelength Division Multiplexing and Security Enhancement," Advanced Functional Materials, Vol. 34, 2024.
+[J8] Zhaoming Wang, Yu Gao, Yibin Li, Hao Yan, Feiyu Kang, Yang Shen, Xiao-Ping Zhang, Guodan Wei* and H. Y. Fu*, “High Speed Dual‐Band Photodetector for Dual‐Channel Optical Communications in Wavelength Division Multiplexing and Security Enhancement”, Advanced Functional Materials, Vol. 34, No. 17, p. 2310911, 2024.
 
-[J9] Zeyad AH Qasem, Amjad Ali, Bohua Deng, Qian Li, and H.Y. Fu*,“Index modulation-based efficient technique for underwater wireless optical communications,” Optics& Laser Technology, Vol. 167, p.109683, 2023.
+[J9] Zeyad AH Qasem, Amjad Ali, Bohua Deng, Qian Li, and H. Y. Fu*, “Index modulation-based efficient technique for underwater wireless optical communications,” Optics & Laser Technology, Vol. 167, p.109683, 2023.
 
-[J10] Caiyue Zhao, Lirong Cheng, Houyu Chen, Simei Mao, Yinghui Wang, Qian Li, and H. Y. Fu*,“Compact dual-mode waveguide crossing based on adjoint shape optimization,” Optics Letters, Vol. 48, No. 15, pp.3873-3876,2023.
+[J10] Caiyue Zhao, Lirong Cheng, Houyu Chen, Simei Mao, Yinghui Wang, Qian Li, and H. Y. Fu*, “Compact dual-mode waveguide crossing based on adjoint shape optimization,” Optics Letters, Vol. 48, No. 15, pp.3873-3876, 2023.
 
 [J11] Chenxingyu Huang, Siwei Peng, Xuanyi Liu, Jiaye Wu, Hongyan Fu, Lei Lu, Shengdong Zhang, Qian Li*,“Manufacturing-Enabled Tunability of Linear and Nonlinear Epsilon-Near-Zero Properties in Indium Tin Oxide Nanofilms,” ACS Applied Materials& Interfaces, Vol. 15, No. 29, pp.35186-35195, 2023.
 
