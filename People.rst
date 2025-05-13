@@ -435,7 +435,7 @@ Visiting Scholars
  <tr>
         <td><IMG src="_static/Hassnain.jpg" width="50px"></td>
         <td>Syed Agha Hassnain Mohsan (PhD, Zhejiang U.)<br>Postdoc<br>2024-</td>
-        <td>Solid Engergy</td>
+        <td>Non-Orthogonal Multiple Access (NOMA), Reconfigurable intelligent surface (RIS)</td>
         <td>-</th>
     </tr>
  <tr>
