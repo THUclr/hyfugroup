@@ -432,6 +432,18 @@ Visiting Scholars
         <td>Solid Engergy</td>
         <td>-</th>
     </tr>
+ <tr>
+        <td><IMG src="_static/Hassnain.jpg" width="50px"></td>
+        <td>Syed Agha Hassnain Mohsan (PhD, Zhejiang U.)<br>Postdoc<br>2024-</td>
+        <td>Solid Engergy</td>
+        <td>-</th>
+    </tr>
+ <tr>
+        <td><IMG src="_static/wangmin.jpg" width="50px"></td>
+        <td>Min Wang (PhD, Harbin Institute of Technology)<br>Postdoc<br>2024-</td>
+        <td>​​Cation vacancy engineering​</td>
+        <td>-</th>
+    </tr>
     </table>
     <br>
     <br>
