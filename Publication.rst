@@ -82,25 +82,25 @@ Selected Journal Papers
 
 [J20] Xuanyi Liu, Feng Ye, Minghe Zhao, Boris A Malomed, H. Y. Fu*, Qian Li, “All-polarization-maintaining linear cavity fiber lasers mode-locked by nonlinear polarization evolution in stretched pulse regime,” IEEE Journal of Lightwave Technology, Vol. 41, No. 15, pp.5107-5115, 2023.
 
-[J21] Chengcheng Wu, Min Wang, Kai-Ning Tong, Meng Zhang, Wansi Li, Zhuhua Xu, Wei-Long Zhang, Yuan Wu, Chen Yang, Hong-Yan Fu, Season Si Chen, Maggie Ng, Man-Chung Tang, and Guodan Wei*,“Blue Iridium(III) Phosphorescent OLEDs with High Brightness Over 10 000 cd m⁻² and Ultralow Efficiency Roll-Off," Advanced Optical Materials, Vol.11, No.1, p.2201998, 2023.
+[J21] Chengcheng Wu, Min Wang, Kai-Ning Tong, Meng Zhang, Wansi Li, Zhuhua Xu, Wei-Long Zhang, Yuan Wu, Chen Yang, Hong-Yan Fu, Season Si Chen, Maggie Ng, Man-Chung Tang, and Guodan Wei*, “Blue Iridium (III) Phosphorescent OLEDs with High Brightness Over 10 000 cd m−2 and Ultralow Efficiency Roll‐Off,” Advanced Optical Materials, Vol. 11, No. 1, p.2201998, 2023.
 
-[J22] Wenzhan Xu, Yu Gao, Miao He, Shuyan Chen, Hongyan Fu, Guodan Wei*,“Functional Polymer Passivating FA₀.₈₅PEA₀.₁₅SnI₃ for Efficient and Stable Lead-free Perovskite Solar Cells,” Nano Research, Vol.16, No.1, pp.481-488, 2023.
+[J22] Wenzhan Xu, Yu Gao, Miao He, Shuyan Chen, Hongyan Fu, Guodan Wei*, “Functional Polymer Passivating FA0.85PEA0.15SnI3 for Efficient and Stable Lead-free Perovskite Solar Cells,” Nano Research, Vol.16, No.1, pp.481-488, 2023.
 
-[J23] Yuan Zhang, Zixian Wei, Zhongxu Liu, Chen Cheng, Zhaoming Wang, Xinke Tang, Yanfu Yang, Changyuan Yu, and H. Y. Fu,"Optical Communication and Positioning Convergence for Flexible Underwater Wireless Sensor Network," Journal of Lightwave Technology, pp. 1-7, 2023.
+[J23] Yuan Zhang, Zixian Wei, Zhongxu Liu, Chen Cheng, Zhaoming Wang, Xinke Tang, Yanfu Yang, Changyuan Yu, H. Y. Fu*, “Optical Communication and Positioning Convergence for Flexible Underwater Wireless Sensor Network,” IEEE Journal of Lightwave Technology, Vol. 41, No. 16, pp.5321-5327, 2023.
 
-[J24] Bohua Deng, Jiwei Wang, Zhaoming Wang, Zeyad Qasem, Qian Li, Xinke Tang, Chen Chen, and H. Y. Fu,"Polarization Multiplexing Based UOWC Systems Under Bubble Turbulence," Journal of Lightwave Technology, 2023.
+[J24] Bohua Deng, Jiwei Wang, Zhaoming Wang, Zeyad AH Qasem, Qian Li, Xinke Tang, Chen Chen, H. Y. Fu*, “Polarization Multiplexing Based UOWC Systems Under Bubble Turbulence,” IEEE Journal of Lightwave Technology, Vol. 41, No. 17, pp.5588-5598, 2023.
 
-[J25] Zeyad Qasem, Amjad Amjad, Bohua Deng, Qian Li, and H. Y. Fu,"Spectral and Energy Efficient Pilot-Assisted PAPR Reduction Technique for Underwater Wireless Optical Communication Systems," Journal of Lightwave Technology, pp. 1-10, 2023.
+[J25] Zeyad A. H. Qasem, Amjad Ali, Bohua Deng, Qian Li*, H. Y. Fu*, “Spectral and Energy Efficient Pilot-Assisted PAPR Reduction Technique for Underwater Wireless Optical Communication Systems”, IEEE Journal of Lightwave Technology, Vol. 42, No. 2, pp. 841–852, 2024.
 
-[J26] Yibin Li, Zixian Wei, Bohua Deng, Zhongxu Liu, Changyuan Yu, and H. Y. Fu,"Adaptive Decision Threshold for an Optical Multipath-Interference-Impaired Short-Reach 50-Gbps PAM4 Transmission," Optics Letters, Vol. 48, pp. 5675-5678, 2023.
+[J26] Yibin Li, Zixian Wei, Bohua Deng, Zhongxu Liu, Changyuan Yu, and H. Y. Fu*, “Adaptive decision threshold for an optical multipath-interference-impaired short-reach 50-Gbps PAM4 transmission”, Optics Letter, Vol. 48, No. 21, p. 5675, 2023.
 
-[J27] H. Y. Fu* and Qian Li*,“Light arrays measure up on a chip the size of a fingertip," Nature 603(7900), pp. 232-233, 2022.
+[J27] H. Y. Fu* and Qian Li*, “Light arrays measure up on a chip the size of a fingertip,” Nature 603(7900), pp. 232-233, 2022.
 
-[J28] Jiaye Wu+, Xuanyi Liu+, Boris A. Malomed, Kuan-Chang Chang, Minghe Zhao, Kang Qi, Yanhua Sha, Ze Tao Xie, Marco Clementi, Camille-Sophie Bres, Shengdong Zhang, Hongyan Fu* and Qian Li*,“Observation of SQUID-Like Behavior in Fiber Laser with Intra-Cavity Epsilon-Near-Zero Effect," Laser& Photonics Reviews, Vol.16, No. 12, p.2200487, 2022.
+[J28] Jiaye Wu+, Xuanyi Liu+, Boris A. Malomed, Kuan-Chang Chang, Minghe Zhao, Kang Qi, Yanhua Sha, Ze Tao Xie, Marco Clementi, Camille-Sophie Bres, Shengdong Zhang, Hongyan Fu* and Qian Li*, “Observation of SQUID‐Like Behavior in Fiber Laser with Intra-Cavity Epsilon-Near-Zero Effect,” Laser & Photonics Reviews, Vol.16, No. 12, p.2200487, 2022.
 
-[J29] Zixian Wei, Lei Wang, Zhongxu Liu, Chao Zhang, Chien-Ju Chen, Meng-Chyi Wu, Yanfu Yang, Changyuan Yu, Lai Wang, and H. Y. Fu*,“Multigigabit Visible Light Communication Based on High-Bandwidth InGaN Quantum Dot Green Micro-LED,” ACS Photonics, Vol.9, No.7 pp.2354-2366,2022.
+[J29] Zixian Wei, Lei Wang, Zhongxu Liu, Chao Zhang, Chien-Ju Chen, Meng-Chyi Wu, Yanfu Yang, Changyuan Yu, Lai Wang, and H. Y. Fu*, “Multigigabit Visible Light Communication Based on High-Bandwidth InGaN Quantum Dot Green Micro-LED,” ACS Photonics, Vol.9, No.7 pp.2354-2366, 2022.
 
-[J30] Zixian Wei, Lei Wang, Zhenhao Li, Chien-Ju Chen, Meng-Chyi Wu, Lai Wang, and H. Y. Fu*,“Micro-LEDs Illuminate Visible Light Communication,” IEEE Communications Magazine, Vol.61, No.4, pp.108-114, 2022.
+[J30] Zixian Wei, Lei Wang, Zhenhao Li, Chien-Ju Chen, Meng-Chyi Wu, Lai Wang, and H. Y. Fu*, “Micro-LEDs Illuminate Visible Light Communication,” IEEE Communications Magazine, Vol.61, No.4, pp.108-114, 2022.
 
 [J31] Simei Mao, Lirong Cheng, Houyu Chen, Xuanyi Liu, Zihan Geng, Qian Li, Hongyan Fu*,“Multi-task topology optimization of photonic devices in low-dimensional Fourier domain via deep learning,” Nanophotonics, Vol.12, No. 5, pp.1007-1018, 2022.
 
