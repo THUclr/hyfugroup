@@ -9,7 +9,7 @@ Reports
 14.【科研速报】付红岩课题组荣获Conference on Lasers and Electro-Optics (CLEO) 会议官方差旅资助 Prof. Hongyan Fu's Group Member Awarded Official CLEO Travel Grant, CLEO2025, 2025/05/07
     https://www.optica.org/foundation/opportunities/scholarships/incubic_milton_travel_grant_cleo/
 
-13.【科研速报】付红岩课题组荣获Conference on Lasers and Electro-Optics (CLEO) 会议最佳海报奖 Prof. Hongyan Fu's Group Member Wins CLEO Best Poster Award, CLEO2025, 2025/05/07
+13.【科研速报】付红岩课题组荣获Conference on Lasers and Electro-Optics (CLEO) 会议最佳海报奖 Prof. Hongyan Fu's Group Member Wins CLEO Best Student Poster Award, CLEO2025, 2025/05/07
     https://engage.aps.org/dls/resources/newsletters/spring-2025#Posters
 
 12. 课题组受邀在《自然·电子学》发表量子点器件专家述评​​ Hongyan Fu’s team contributed an Expert Opinion commentary on quantum-dot photonic devices for VLC and LiDAR applications in Nature Electronics, 2025/03/13
