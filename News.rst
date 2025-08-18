@@ -4,11 +4,14 @@ News
 Reports
 ~~~~~~~~~~
 
-16. 付红岩课题组荣获第二十届中国研究生电子设计竞赛全国总决赛二等奖 Hongyan Fu's Group Member Won the Second Prize of the National Finals of the 20th China Graduate Electronics Design Contest, 2025/08/18
-    https://cpipc.acge.org.cn/cw/preview/6/2c90801a989e3d330198b2cf8b35247a
+
+    
 
 15.【科研速报】付红岩课题组荣获SPIE学生奖学金 Prof. Hongyan Fu's Group Member Receives SPIE Student Scholarship, SPIE, 2025/05/28
     https://spie.org/news/spie-announces-323000-in-student-scholarships
+
+16. 付红岩课题组荣获第二十届中国研究生电子设计竞赛全国总决赛二等奖 Hongyan Fu's Group Member Won the Second Prize of the National Finals of the 20th China Graduate Electronics Design Contest, 2025/08/18
+    https://cpipc.acge.org.cn/cw/preview/6/2c90801a989e3d330198b2cf8b35247a
 
 14.【科研速报】付红岩课题组荣获Conference on Lasers and Electro-Optics (CLEO) 会议官方差旅资助 Prof. Hongyan Fu's Group Member Awarded Official CLEO Travel Grant, CLEO2025, 2025/05/07
     https://www.optica.org/foundation/opportunities/scholarships/incubic_milton_travel_grant_cleo/
