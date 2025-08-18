@@ -5,7 +5,7 @@ Reports
 ~~~~~~~~~~
 
 
-16. 付红岩课题组荣获第二十届中国研究生电子设计竞赛全国总决赛二等奖 Hongyan Fu's Group Member Won the Second Prize of the National Finals of the 20th China Graduate Electronics Design Contest, 2025/08/18    
+16.【科研速报】付红岩课题组荣获第二十届中国研究生电子设计竞赛全国总决赛二等奖 Hongyan Fu's Group Member Won the Second Prize of the National Finals of the 20th China Graduate Electronics Design Contest, 2025/08/18    
     http://cpipc.acge.org.cn/cw/preview/6/2c90801a989e3d330198b2cf8b35247a
 
 15.【科研速报】付红岩课题组荣获SPIE学生奖学金 Prof. Hongyan Fu's Group Member Receives SPIE Student Scholarship, SPIE, 2025/05/28
