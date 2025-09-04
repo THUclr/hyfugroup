@@ -29,7 +29,7 @@ Our vision: Enabling people's future life with advanced optical technologies.
     
     
     
-See off the 2024 members of the research group, 2024/10
+Laboratory Group Photo, 2024/10
 
 .. raw:: html
     
