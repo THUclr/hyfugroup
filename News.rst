@@ -10,7 +10,7 @@ Reports
 
 .. raw:: html
 
-    <IMG src="_static/电设整合图.png" width =500>
+    <IMG src="_static/电设整合图.png" width =700>
 
 15.【科研速报】付红岩课题组荣获SPIE学生奖学金 Prof. Hongyan Fu's Group Member Receives SPIE Student Scholarship, SPIE, 2025/05/28
     https://spie.org/news/spie-announces-323000-in-student-scholarships
