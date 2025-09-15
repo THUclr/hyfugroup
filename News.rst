@@ -24,7 +24,7 @@ Reports
 
 .. raw:: html
 
-    <IMG src="_static/CLEO差旅资助整合.png" width =700>
+    <IMG src="_static/CLEO差旅资助整合.png" width =500>
 
 13.【科研速报】付红岩课题组荣获Conference on Lasers and Electro-Optics (CLEO) 会议最佳海报奖 Prof. Hongyan Fu's Group Member Wins CLEO Best Student Poster Award, CLEO2025, 2025/05/07
     https://engage.aps.org/dls/resources/newsletters/spring-2025#Posters
