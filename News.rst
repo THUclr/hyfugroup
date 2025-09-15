@@ -15,8 +15,16 @@ Reports
 15.【科研速报】付红岩课题组荣获SPIE学生奖学金 Prof. Hongyan Fu's Group Member Receives SPIE Student Scholarship, SPIE, 2025/05/28
     https://spie.org/news/spie-announces-323000-in-student-scholarships
 
+.. raw:: html
+
+    <IMG src="_static/SPIE奖学金整合.png" width =700>
+
 14.【科研速报】付红岩课题组荣获Conference on Lasers and Electro-Optics (CLEO) 会议官方差旅资助 Prof. Hongyan Fu's Group Member Awarded Official CLEO Travel Grant, CLEO2025, 2025/05/07
     https://www.optica.org/foundation/opportunities/scholarships/incubic_milton_travel_grant_cleo/
+
+.. raw:: html
+
+    <IMG src="_static/CLEO差旅资助整合.png" width =700>
 
 13.【科研速报】付红岩课题组荣获Conference on Lasers and Electro-Optics (CLEO) 会议最佳海报奖 Prof. Hongyan Fu's Group Member Wins CLEO Best Student Poster Award, CLEO2025, 2025/05/07
     https://engage.aps.org/dls/resources/newsletters/spring-2025#Posters
