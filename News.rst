@@ -24,7 +24,7 @@ Reports
 
 .. raw:: html
 
-    <IMG src="_static/CLEO差旅资助整合.png" width =500>
+    <IMG src="_static/CLEO差旅资助整合.png" width =300>
 
 13.【科研速报】付红岩课题组荣获Conference on Lasers and Electro-Optics (CLEO) 会议最佳海报奖 Prof. Hongyan Fu's Group Member Wins CLEO Best Student Poster Award, CLEO2025, 2025/05/07
     https://engage.aps.org/dls/resources/newsletters/spring-2025#Posters
@@ -34,6 +34,10 @@ Reports
 
 11. 课题组于《Light》期刊（Nature Partner Journals系列）评述芯片级高相干二次谐波技术 HongyanFu's team published a News & Views commentary in Light: Science & Applications reviewing chip-scale highly-coherent second-harmonic generation technology, 2024/01/17
         https://www.nature.com/articles/s41377-023-01359-0
+
+.. raw:: html
+
+    <IMG src="_static/light评述.jpg" width =500>
 
 10. 课题组在大规模多任务纳米光子集成器件的逆向设计上取得新进展 Hongyan Fu’s team has made new progress in the reverse design of large-scale multi-task nanophotonics integrated devices, 2023/03/13
         http://www.tbsi.edu.cn/2023/0308/c3694a59808/page.htm
