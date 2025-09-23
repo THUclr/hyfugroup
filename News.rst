@@ -4,6 +4,12 @@ News
 Reports
 ~~~~~~~~~~
 
+17.课题组付红岩教授入选全球前2%顶尖科学家“终身影响力”与“年度影响力”榜单 Prof. Fu Hongyan Named to World's Top 2% Scientists Lists for “Lifetime & Annual Impact”, 2025/09/19    
+    https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8
+
+.. raw:: html
+
+    <IMG src="_static/电设整合图.png" width =700>
 
 16.付红岩课题组荣获第二十届中国研究生电子设计竞赛全国总决赛二等奖 Hongyan Fu's Group Member Won the Second Prize of the National Finals of the 20th China Graduate Electronics Design Contest, 2025/08/18    
     http://cpipc.acge.org.cn/cw/preview/6/2c90801a989e3d330198b2cf8b35247a
