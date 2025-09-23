@@ -9,7 +9,7 @@ Reports
 
 .. raw:: html
 
-    <IMG src="_static/电设整合图.png" width =700>
+    <IMG src="_static/科学家榜单整合.jpg" width =700>
 
 16.付红岩课题组荣获第二十届中国研究生电子设计竞赛全国总决赛二等奖 Hongyan Fu's Group Member Won the Second Prize of the National Finals of the 20th China Graduate Electronics Design Contest, 2025/08/18    
     http://cpipc.acge.org.cn/cw/preview/6/2c90801a989e3d330198b2cf8b35247a
