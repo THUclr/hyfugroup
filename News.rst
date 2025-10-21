@@ -5,8 +5,7 @@ Reports
 ~~~~~~~~~~
 
 
-18.东京大学Maolin Dai博士来访并作学术报告“高重频超快光纤激光器:挑战与研究进展” Dr. Maolin Dai from the University of Tokyo Visited and Gave an Academic Talk on "Compact high-repetition-rate ultrafast fiber lasers: Challenges and progress", 2025/10/24    
-
+18.课题组校友、东京大学JSPS研究员戴茂林博士来访并作学术报告“高重频超快光纤激光器:挑战与研究进展” Group Alumnus Dr. Maolin Dai, JSPS Research Fellow from the University of Tokyo, Visited and Gave an Academic Talk on "Compact high-repetition-rate ultrafra st fiber lasers: Challenges and progress", 2025/10/24    
 .. raw:: html
 
     <IMG src="_static/StudentChapterReport_MaolinDai_re.png" width =700>
