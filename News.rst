@@ -4,6 +4,13 @@ News
 Reports
 ~~~~~~~~~~
 
+
+18.东京大学Maolin Dai博士来访并作学术报告“高重频超快光纤激光器:挑战与研究进展” Dr. Maolin Dai from the University of Tokyo Visited and Gave an Academic Talk on "Compact high-repetition-rate ultrafast fiber lasers: Challenges and progress", 2025/10/24    
+
+.. raw:: html
+
+    <IMG src="_static/StudentChapterReport_MaolinDai_re.png" width =700>
+
 17.课题组付红岩教授入选全球前2%顶尖科学家“终身影响力”与“年度影响力”榜单 Prof. Fu Hongyan Named to World's Top 2% Scientists Lists for “Lifetime & Annual Impact”, 2025/09/19    
     https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8
 
